@@ -11,6 +11,30 @@
 
 Kimse fikri reddetmedi, ama kimse olduğu haliyle de fonlamıyor. Bu puan "fikir kötü" değil, "fikir henüz bir iş değil, sadece bir ürün" demek.
 
+## Güncelleme — kiralama birimi: hasta başı 50 € + KDV
+Kurucu, kiralamanın **hasta başı** olduğunu netleştirdi. Bu, kurulun iki senaryosundan (günlük/aylık) farklı, üçüncü bir model: **kullandıkça öde.** Üyelerin puanları bilinmeyen birime göre verildi; aşağıdaki not başkanın, yalnızca verilen fiyatlarla yaptığı değerlendirmedir.
+
+**Ne değişti (lehte):**
+- 4.950 € / 50 € = **99 hasta**. Ayda 99'dan fazla tarama yapan bir klinik için satın almak daha ucuz hale gelir. Yani yoğun klinik doğal olarak satışa döner, az tarama yapan klinik kirada kalır. Bu, kurulun "kiralama satışın önündeki deneme kapısıdır" önerisiyle örtüşüyor ve aylık senaryodaki "kiralama satışı yer" riskini büyük ölçüde ortadan kaldırıyor.
+- Hekim için risk çok düşük: hastası yoksa ödemiyor. Offers lensinin değer denklemindeki "çaba ve fedakârlık" kısmı küçülüyor.
+- Fiyat hekimin kendi hasta ücretine bağlanabildiği için satılması kolay bir cümle: "Taramayı hastaya yansıtın, cihaz parası ödemeyin."
+
+**Ne yeni risk getirdi:**
+1. **Kullanım nasıl ölçülecek?** Cihaz klinikte kalıyorsa, hasta sayısı hekimin beyanına mı, cihaz/yazılım kayıtlarına mı dayanacak? Launca yazılımının tarama sayısını size raporlayıp raporlamadığı bilinmiyor. Ölçülemeyen kullanım eksik beyan ve tahsilat sorunu demek.
+2. **Cihaz klinikte boşta kalırsa geliriniz sıfır.** Gelir, kliniğin hasta sayısına bağlı; cihaz başına aylık asgari kullanım olmadan nakit akışı öngörülemez. Asgari aylık hasta sayısı veya sabit taban ücret gerekip gerekmediği `/founder-cfo` ile hesaplanmalı.
+3. **Cihaz randevu başına getiriliyorsa** iş, hasta başı bir teknisyen/ulaşım operasyonuna döner ve 50 €'nun ne kadarının bu maliyete gideceği bilinmiyor (`/founder-ops`, `/founder-cfo`).
+4. **Hijyen ve sarf:** Hasta başı kullanımda tarayıcı uçlarının sterilizasyonu ya da tek kullanımlık sarf maliyetinin kimde olduğu tanımlanmalı.
+
+**Kontrol listesine eklenenler:**
+- [x] Kiralama birimi netleşti: hasta başı.
+- [ ] Cihazın klinikte mi kalacağı, randevu başına mı getirileceği seçilecek.
+- [ ] Hasta sayısının nasıl ölçüleceği ve faturalanacağı yazılacak (yazılım kaydı, beyan, denetim hakkı).
+- [ ] Cihaz başına asgari aylık kullanım veya taban ücret gerekip gerekmediği hesaplanacak. → `/founder-cfo`
+- [ ] Kiradan satışa geçiş kuralı yazılacak (ör. ödenen hasta ücretlerinin bir kısmının satış fiyatından düşülmesi). → `/founder-offer`
+- [ ] Uç sterilizasyonu / sarf maliyetinin sorumlusu belirlenecek. → `/founder-ops`
+
+**Başkanın görüşü:** Hasta başı model, kurulun ortak bulduğu en büyük riski (kiralama birimi) olumlu yönde çözüyor; ortalama puanın yeniden oylamada yükselmesi beklenir. Ama işin kaderi artık "kullanımı güvenilir şekilde ölçüp tahsil edebilmek" ve "Launca yetkisi" sorularına bağlı.
+
 ## 2. Birden fazla üyenin çıkardığı riskler (önce bunlar)
 1. **Kiralama biriminin belirsizliği (3/3 üye).** 4.950 € / 50 € = 99 birim.
    - *Günlük ise:* Cihaz 99 kiralama gününde (kesintisiz kiralanırsa ~3,3 ay) satış fiyatını geri getirir. Model çalışabilir, ama iş her gün tekrarlanan bir lojistik, temizlik, kalibrasyon ve hasar operasyonuna döner. Doluluk oranı bilinmiyor.

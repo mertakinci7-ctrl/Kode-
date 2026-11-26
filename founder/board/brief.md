@@ -12,7 +12,7 @@ Bu brifing tek başına okunacak şekilde yazılmıştır. Kurucunun söyledikle
 Fikrin puanlanması, işi batırabilecek risklerin çıkarılması ve "şu şartla fonlarım" koşulları. Tüm çıktı Türkçe olacak.
 
 ## Bilinmeyenler (uydurmayın; açık soru olarak ele alın)
-1. Kiralama fiyatının birimi belirtilmedi (günlük / haftalık / aylık). İki ihtimal de işin ekonomisini tamamen değiştirir; gerekirse her iki senaryoyu ayrı değerlendirin.
+1. GÜNCELLEME: Kiralama hasta başı 50 € + KDV. Cihazın klinikte kalıp kalmadığı ve hasta sayısının nasıl ölçüleceği belirtilmedi.
 2. Konum: Bütçe TL olduğu için Türkiye varsayılıyor; şehir belirtilmedi.
 3. Kurucunun Launca ile ilişkisi (yetkili distribütör, alt bayi, ithalatçı veya ikinci el satıcı) belirtilmedi.
 4. Ekip, teknik servis/eğitim kabiliyeti, kaç cihazla başlanacağı belirtilmedi.
