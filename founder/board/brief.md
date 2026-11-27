@@ -39,10 +39,10 @@ Kuruluş bütçesi 750.000 TL.
 - Kalan en büyük itirazlar: laboratuvar dosyayı kabul eder mi (72 kişi), taksit yok (34), meslektaş referansı yok, kiralamada sayıma güven (o panelde kiralama "cihaz klinikte kalır" diye yanlış anlatılmıştı; düzeltildi).
 
 ## Tedarik ve servis (girişimci teyit etti, kurul toplantısından sonra)
-- Toplam maliyet 2.700 (nakliye ve gümrük dahil; € mi $ mı teyit edilecek). Girişimci Launca distribütörü, münhasır anlaşma yok.
+- Toplam maliyet 2.700 € (nakliye ve gümrük dahil). Girişimci Launca distribütörü, münhasır anlaşma yok.
 - Servisi girişimci veriyor; büyük arızada Launca doğrudan yeni cihaz gönderiyor.
 - Taksit şu an mümkün değil.
-- Girişimci stokta yedek cihaz tutuyor; arızada 5 gün içinde Türkiye'nin her yerine gönderiyor.
+- Girişimci stokta yedek cihaz tutuyor; arızada Ankara ve İstanbul'a 1–2 gün, Türkiye'nin geri kalanına 5 gün içinde gönderiyor.
 
 ## Bilinmeyenler (girişimci belirtmedi)
 - İşin adı, ekip, girişimcinin sektör deneyimi.
