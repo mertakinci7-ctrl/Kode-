@@ -1,0 +1,13 @@
+{
+  "id": "P071",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Laboratuvar dijital dosya istiyor, tarayıcı almam lazım ama bu hafta tek bir teklife bakıp 4.950 € vermem; Launca'yı tanımıyorum, Medit, Shining ve ikinci el ilanlarla karşılaştırmadan karar vermem. Kiralama ise hasta başı 50 € ile birkaç ayda cihaz parasını geçer, o hiç olmaz.",
+  "objection": "Çinli, adını pek duymadığım bir marka: Türkiye'de servisi, yedek parçası, garantisi kimde, cihaz bozulursa kaç gün tarayıcısız kalırım? Kiralamada da hasta başı sayımı kim yapacak, neye göre faturalanacak belli değil.",
+  "would_change_my_mind": "Ankara'da kliniğimde birkaç gün ücretsiz deneme, yazılı en az 2 yıl yerel servis ve garanti, ve rakiplerin (Medit i700, Shining) teklifinden net daha ucuz kalan bir fiyat.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3800,
+  "price_expensive": 5500,
+  "price_too_expensive": 7500
+}

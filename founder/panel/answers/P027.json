@@ -1,0 +1,13 @@
+{
+  "id": "P027",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ayda birkaç plak vakası için tarayıcı mantıklı ama Türkiye'de servisi, yedek cihazı, yazılımın laboratuvarlarla uyumu belli olmayan Çinli bir markaya 4.950 € peşin vermem; kiralamada da hasta başı sayımı kimin, nasıl yaptığını bilmeden imza atmam.",
+  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak? Cihaz bozulursa Ankara'da kim bakacak, kaç günde yedek gelir? Bir de satın almada taksit yok, ben depodan vade farksız taksitle alırım.",
+  "would_change_my_mind": "Depo üzerinden 12 ay vade farksız taksit ve Ankara'da yerel teknik servis ile yedek cihaz garantisi; kiralamada ise sayımı benim de görebildiğim, cihazın kendi tarama kaydından çıkan şeffaf bir aylık döküm.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 6000,
+  "price_too_expensive": 8000
+}

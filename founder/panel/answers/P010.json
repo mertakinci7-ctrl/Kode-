@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "4.950 € + KDV bilinmeyen bir Çin markası için az para değil; aynı paraya ikinci el bir Medit bulurum ya da depodan taksitle bilinen bir marka alırım. Hasta başı 50 € kiralama ise birkaç ayda cihazın fiyatını geçer, hiç mantıklı değil.",
+  "objection": "Launca'yı tanımıyorum; Türkiye'de servisi, yedek parçası, yazılım güncellemesi ve laboratuvarlarla uyumu ne olacak belli değil. Bozulursa kime gideceğim?",
+  "would_change_my_mind": "Fuarda ya da klinikte birkaç gün ücretsiz deneyip, Türkiye'de yerel servis garantisi ve taksit imkânıyla 4.000 €'nun altına inmesi.",
+  "price_too_cheap": 1800,
+  "price_cheap": 3200,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
+}

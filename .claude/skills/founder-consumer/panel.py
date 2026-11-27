@@ -88,10 +88,11 @@ def deal(customer, n=100, seed=7):
         behs += [b] * k
     rng.shuffle(segs)
     rng.shuffle(behs)
-    names = FIRST_NAMES[:]
+    names = list(customer.get("names") or FIRST_NAMES)
+    base = names[:]
     rng.shuffle(names)
     while len(names) < n:
-        names += ["%s %d" % (x, len(names) // len(FIRST_NAMES) + 1) for x in FIRST_NAMES]
+        names += ["%s %d" % (x, len(names) // len(base) + 1) for x in base]
     objections = customer["objections"]
     habits = customer.get("habits") or []
     cards = []
@@ -172,7 +173,7 @@ You are one of these people: {target}.
 === END ===
 
 Decide as {name} would, with {name}'s money, habits and doubts, in a normal week. Do not be agreeable. Do not invent facts about the business beyond what is written above.
-
+{brief_note}
 Create the file {out} with your file-writing tool (do not just print the answer in your reply) containing ONLY this JSON, no markdown fence, nothing else:
 {{
   "id": "{id}",
@@ -200,7 +201,9 @@ def write_briefs(d, wave=WAVE):
             continue
         brief = BRIEF.format(pitch=state["pitch"], target=target, out=os.path.abspath(out),
                              habit_line=("Your day: %s.\n" % c["habit"]) if c.get("habit") else "",
-                             reasons=" / ".join(REASONS), **c)
+                             reasons=" / ".join(REASONS),
+                             brief_note=(state["customer"].get("brief_note", "") + "\n") if state["customer"].get("brief_note") else "",
+                             **c)
         bp = _path(d, "briefs", c["id"] + ".md")
         with open(bp, "w", encoding="utf-8") as fh:
             fh.write(brief)

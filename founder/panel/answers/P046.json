@@ -1,0 +1,13 @@
+{
+  "id": "P046",
+  "buys": true,
+  "purchases_first_month": 8,
+  "reason_code": "need",
+  "reason": "Laboratuvarım artık dijital dosya istiyor, bir tarayıcıya zaten ihtiyacım var. Ankara'daki kiralama seçeneği peşin para bağlamadan kendi hastalarımda denememe izin veriyor; satın almadan önce tam istediğim şey bu, ama önce laboratuvara sorup birkaç hastada denerim.",
+  "objection": "Laboratuvarım bu tarayıcının dosyasını sorunsuz kabul eder mi, emin değilim. Ayrıca Çinli bir marka; Türkiye'de servis ve yedek cihaz desteği ne olacak bilmiyorum. Hasta başı 50 € de uzun vadede pahalı, kalıcı kullanacaksam satın almak daha mantıklı.",
+  "would_change_my_mind": "Laboratuvarımın bu cihazın dosyalarını sorunsuz aldığını yazılı olarak teyit etmesi ve Ankara'da hızlı teknik servis garantisi; bunlar olursa kiralamadan satın almaya geçerim, olmazsa hiç başlamam.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3500,
+  "price_expensive": 6000,
+  "price_too_expensive": 9000
+}

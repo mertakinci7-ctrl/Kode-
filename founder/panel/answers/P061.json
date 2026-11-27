@@ -1,0 +1,13 @@
+{
+  "id": "P061",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Klasik ölçü yıllardır işimi görüyor, sadece bulantı refleksli birkaç hasta için KDV ile 6.000 €'yu bulan bir cihaza girmem. Kiralamada da hasta başı 50 € ölçü maliyetimi katlıyor, hastaya yansıtamam.",
+  "objection": "Taksit seçeneği hiç yazmıyor, aylık ne ödeyeceğimi bilmeden karar veremem; üstelik Çinli bir markanın Türkiye'de servisi, yedek parçası ve laboratuvarlarla uyumu belirsiz.",
+  "would_change_my_mind": "Depodan vade farksız 12 taksit, aylık 400-450 € civarı bir ödeme ve Ankara'da yerinde servis garantisi; bir de birkaç hafta ücretsiz deneme imkânı.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
+}

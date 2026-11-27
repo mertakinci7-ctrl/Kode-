@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Muayenehaneyi yeni açtım, 4.950 € artı KDV peşin benim için çok para, taksit de yazmıyor. Hasta başı 50 € kira da ölçü başına alçıdan çok pahalı; Çin malı bir cihaza bu kadar bağlanmam.",
+  "objection": "Bozulursa kim bakacak, Ankara'da servisi var mı, tamirdeyken yedek cihaz veriyorlar mı, hiçbiri yazmıyor. Meslektaş grubunda kimsenin kullandığını da duymadım.",
+  "would_change_my_mind": "Depodan vade farksız 12-18 ay taksit, Ankara'da yerinde servis ve arızada yedek cihaz garantisi, bir de gruptaki meslektaşlardan birinin memnun kaldığını duymak.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2500,
+  "price_expensive": 4000,
+  "price_too_expensive": 5500
+}

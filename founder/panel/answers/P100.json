@@ -1,0 +1,13 @@
+{
+  "id": "P100",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Laboratuvarım bu markayı önermedi; dosyalar sorunsuz gitmeyecekse ucuz olmasının bir anlamı yok. Kiralamada hasta başı 50 € de çok hastalı bir klinikte kısa sürede satın alma fiyatını geçer.",
+  "objection": "Launca'nın dosyaları benim çalıştığım laboratuvarın yazılımına sorunsuz gidiyor mu, bilgisayarım uyumlu mu, kurulumu, eğitimi ve arıza olunca servisi Ankara'da kim yapacak, hiç yazmıyor.",
+  "would_change_my_mind": "Laboratuvarımın bu tarayıcıdan gelen dosyalarla sorunsuz çalıştığını teyit etmesi ve Ankara'da yerinde kurulum, eğitim ve servis garantisi verilmesi.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 6000,
+  "price_too_expensive": 8500
+}

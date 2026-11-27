@@ -1,0 +1,234 @@
+{
+ "business": "Ağız İçi Tarayıcı Satış ve Kiralama (çalışma adı): Launca DL-300 Kablosuz tarayıcının satışı ve hasta başı kiralaması",
+ "seed": 393267,
+ "dealt": 100,
+ "answered": 100,
+ "skipped": [],
+ "buys": 1,
+ "passes": 99,
+ "buy_rate": 0.01,
+ "by_segment": [
+  [
+   "Çok hekimli poliklinik / klinik sahibi diş hekimi (yıllık geliri USD karşılığı)",
+   30,
+   0.03333333333333333
+  ],
+  [
+   "Yerleşik muayenehane sahibi diş hekimi (yıllık geliri USD karşılığı)",
+   40,
+   0.0
+  ],
+  [
+   "Yeni muayenehane açmış diş hekimi (yıllık geliri USD karşılığı)",
+   30,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Önce dener sonra alır",
+   12,
+   0.08333333333333333
+  ],
+  [
+   "Laboratuvarına bağlı",
+   15,
+   0.0
+  ],
+  [
+   "Meslektaş tavsiyesiyle alan",
+   13,
+   0.0
+  ],
+  [
+   "Fiyat avcısı",
+   15,
+   0.0
+  ],
+  [
+   "Klasik ölçüden memnun",
+   15,
+   0.0
+  ],
+  [
+   "Premium marka sadığı",
+   12,
+   0.0
+  ],
+  [
+   "Taksitle alan",
+   18,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$95,000 and up",
+   35,
+   0.02857142857142857
+  ],
+  [
+   "$43,000 to $95,000",
+   32,
+   0.0
+  ],
+  [
+   "under $43,000",
+   33,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   60,
+   [
+    "Laboratuvarım dijital dosya istemeye başladı ama hangi tarayıcıyı önerdiğini henüz bilmiyorum; adını ilk kez duyduğum bir Çin markasına 4.950 € + KDV bağlamadan önce laboratuvarın dosyayı sorunsuz alıp almadığını görmem lazım. Klasik ölçü şimdilik işimi görüyor, acelem yok.",
+    "Ayda birkaç vakam var, 4.950 €'yu tanımadığım bir Çin markasına şimdiden bağlamam. Kiralama mantıklı görünüyor ama servis ve yedek cihaz konusunda hiçbir şey yazmıyor, hasta koltuktayken cihaz bozulursa ne olacağını bilmeden işime sokmam."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "habit",
+   22,
+   [
+    "Klasik silikon ölçü zaten işimi görüyor, hastam da şikâyet etmiyor. Muayenehaneyi yeni açtım, kira ve asistan maaşı beni zorlarken yaklaşık 5.000 € + KDV'yi ihtiyaç duymadığım bir cihaza veremem; hasta başı 50 € kiralama da benim fiyatlarımda hastaya yansıtılamayacak kadar pahalı.",
+    "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, laboratuvarım da buna alışık; yeni açtığım muayenehanede 5 bin euroyu ihtiyaç duymadığım bir cihaza bağlamam mantıklı değil. Kiralama da hasta başı 50 € ile benim ölçü maliyetimin çok üstünde kalıyor."
+   ],
+   [
+    "P005",
+    "P012"
+   ]
+  ],
+  [
+   "price",
+   17,
+   [
+    "4.950 € + KDV bilinmeyen bir Çin markası için az para değil; aynı paraya ikinci el bir Medit bulurum ya da depodan taksitle bilinen bir marka alırım. Hasta başı 50 € kiralama ise birkaç ayda cihazın fiyatını geçer, hiç mantıklı değil.",
+    "Muayenehaneyi yeni açtım, 4.950 € artı KDV şu an bütçemi çok zorlar; hasta başı 50 € kiralama da Türkiye'deki ölçü ücretlerine göre çok pahalı, hastaya yansıtamam. Kendi hastalarımda denemeden bu kadar parayı bağlamam."
+   ],
+   [
+    "P010",
+    "P016"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   1,
+   [
+    "Laboratuvarım artık dijital dosya istiyor, bir tarayıcıya zaten ihtiyacım var. Ankara'daki kiralama seçeneği peşin para bağlamadan kendi hastalarımda denememe izin veriyor; satın almadan önce tam istediğim şey bu, ama önce laboratuvara sorup birkaç hastada denerim."
+   ],
+   [
+    "P046"
+   ]
+  ]
+ ],
+ "flip": [
+  "Çalıştığım laboratuvarın bu cihazı açıkça önermesi ya da birkaç gerçek vakada dosyaları sorunsuz aldığını görmem, ideali ücretsiz deneme süresiyle.",
+  "Ankara'da yerel teknik servis ve arıza durumunda 48 saat içinde yedek cihaz taahhüdü yazılı olarak verilse, önce kiralamayla kendi hastalarımda deneyip memnun kalırsam satın almayı düşünürüm.",
+  "Ankara'da güvendiğim bir meslektaşın cihazı aylardır kullanıp memnun kaldığını söylemesi ve bir hafta kendi kliniğimde ücretsiz deneme imkânı.",
+  "Ankara'da yerel servis, yazılı en az iki yıl garanti ve arıza süresince ücretsiz yedek cihaz taahhüdü; üstüne fiyatın diğer tekliflerle karşılaştırınca gerçekten daha uygun çıkması.",
+  "Çalıştığım laboratuvarların dijital ölçüyü indirimli fiyatla kabul edip silikon ve alçı masrafımı somut olarak düşürdüğünü görmek ve cihazı birkaç hafta ücretsiz deneyebilmek.",
+  "Güvendiğim birkaç Ankaralı meslektaşın aylarca sorunsuz kullandığını söylemesi ve çalıştığım laboratuvarın taramaları sorunsuz kabul etmesi, artı kliniğimde ücretsiz deneme imkânı.",
+  "WhatsApp grubundaki birkaç meslektaşın bir yıldır sorunsuz kullandığını söylemesi, Ankara'da yerel servis ve yedek cihaz garantisi, üstüne fiyatın 3.500 € civarına inmesi.",
+  "Çalıştığım laboratuvarın bu tarayıcıdan gelen dosyalarla sorunsuz çalıştığını yazılı olarak teyit etmesi ve Ankara'da yerinde servis ile birkaç hafta ücretsiz deneme imkânı.",
+  "Depo üzerinden vade farksız 12 taksit, klinikte ücretsiz kurulum ve eğitim, Türkiye'de servis garantisi ve WhatsApp grubundan bir meslektaşın olumlu tavsiyesi.",
+  "Fuarda ya da klinikte birkaç gün ücretsiz deneyip, Türkiye'de yerel servis garantisi ve taksit imkânıyla 4.000 €'nun altına inmesi.",
+  "Çalıştığım laboratuvarın bu tarayıcıyı önermesi ve birkaç vakada dosyaların sorunsuz gittiğini görmem.",
+  "Fuarda ya da kliniğimde birkaç hafta ücretsiz deneyip laboratuvarımın dijital ölçüyle sorunsuz çalıştığını görmek, üstüne Ankara'da yerel servis garantisi ve hasta başı yerine sabit, düşük aylık kira.",
+  "Ankara'da yerel servis garantisi yazılı olarak verilse ve cihazı bir meslektaşımın muayenehanesinde ya da fuarda kendi hastamda deneyip ölçü kalitesini laboratuvarımla teyit edebilsem, bir de birkaç teklif içinde en iyi fiyat bu çıksa.",
+  "Çalıştığım laboratuvarın Launca'yı önermesi ve birkaç vakayı sorunsuz alıp işlediğini görmem; o olursa satın almayı ciddi düşünürüm.",
+  "Kurulum ve eğitimin dahil olduğu, birkaç hafta ücretsiz deneyebileceğim ve Türkiye'de servisi garanti edilen bir seçenek; ayrıca laboratuvarımın bu tarayıcının dosyalarını kabul ettiğini görmek.",
+  "Birkaç hafta ücretsiz deneme imkanı ve laboratuvarımın dosyaları sorunsuz aldığını kendi vakalarımda görmek; üstüne taksitli ödeme olursa satın almayı düşünürüm.",
+  "Cihazı birkaç hafta ücretsiz ya da bağlayıcı olmadan kendi kliniğimde, kendi hastalarımda ve kendi laboratuvarımla deneyip sonuçların klasik ölçü kadar iyi olduğunu görmem.",
+  "Ankara'da birkaç hafta ücretsiz deneyip kendi kron-köprü vakalarımda laboratuvarımla sorunsuz çalıştığını görmek, üstüne yerel servis garantisi ve faizsiz taksit.",
+  "Depodan vade farksız 12-18 ay taksit, Ankara'da yerinde servis ve arızada yedek cihaz garantisi, bir de gruptaki meslektaşlardan birinin memnun kaldığını duymak.",
+  "Çalıştığım laboratuvarın Launca dosyalarını sorunsuz aldığını yazılı olarak teyit etmesi ve önce birkaç vakayı denememe izin verilmesi.",
+  "İkinci el ya da depo kampanyasıyla 2.500 € civarına, taksitli ve yerel servis garantili bir teklif gelse, diğer tekliflerle karşılaştırıp düşünürdüm.",
+  "Ankara'da yerinde teknik servis, arızada 48 saat içinde yedek cihaz garantisi ve cihazı kendi kliniğimde birkaç hafta ücretsiz deneyip tanıdığım bir laboratuvarın ölçüleri onaylaması.",
+  "Kliniğimde bulantı refleksi olan birkaç hastamda ücretsiz deneyip çalıştığım laboratuvarın taramaları sorunsuz kabul ettiğini görmek ve Ankara'da yerel servis ile yedek cihaz garantisi.",
+  "Satın almada depodan vade farksız 12 taksit, aylık yaklaşık 400 € gibi bir ödeme ve Ankara'da yerinde servis ile yedek cihaz garantisi olsa düşünürüm.",
+  "Ankara'da cihazı bir yıldır kullanan, güvendiğim bir meslektaşın memnun olduğunu söylemesi ve kurulum, eğitim, yerel servis garantisinin açıkça yazılı verilmesi.",
+  "Fuarda veya kliniğimde birkaç hafta ücretsiz deneyip laboratuvarımın dosyaları sorunsuz kabul ettiğini görmek, artı Ankara'da yerel servis garantisi ve faizsiz uzun taksit.",
+  "Depo üzerinden 12 ay vade farksız taksit ve Ankara'da yerel teknik servis ile yedek cihaz garantisi; kiralamada ise sayımı benim de görebildiğim, cihazın kendi tarama kaydından çıkan şeffaf bir aylık döküm.",
+  "Ankara'da güvendiğim bir meslektaşımın bu cihazı birkaç aydır kullanıp laboratuvarıyla sorun yaşamadığını kendi ağzından duymak, mümkünse muayenehanesinde görmek.",
+  "Ankara'da bu cihazı en az birkaç aydır kullanan güvendiğim bir meslektaşımın memnun olduğunu söylemesi ve kliniğimde birkaç gün deneme imkanı.",
+  "Laboratuvarın klasik ölçüyü artık hiç kabul etmeyeceğini kesin söylemesi ve cihazı birkaç hafta ücretsiz deneyip Ankara'da yerinde servis ve eğitim garantisi görmem.",
+  "Ankara'da yerel servis ve arızada aynı gün yedek cihaz garantisi, üstüne depodan vade farksız 12 ay taksit; klinikte bir hafta deneme yaptırırlarsa alırım.",
+  "Kliniğime bir-iki hafta ücretsiz bırakılsa, kendi hastalarımda deneyip laboratuvarımdan uyumlu sonuç alsam satın almayı ciddi düşünürüm.",
+  "Çalıştığım laboratuvarın bu cihazı önermesi ve birkaç vakada dosyaların sorunsuz gidip işlerin uyumlu döndüğünü kendi kliniğimde görmem.",
+  "Çalıştığım laboratuvarın bu cihazı önermesi ve Ankara'da kurulum, eğitim ve servisin yerinde yapılacağının yazılı olarak garanti edilmesi.",
+  "Çalıştığım laboratuvarın bu tarayıcıyı önermesi ve dosyaların sorunsuz gittiğini görmem, artı arızada Ankara'da yerel servis ve yedek cihaz garantisi.",
+  "Ankara'da güvendiğim bir meslektaşımın bu cihazı birkaç aydır implant ve kron-köprü vakalarında sorunsuz kullandığını kendi gözümle görmem ve laboratuvarımın taramalarla çalışmayı onaylaması.",
+  "Fiyat 3.000 € civarına inerse, Ankara'da yerinde servis ve en az 2 yıl garanti yazılı verilirse ve faizsiz taksit olursa birkaç teklifle karşılaştırıp düşünürüm.",
+  "Ankara'da yerel servis garantisiyle, karşılaştırdığım diğer tekliflerin altında bir fiyat (4.000 € civarı) ve birkaç hafta ücretsiz deneme imkânı; laboratuvarın dijital olmayan ölçüyü kabul etmeyeceğini kesin söylemesi de beni hızlandırır.",
+  "Ankara'da yerel servis ve arıza süresince yedek cihaz garantisi, üstüne depodan vade farksız 12 taksit; bir de WhatsApp grubundaki meslektaşlardan iyi yorum duymak.",
+  "Ankara'da cihazı kullanan bir meslektaşımın kliniğinde bulantı refleksli bir hastada denediğini görmek ve kurulum, eğitim ve yerel servisin pakete dahil olduğunun yazılı olması.",
+  "Kendi kliniğimde birkaç hafta ücretsiz deneme imkanı ve kiralamada hasta başı 15-20 € gibi makul bir ücret ya da kiralamanın satın almaya sayılması.",
+  "Cihazı birkaç hafta ücretsiz ya da çok düşük bir bedelle kendi hastalarımda denemek ve Ankara'da Launca kullanan bir meslektaşın ve laboratuvarın olumlu deneyimini görmek.",
+  "Çalıştığım laboratuvarın bu cihazın dosyalarını sorunsuz kabul ettiğini yazılı olarak teyit etmesi ve birkaç hafta kliniğimde ücretsiz deneme imkanı.",
+  "Ankara'da yerel teknik servis ve arıza süresince yedek cihaz garantisi yazılı olarak verilse, bir de depodan vade farksız 12 taksit sunulsa alırım.",
+  "Çalıştığım laboratuvarın Launca dosyalarını sorunsuz aldığını yazılı olarak teyit etmesi ve bu cihazı bana önermesi.",
+  "Fuarda ya da kliniğimde birkaç hastada ücretsiz deneyip çalıştığım laboratuvarın taramaları sorunsuz kabul ettiğini görmek, artı Ankara'da yerinde servis garantisi.",
+  "Birkaç hafta ücretsiz deneme ve Ankara'da kullanan bir meslektaşın olumlu yorumu; bir de kiralamada hasta başı ücretin 15-20 € civarına inmesi.",
+  "Satın almada faizsiz 12-18 ay taksit ve Türkiye'de yerel servis garantisi, ya da kiralamada hasta başı ücretin 15-20 €'ya inmesi veya aylık sabit düşük bir ücret.",
+  "Ankara'da cihazı bir yıldır kullanan güvendiğim bir meslektaşımın memnun olduğunu söylemesi ve faizsiz taksit imkanı.",
+  "Kliniğime 2-3 haftalık ücretsiz deneme cihazı bırakılması ve bu sürede yaptığım vakaların laboratuvarımla sorunsuz çalışması; kiralamada sayımın cihaz yazılımından şeffaf raporlanması, ölçü tekrarlarının sayılmaması ve aylık bir tavan konması.",
+  "Depodan alır gibi vade farksız 12 taksit ve Türkiye'de yetkili servis/garanti; aylık 450 € civarı olursa alırım.",
+  "Cihazı birkaç hafta ücretsiz kendi hastalarımda deneyebilmem ve laboratuvarımın dosyaları sorunsuz aldığını görmem; yanında Türkiye'de yerel servis ve garanti olması.",
+  "Ankara'da yerinde servis ve garanti, depo gibi 12 ay taksit imkanı ve fiyatın 3.500 € civarına inmesi; kiralamada hasta başı 15-20 € olsa denerdim.",
+  "Ankara'da güvendiğim bir meslektaşın bu cihazı aylarca sorunsuz kullandığını söylemesi ve kliniğimde birkaç vakada denemem.",
+  "Kliniğimde ücretsiz demo ve kurulum, ekibime yerinde eğitim, Türkiye'de yetkili servis garantisi ve 12 ay vade farksız taksit.",
+  "Ankara'da tanıdığım, güvendiğim meslektaşların bu cihazı en az bir yıldır sorunsuz kullandığını görmek ve kendi kliniğimde birkaç hastada ücretsiz deneyip laboratuvarımın dosyaları sorunsuz kabul ettiğini teyit etmek.",
+  "Kliniğimde birkaç hafta ücretsiz deneme yapıp laboratuvarımla uyumlu, ölçü kadar hassas sonuç aldığımı görmek ve Ankara'da yerel servis garantisi verilmesi.",
+  "Ankara'da güvendiğim birkaç meslektaşın aylarca sorunsuz kullandığını görmek ve kliniğimde ücretsiz deneme yapıp çalıştığım laboratuvarın taramaları sorunsuz kabul ettiğini teyit etmek.",
+  "Çalıştığım laboratuvarın bu cihazı önermesi ve meslektaş grubunda Ankara'da sorunsuz kullanan birkaç hekimin olduğunu görmek.",
+  "Depodan vade farksız 12 taksit, aylık 400-450 € civarı bir ödeme ve Ankara'da yerinde servis garantisi; bir de birkaç hafta ücretsiz deneme imkânı.",
+  "Grubumdaki güvendiğim bir meslektaşın cihazı birkaç aydır sorunsuz kullandığını söylemesi ve kliniğimde birkaç hastada deneme imkanı verilmesi.",
+  "Depo üzerinden vade farksız 12 ay taksit ve Ankara'da yerel servis ile ödünç cihaz garantisi, bir de tanıdığım bir meslektaşın kullanıp memnun olduğunu görmek.",
+  "Ankara'da bir meslektaşın cihazı aylarca sorunsuz kullandığını görmek, yerel servis garantisi ve faizsiz uzun taksit; ayrıca laboratuvarın dijital olmayan ölçüyü artık hiç kabul etmemesi.",
+  "Diğer tekliflerden net olarak daha ucuz olduğunu görmek ya da 4.000 € civarına inmesi, yanında Türkiye'de yerel servis ve garanti yazılı olarak verilmesi.",
+  "Depodan vade farksız 12 ay taksit, yazılı garanti ve arızada 48 saat içinde yedek cihaz sözü olursa düşünürüm.",
+  "Çalıştığım laboratuvarın bu tarayıcıyı önermesi ve dosyaları sorunsuz aldığını göstermesi, üstüne kurulum ve eğitimin yerinde ücretsiz yapılması.",
+  "Ankara'da yerinde kurulum ve ekip eğitimi, bilinen bir dental depo üzerinden yerel servis ve arızada yedek cihaz garantisi, açık dosya (STL) çıkışıyla laboratuvar uyumu, bir de vade farksız 10-12 taksit. Fuarda elime alıp deneyebilirsem daha da iyi.",
+  "Fiyatın 2.500-3.000 € civarına inmesi ya da faizsiz uzun vadeli taksit, üstüne Türkiye'de garantili yerel servis ve önce kliniğimde ücretsiz deneme.",
+  "Peşinatsız uzun vadeli taksit (aylık 100-150 € gibi) ve Ankara'daki laboratuvarlarımın bu cihazla sorunsuz çalıştığını görmek.",
+  "Ankara'da kliniğimde birkaç gün ücretsiz deneme, yazılı en az 2 yıl yerel servis ve garanti, ve rakiplerin (Medit i700, Shining) teklifinden net daha ucuz kalan bir fiyat.",
+  "Ankara'da yerinde servis garantisi ve birkaç hafta ücretsiz deneme; kiralamada hasta başı ücretin 15-20 € civarına inmesi ya da aylık sabit düşük bir ücret.",
+  "Ankara'da güvendiğim bir meslektaşımın bu cihazı birkaç aydır kullanıp memnun olduğunu söylemesi ve kliniğimde birkaç zor hastada ücretsiz deneme yapabilmem.",
+  "Ankara'da kullanan tanıdık birkaç diş hekiminin olumlu tecrübesi, Türkiye'de yetkili servis ve en az iki yıl garanti, üstüne faizsiz 12 ay taksit.",
+  "Satın almada depodan 12 ay vade farksız taksit, yani aylık 400-450 € civarı net bir ödeme planı; ya da kiralamada sayımı benim de görebildiğim şeffaf bir raporla aylık tavan ücret.",
+  "Ankara'da yerel teknik servis ve arıza süresince yazılı yedek cihaz garantisi, bir de cihazı yıllardır kullanan tanıdığım bir meslektaşın olumlu tavsiyesi.",
+  "Ankara'da yerel servis, arızada aynı gün yedek cihaz garantisi ve depodan vade farksız 12 ay taksit; ayrıca fuarda ya da klinikte birkaç hastada ücretsiz deneme.",
+  "Ankara'da yerinde kurulum ve ekibe eğitimin fiyata dahil olduğu, en az 2 yıl yerel garanti ve servis verildiği, laboratuvarımın dosyalarını sorunsuz açtığı yazılı olarak gösterilirse ve diğer tekliflerden ucuz kalırsa alırım.",
+  "Laboratuvarım klasik ölçüyü artık hiç kabul etmeyeceğini söylerse; o zaman da önce birkaç hafta ücretsiz deneyip, hasta başı ücreti 20 euro civarına inerse kiralamayı düşünürüm.",
+  "Ankara'da yerel servis ve yedek cihaz garantisi, çalıştığım laboratuvarın bu tarayıcının dosyalarını sorunsuz kabul ettiğini görmek ve tanıdığım meslektaşların klinikte birkaç ay sorunsuz kullandığını duymak; birkaç hafta ücretsiz deneme.",
+  "Laboratuvarımın bu tarayıcıyı açıkça önermesi ve dosyalarının sorunsuz çalıştığını garanti etmesi; kiralamada da aylık sabit, makul bir tavan olması.",
+  "Ankara'da bu cihazı birkaç aydır kullanan güvendiğim bir meslektaşın olumlu yorumu ve yazılı yerel servis ile arızada yedek cihaz garantisi.",
+  "Çalıştığım laboratuvar Launca dosyalarını sorunsuz kabul ettiğini söyleyip cihazı önerirse ve taksitli ödeme olursa düşünürüm.",
+  "Ankara'da yerel servis garantisi ve birkaç teklif arasında açıkça en ucuz olması, örneğin 3.500 € civarına inmesi ya da laboratuvarın dijital ölçü için ciddi indirim yapması.",
+  "Çalıştığım laboratuvarın Launca dosyalarını sorunsuz kabul ettiğini yazılı olarak onaylaması, tercihen birkaç gerçek vakayla birlikte denememize izin verilmesi.",
+  "Çalıştığım laboratuvarın bu tarayıcıyı önermesi ve dosyalarını sorunsuz kabul ettiğini göstermesi.",
+  "Ankara'da kliniğimde ücretsiz deneme ve kurulum-eğitim, yerel teknik servis garantisi ve depo üzerinden vade farksız 12 taksit seçeneği.",
+  "Çalıştığım laboratuvarın bu cihazın dosyalarıyla sorunsuz çalıştığını teyit etmesi ve birkaç hafta ücretsiz deneme imkanı.",
+  "Kendi hastalarımda birkaç hafta ücretsiz deneme ve Ankara'da yazılı servis garantisiyle arıza halinde yedek cihaz taahhüdü.",
+  "Ankara'da güvendiğim meslektaşların bu cihazı kullanıp memnun kalması ve çalıştığım laboratuvarın Launca dosyalarıyla sorunsuz çalıştığını teyit etmesi; yanında birkaç hafta ücretsiz deneme ve yerel servis garantisi.",
+  "Laboratuvarımın yazılı olarak dosyaları kabul ettiğini teyit etmesi, Ankara'da yerel servis garantisi ve vade farksız 12 ay taksit imkanı.",
+  "Çalıştığım laboratuvarın bu tarayıcının dosyalarıyla sorunsuz çalıştığını yazılı olarak teyit etmesi ve Ankara'da bu cihazı yıllardır kullanan meslektaşlarımı görmek; bir de birkaç hasta deneyebileceğim ücretsiz bir deneme süresi.",
+  "Ankara'da bu cihazı en az birkaç aydır kullanan güvendiğim bir meslektaşın olumlu tavsiyesi ve yazılı olarak Türkiye'de yerel servis ile arıza süresince yedek cihaz garantisi.",
+  "Ankara'da yerinde servis garantisi olan, deneme imkânı verilen ve fiyatı 3.500 € civarına inen bir teklif; ya da güvendiğim bir meslektaşın aynı cihazı sorunsuz kullandığını görmek.",
+  "Kliniğimde birkaç hastada ücretsiz deneme yapmak ve sayımın şeffaf, benim de görebildiğim bir panelden yapıldığını görmek; aynı hastanın tekrar taramasının ayrıca ücretlendirilmeyeceğinin yazılı olması.",
+  "Ankara'da bu cihazı birkaç aydır kullanan güvendiğim bir meslektaşımın kliniğinde görüp 'sorunsuz, laboratuvar da kabul ediyor' demesi, artı yerel servis garantisi.",
+  "Kliniğimde birkaç hafta ücretsiz deneme ve laboratuvarımın dosyaları sorunsuz kabul ettiğini görmek, artı Ankara'da yerel servis garantisi.",
+  "WhatsApp grubundaki güvendiğim birkaç meslektaşın aylarca sorunsuz kullandığını ve çalıştığım laboratuvarın bu cihazın dosyalarını sorunsuz aldığını görmek; bir de Ankara'da yerinde servis garantisi.",
+  "Depodan 12 ay vade farksız taksitle, aylık 400-450 € civarında ödeme ve Ankara'da yerinde servis garantisi olsa alırım.",
+  "Laboratuvarımın bu tarayıcıdan gelen dosyalarla sorunsuz çalıştığını teyit etmesi ve Ankara'da yerinde kurulum, eğitim ve servis garantisi verilmesi."
+ ],
+ "purchases_first_month_per_buyer": 8.0,
+ "price_answers": 100
+}

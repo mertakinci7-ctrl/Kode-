@@ -1,0 +1,13 @@
+{
+  "id": "P069",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Kira, asistan maaşı, malzeme derken ay sonunu zor getiriyorum; 4.950 € + KDV bana yaklaşık dört aylık kazancım demek. Klasik ölçü işimi görüyor, hastam da şikâyet etmiyor, bu parayı şimdi bağlamam. Hasta başı 50 € kiralama da benim ücretlerimde hiç dönmez.",
+  "objection": "Ölçü malzemesi bana hasta başı birkaç euro tutuyor; bu cihaz kendini ne zaman amorti eder belli değil, Çinli bir marka olduğu için de servis, yedek parça ve ikinci el değeri konusunda içim rahat değil. Birkaç teklif toplamadan ve ikinci el fiyatlarına bakmadan karar vermem.",
+  "would_change_my_mind": "Fiyatın 2.500-3.000 € civarına inmesi ya da faizsiz uzun vadeli taksit, üstüne Türkiye'de garantili yerel servis ve önce kliniğimde ücretsiz deneme.",
+  "price_too_cheap": 1200,
+  "price_cheap": 2500,
+  "price_expensive": 3800,
+  "price_too_expensive": 5000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P034",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Benim için önemli olan dosyanın laboratuvara sorunsuz gitmesi; ilanda laboratuvarımın bu tarayıcıyla çalışıp çalışmadığı, kurulumu ve eğitimi kimin yapacağı hiç yazmıyor. Laboratuvarım önermeden, adını gruptan duymadığım bir markaya geçmem.",
+  "objection": "Laboratuvarım bu tarayıcının dosyalarını sorunsuz alıyor mu, bilgisayarım uyumlu mu, arıza olursa Ankara'da kim bakacak? Hasta başı 50 € kiralama da ayda birkaç düzine ölçüde cihazın parasını kısa sürede geçer.",
+  "would_change_my_mind": "Çalıştığım laboratuvarın bu cihazı önermesi ve Ankara'da kurulum, eğitim ve servisin yerinde yapılacağının yazılı olarak garanti edilmesi.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4000,
+  "price_expensive": 8000,
+  "price_too_expensive": 13000
+}

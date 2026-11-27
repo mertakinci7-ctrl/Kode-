@@ -1,0 +1,13 @@
+{
+  "id": "P093",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Bulantı refleksli hastalarda dijital ölçüye gerçekten ihtiyacım var, fiyat da bütçem için sorun değil; ama Launca'yı kullanan tanıdığım bir meslektaş yok, kimsenin 'al, memnunum' demediği bir cihazı kliniğe sokmam.",
+  "objection": "Çin malı bir cihaz; bozulursa Türkiye'de kim bakacak, servis ne kadar sürer, o sürede yedek cihaz verilecek mi, hiçbiri yazmıyor. Kiralamada da hasta başı 50 € çok hekimli klinikte hızla satın alma bedelini geçer.",
+  "would_change_my_mind": "Ankara'da bu cihazı en az birkaç aydır kullanan güvendiğim bir meslektaşın olumlu tavsiyesi ve yazılı olarak Türkiye'de yerel servis ile arıza süresince yedek cihaz garantisi.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 6500,
+  "price_too_expensive": 9000
+}

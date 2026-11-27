@@ -1,0 +1,13 @@
+{
+  "id": "P037",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Ayda birkaç plak/ortodonti vakası için 4.950 € + KDV'yi tanımadığım bir Çin markasına vermem; aynı paraya ikinci el bir Medit bulurum ya da depodan bilinen bir markayı taksitle alırım. Kiralamada hasta başı 50 € da her ölçüde cebimden çıkan bir masraf, birkaç ay sonra cihazı almış kadar öderim.",
+  "objection": "Launca'yı Türkiye'de kim tanıyor, servis ve yedek parça kimde, cihaz bozulursa kaç gün beklerim? İkinci el piyasada değeri de olmaz, yarın satmak istesem alıcı bulamam.",
+  "would_change_my_mind": "Fiyat 3.000 € civarına inerse, Ankara'da yerinde servis ve en az 2 yıl garanti yazılı verilirse ve faizsiz taksit olursa birkaç teklifle karşılaştırıp düşünürüm.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2800,
+  "price_expensive": 3800,
+  "price_too_expensive": 5000
+}

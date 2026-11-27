@@ -1,0 +1,13 @@
+{
+  "id": "P051",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Kendi hastalarımda denemeden cihaza para bağlamam; Launca'yı fuarda gördüm ama kliniğimde tarama kalitesini ve laboratuvarla uyumunu görmedim. Kiralama peşinsiz gibi duruyor ama hasta başı 50 € ayda 100 taramada 5.000 € eder, cihazın fiyatını bir ayda öderim.",
+  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak? Cihaz mı kaydediyor, ben mi bildiriyorum, kontrol ve ölçü tekrarı nasıl sayılıyor belli değil. Bir de Çin malı tarayıcının servis ve yedek parça desteği Türkiye'de ne kadar hızlı, onu bilmiyorum.",
+  "would_change_my_mind": "Kliniğime 2-3 haftalık ücretsiz deneme cihazı bırakılması ve bu sürede yaptığım vakaların laboratuvarımla sorunsuz çalışması; kiralamada sayımın cihaz yazılımından şeffaf raporlanması, ölçü tekrarlarının sayılmaması ve aylık bir tavan konması.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3500,
+  "price_expensive": 6500,
+  "price_too_expensive": 9000
+}

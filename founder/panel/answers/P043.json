@@ -1,0 +1,13 @@
+{
+  "id": "P043",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Yıllardır silikon ölçüyle sorunsuz çalışıyorum, laboratuvarım da buna alışık; sabit giderler zaten ağırken 4.950 € artı KDV'yi bir alışkanlığı değiştirmek için harcamam. Hasta başı 50 € kiralama da bana bir ölçü malzemesinden çok daha pahalı geliyor.",
+  "objection": "Laboratuvarım bu Çin malı tarayıcının dosyasını sorunsuz kabul eder mi, bozulursa Ankara'da servisini kim yapacak, belli değil.",
+  "would_change_my_mind": "Çalıştığım laboratuvarın bu cihazın dosyalarını sorunsuz kabul ettiğini yazılı olarak teyit etmesi ve birkaç hafta kliniğimde ücretsiz deneme imkanı.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
+}

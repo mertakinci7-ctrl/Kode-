@@ -1,0 +1,13 @@
+{
+  "id": "P052",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Laboratuvar dijital dosya istiyor, tarayıcıya ihtiyacım olacak ama 4.950 € + KDV'yi tek seferde ödemem; teklifte taksit yok, aylık ne ödeyeceğimi göremiyorum. Hasta başı 50 € kiralama da bir ölçü için çok pahalı, ayda birkaç hastada bile cihazın kendisini ödemiş olurum.",
+  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak? Ayrıca Çinli bir marka, Ankara'da arıza olursa servisi ve yedek cihazı kim verecek, belli değil.",
+  "would_change_my_mind": "Depodan alır gibi vade farksız 12 taksit ve Türkiye'de yetkili servis/garanti; aylık 450 € civarı olursa alırım.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5500,
+  "price_too_expensive": 7500
+}

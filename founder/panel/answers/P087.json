@@ -1,0 +1,13 @@
+{
+  "id": "P087",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ayda birkaç plak vakası için tarayıcı ilgimi çekiyor ama kurulumu, eğitimi ve servisi kimin yapacağı yazmıyor; depodan vade farksız taksit seçeneği de yok, 4.950 €'yu peşin bağlamam. Hasta başı 50 € kiralama ise her hastada kullanırsam hızla pahalıya gelir.",
+  "objection": "Bilgisayarım bu tarayıcıyla uyumlu mu, kurulumu ve eğitimi kim yapacak, cihaz arızalanınca Ankara'da yedek cihaz ve teknik servis var mı? Çinli bir markada bunu bilmeden almam.",
+  "would_change_my_mind": "Ankara'da kliniğimde ücretsiz deneme ve kurulum-eğitim, yerel teknik servis garantisi ve depo üzerinden vade farksız 12 taksit seçeneği.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5500,
+  "price_too_expensive": 7500
+}

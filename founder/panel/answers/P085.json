@@ -1,0 +1,13 @@
+{
+  "id": "P085",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Bulantı refleksli hastalarda ölçü gerçekten başımı ağrıtıyor, tarayıcı lazım ama laboratuvarım Launca'yı önermedi ve dosyayı sorunsuz alıp almadığını bilmeden 5 bin euro bağlamam. Hasta başı 50 euro kiralama da her vakada çok pahalı geliyor.",
+  "objection": "Laboratuvarım bu tarayıcının dosyasını sorunsuz kabul eder mi, yoksa her vakada dosya, uyum ve yeniden ölçü sorunu mu yaşarım? Türkiye'de servis ve destek kimde, bozulursa ne olur?",
+  "would_change_my_mind": "Çalıştığım laboratuvarın Launca dosyalarını sorunsuz kabul ettiğini yazılı olarak onaylaması, tercihen birkaç gerçek vakayla birlikte denememize izin verilmesi.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 6000,
+  "price_too_expensive": 9000
+}

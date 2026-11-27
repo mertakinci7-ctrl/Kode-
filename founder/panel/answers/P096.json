@@ -1,0 +1,13 @@
+{
+  "id": "P096",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Launca markasını kullanan tanıdık bir meslektaşım yok, kimseden duymadım. Ben cihazı kullanan birine sormadan almam; kiralamada da hasta başı 50 € hem pahalı hem de sayımı kimin, nasıl tuttuğu belli değil.",
+  "objection": "Çinli, bilmediğim bir marka; tarama hassasiyeti, laboratuvarla uyumu ve arızada servis Ankara'da kim verecek, bilmiyorum. Kiralamada hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "would_change_my_mind": "Ankara'da bu cihazı birkaç aydır kullanan güvendiğim bir meslektaşımın kliniğinde görüp 'sorunsuz, laboratuvar da kabul ediyor' demesi, artı yerel servis garantisi.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 6500,
+  "price_too_expensive": 9000
+}

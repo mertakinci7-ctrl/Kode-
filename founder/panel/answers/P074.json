@@ -1,0 +1,13 @@
+{
+  "id": "P074",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Launca adını meslektaşlarımdan hiç duymadım; 5 bin euroyu tanımadığım bir Çin markasına vermektense ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım. Kiralamada da hasta başı 50 euro bana çok pahalı geliyor, o para hastaya yansıtılamaz.",
+  "objection": "Cihaz bozulursa ya da yazılım desteği kesilirse Türkiye'de kim bakacak, servis ve yedek cihaz var mı bilmiyorum. Laboratuvarların bu tarayıcının dosyalarını sorunsuz kabul edip etmediğinden de emin değilim.",
+  "would_change_my_mind": "Ankara'da kullanan tanıdık birkaç diş hekiminin olumlu tecrübesi, Türkiye'de yetkili servis ve en az iki yıl garanti, üstüne faizsiz 12 ay taksit.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
+}

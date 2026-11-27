@@ -1,0 +1,13 @@
+{
+  "id": "P099",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "4.950 € + KDV'yi tek seferde çıkaracak durumum yok, kira, asistan ve malzeme zaten zorluyor; vade farksız taksit yazmıyor. Kiralamada da hasta başı 50 € çok, kimin saydığı belli değil, ay sonu fatura ne gelecek bilemem.",
+  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak? Bir de Çin markası, Ankara'da arızalanınca servisi kim verecek bilmiyorum.",
+  "would_change_my_mind": "Depodan 12 ay vade farksız taksitle, aylık 400-450 € civarında ödeme ve Ankara'da yerinde servis garantisi olsa alırım.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5500,
+  "price_too_expensive": 8000
+}

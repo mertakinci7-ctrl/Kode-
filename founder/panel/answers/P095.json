@@ -1,0 +1,13 @@
+{
+  "id": "P095",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ayda birkaç şeffaf plak vakası için 4.950 € bağlamam, kiralama mantıklı görünüyor ama hasta başı ücretin nasıl sayılacağı belli değil. Launca'yı da kendi hastalarımda görmeden karar vermem.",
+  "objection": "Hasta başı 50 €'yu kim, neye göre sayacak? Cihaz her taramayı mı sayıyor, aynı hastayı tekrar tarayınca yine mi ödüyorum? Bir de Çin malı bir tarayıcının hassasiyeti ve servisi Ankara'da ne kadar güvenilir, bilmiyorum.",
+  "would_change_my_mind": "Kliniğimde birkaç hastada ücretsiz deneme yapmak ve sayımın şeffaf, benim de görebildiğim bir panelden yapıldığını görmek; aynı hastanın tekrar taramasının ayrıca ücretlendirilmeyeceğinin yazılı olması.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5500,
+  "price_too_expensive": 8000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P053",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Laboratuvar dijital ölçü istiyor, bir tarayıcıya ihtiyacım olacağı belli ama Launca'yı tanımıyorum; 4.950 €'yu bilmediğim bir Çin markasına bağlamaktansa ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım. Hasta başı 50 € kiralama da her ölçüde cebimden çıkar, hastaya yansıtması zor.",
+  "objection": "Bozulursa servisi kim yapacak, yedek parça ve yazılım güncellemesi Türkiye'de var mı, laboratuvarımın sistemi bu dosyaları sorunsuz açar mı? Tanımadığım markada bunları bilmeden para vermem.",
+  "would_change_my_mind": "Cihazı birkaç hafta ücretsiz kendi hastalarımda deneyebilmem ve laboratuvarımın dosyaları sorunsuz aldığını görmem; yanında Türkiye'de yerel servis ve garanti olması.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
+}

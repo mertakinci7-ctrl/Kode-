@@ -1,0 +1,13 @@
+{
+  "id": "P049",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Yeni açtım, kira, asistan ve malzeme zaten belimi büküyor; 4.950 € artı KDV şu an cebimde yok. Kiralamada da hasta başı 50 € çok, ayda 20 hasta tarasam 1.000 euro eder, bu bana klasik ölçüden pahalıya gelir.",
+  "objection": "Hasta başı 50 € ölçü maliyetini katlıyor, satın alma da peşin büyük para; üstelik Çin malı bir cihazın servisi, yedek parçası Türkiye'de ne kadar sağlam, bilmiyorum. İkinci el ilanlarda ve başka firmalarda daha ucuz teklif var mı diye bakmadan karar vermem.",
+  "would_change_my_mind": "Satın almada faizsiz 12-18 ay taksit ve Türkiye'de yerel servis garantisi, ya da kiralamada hasta başı ücretin 15-20 €'ya inmesi veya aylık sabit düşük bir ücret.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2800,
+  "price_expensive": 4000,
+  "price_too_expensive": 5500
+}

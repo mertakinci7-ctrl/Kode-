@@ -1,0 +1,13 @@
+{
+  "id": "P084",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Laboratuvar dijital dosya istiyor, evet, ama 4.950 € + KDV'yi ilk gördüğüm teklife vermem; önce ikinci el ilanlarına ve başka bayilerin kampanyalarına bakarım. Kiralamada hasta başı 50 € ise ölçü başına bana çok pahalı geliyor, klasik ölçü maliyetinin kat kat üstünde.",
+  "objection": "Çinli bir marka, Türkiye'de servisi ve yedek parçası kimde, bozulursa kaç gün cihazsız kalırım bilmiyorum; üstelik klasik ölçü zaten işimi görüyor.",
+  "would_change_my_mind": "Ankara'da yerel servis garantisi ve birkaç teklif arasında açıkça en ucuz olması, örneğin 3.500 € civarına inmesi ya da laboratuvarın dijital ölçü için ciddi indirim yapması.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
+}

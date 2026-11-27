@@ -1,0 +1,13 @@
+{
+  "id": "P041",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Muayenehaneyi yeni açtım, 4.950 € artı KDV şu an bütçemi çok zorlar. Kiralama peşinsiz ama hasta başı 50 € çok; ayda 20 hasta tarasam 1.000 € eder, bu parayla birkaç ayda cihazı alırım.",
+  "objection": "Çinli bir marka, meslektaş grubunda kullanan birini duymadan ve kendi hastalarımda denemeden bu kadar parayı bağlamak istemem; ayrıca hasta başı ücret, ölçü için hastadan aldığım parayı neredeyse yiyor.",
+  "would_change_my_mind": "Kendi kliniğimde birkaç hafta ücretsiz deneme imkanı ve kiralamada hasta başı 15-20 € gibi makul bir ücret ya da kiralamanın satın almaya sayılması.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4200,
+  "price_too_expensive": 5500
+}

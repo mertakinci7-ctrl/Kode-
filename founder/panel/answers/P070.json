@@ -1,0 +1,13 @@
+{
+  "id": "P070",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, laboratuvarım da buna alışık; yeni açtığım muayenehanede kira ve asistan maaşı zaten zorlarken 5.000 € civarı bir cihaza gerek duymuyorum. Kiralamada da hasta başı 50 € ölçü malzemesinden çok daha pahalı, hastaya yansıtamam.",
+  "objection": "Launca'yı tanımıyorum; bu paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım. Servis, yazılım güncellemesi ve laboratuvarların dosyayı kabul edip etmeyeceği belirsiz.",
+  "would_change_my_mind": "Peşinatsız uzun vadeli taksit (aylık 100-150 € gibi) ve Ankara'daki laboratuvarlarımın bu cihazla sorunsuz çalıştığını görmek.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2500,
+  "price_expensive": 3500,
+  "price_too_expensive": 4500
+}

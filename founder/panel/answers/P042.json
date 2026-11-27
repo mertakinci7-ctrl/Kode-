@@ -1,0 +1,13 @@
+{
+  "id": "P042",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Bulantı refleksi olan hastalar için dijital ölçü işime yarar ama hiç duymadığım bir Çin markasına 4.950 € bağlamam; aynı paraya ikinci el Medit ya da depodan taksitle bilinen bir marka alırım. Kiralamada da hasta başı 50 € bizim ücretlerimize göre çok pahalı, ölçü başına bunu hastaya yansıtamam.",
+  "objection": "Launca'yı tanımıyorum: servis, yedek parça ve yazılım desteği Türkiye'de kim veriyor, laboratuvarım bu dosyaları sorunsuz açıyor mu, bilmiyorum. Bozulursa elimde pahalı bir oyuncak kalır.",
+  "would_change_my_mind": "Cihazı birkaç hafta ücretsiz ya da çok düşük bir bedelle kendi hastalarımda denemek ve Ankara'da Launca kullanan bir meslektaşın ve laboratuvarın olumlu deneyimini görmek.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
+}

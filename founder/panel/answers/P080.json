@@ -1,0 +1,13 @@
+{
+  "id": "P080",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Laboratuvar dijital dosya istiyor, evet, ama çok hekimli bir klinikte ben 3Shape ya da iTero alırım; adını ilk kez duyduğum Çinli bir markaya klinik iş akışımı bağlamam. Kiralamadaki hasta başı 50 € de hem pahalı hem de sayımı kimin yapacağı belli değil.",
+  "objection": "Marka güveni ve servis: Türkiye'de, Ankara'da arıza olursa kim bakacak, yazılım güncellemesi ve laboratuvar uyumu nasıl olacak? Kiralamada da hasta başı kullanımı kim, nasıl sayacak, ona nasıl güveneceğim?",
+  "would_change_my_mind": "Ankara'da yerel servis ve yedek cihaz garantisi, çalıştığım laboratuvarın bu tarayıcının dosyalarını sorunsuz kabul ettiğini görmek ve tanıdığım meslektaşların klinikte birkaç ay sorunsuz kullandığını duymak; birkaç hafta ücretsiz deneme.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 6000,
+  "price_too_expensive": 9000
+}

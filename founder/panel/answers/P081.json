@@ -1,0 +1,13 @@
+{
+  "id": "P081",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Laboratuvarım bu tarayıcıyı önermedi, dosyalar sorunsuz gider mi bilmiyorum. Kiralamada hasta başı 50 euro da çok; ayda 20 hasta tarasam 1.000 euro eder, sabit giderlerimin üstüne bunu kaldıramam.",
+  "objection": "Çalıştığım laboratuvar bu cihazdan gelen dosyaları sorunsuz kabul eder mi, yeniden ölçü almak zorunda kalır mıyım? Çinli bir markaya bu parayı vermek içimi rahatlatmıyor.",
+  "would_change_my_mind": "Laboratuvarımın bu tarayıcıyı açıkça önermesi ve dosyalarının sorunsuz çalıştığını garanti etmesi; kiralamada da aylık sabit, makul bir tavan olması.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
+}

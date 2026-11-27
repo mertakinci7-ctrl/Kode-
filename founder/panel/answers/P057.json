@@ -1,0 +1,13 @@
+{
+  "id": "P057",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ben fuarda 3Shape ve iTero'yu deneyip güvendiğim markalarla çalışırım; Launca'yı tanımıyorum ve 4.950 € bu kadar ucuzsa doğruluğundan, servisinden ve laboratuvarların dosyamı sorunsuz kabul edip etmeyeceğinden emin olamam. Kiralamada da hasta başı 50 € hem pahalı hem de sayımı kimin, nasıl yapacağı belli değil.",
+  "objection": "Az bilinen bir Çinli markanın ölçü hassasiyetine ve Türkiye'deki teknik servisine güvenemiyorum; bozulursa ya da ölçüler tutmazsa hastanın önünde mahcup olurum. Kiralamada hasta başı kullanımı kim sayacak, ben nasıl doğrulayacağım?",
+  "would_change_my_mind": "Ankara'da tanıdığım, güvendiğim meslektaşların bu cihazı en az bir yıldır sorunsuz kullandığını görmek ve kendi kliniğimde birkaç hastada ücretsiz deneyip laboratuvarımın dosyaları sorunsuz kabul ettiğini teyit etmek.",
+  "price_too_cheap": 2500,
+  "price_cheap": 4000,
+  "price_expensive": 9000,
+  "price_too_expensive": 14000
+}

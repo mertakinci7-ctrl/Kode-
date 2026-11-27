@@ -1,0 +1,13 @@
+{
+  "id": "P078",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Laboratuvar dijital dosya istiyor, tarayıcıya ihtiyacım var ama tek bir ilana bakıp karar vermem. Kurulum, eğitim, servis ve bilgisayar uyumluluğu yazmıyor; üç dört teklif toplamadan ve ikinci el fiyatlarına bakmadan bu ay almam. Hasta başı 50 € kira ise benim hasta sayımda kısa sürede satın alma fiyatını geçer, ona hiç girmem.",
+  "objection": "Bilgisayarım uyumlu mu, kurulumu ve eğitimi kim yapacak, cihaz bozulursa Türkiye'de servis ve yedek cihaz var mı? Çinli bir markanın burada arkasında kim duruyor bilmiyorum.",
+  "would_change_my_mind": "Ankara'da yerinde kurulum ve ekibe eğitimin fiyata dahil olduğu, en az 2 yıl yerel garanti ve servis verildiği, laboratuvarımın dosyalarını sorunsuz açtığı yazılı olarak gösterilirse ve diğer tekliflerden ucuz kalırsa alırım.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3800,
+  "price_expensive": 5500,
+  "price_too_expensive": 7500
+}

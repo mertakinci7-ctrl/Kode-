@@ -1,0 +1,13 @@
+{
+  "id": "P089",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Laboratuvar dijital dosya istiyor, bir tarayıcıya ihtiyacım olacak ama yeni açtığım muayenehanede 4.950 € bağlayamam. Kiralama mantıklı görünüyor ama bozulursa kim bakacak, yedek cihaz var mı, hiçbiri yazmıyor; denemeden imzalamam.",
+  "objection": "Çin malı bir cihaz; bozulduğunda Ankara'da kim servis verecek, yedek cihaz verilecek mi belli değil. Hasta başı 50 € de benim hasta ücretlerime göre ağır.",
+  "would_change_my_mind": "Kendi hastalarımda birkaç hafta ücretsiz deneme ve Ankara'da yazılı servis garantisiyle arıza halinde yedek cihaz taahhüdü.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P075",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason": "Muayenehaneyi yeni açtım, 4.950 € + KDV'yi peşin ödeyecek durumum yok ve teklifte vade farksız taksit lafı bile geçmiyor. Kiralamada da ayda birkaç vaka için hasta başı 50 € ödemek, sayımın nasıl yapılacağı belli olmadan bana güven vermiyor.",
+  "reason_code": "price",
+  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak? Cihaz her açıldığında mı, her taramada mı ücret yazılıyor, bunu ben kontrol edemezsem fatura sürprizlerle gelir.",
+  "would_change_my_mind": "Satın almada depodan 12 ay vade farksız taksit, yani aylık 400-450 € civarı net bir ödeme planı; ya da kiralamada sayımı benim de görebildiğim şeffaf bir raporla aylık tavan ücret.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
+}

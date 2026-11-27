@@ -1,0 +1,13 @@
+{
+  "id": "P091",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Fiyat aslında fena değil ama Launca'yı fuarda elime alıp denemeden, laboratuvarımın dosyalarını sorunsuz aldığından emin olmadan 5 bin euro vermem. Üstelik taksit seçeneği yazmıyor, ben cihazı aylık ödemeye bakarak alırım; hasta başı 50 euro kiralama da bana pahalı geliyor.",
+  "objection": "Laboratuvarım bu tarayıcının dosyasını kabul edecek mi, Çinli markanın Türkiye'de servisi ve yedek parçası var mı, bozulursa cihazsız kalır mıyım?",
+  "would_change_my_mind": "Laboratuvarımın yazılı olarak dosyaları kabul ettiğini teyit etmesi, Ankara'da yerel servis garantisi ve vade farksız 12 ay taksit imkanı.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5500,
+  "price_too_expensive": 8000
+}

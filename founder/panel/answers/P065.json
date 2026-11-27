@@ -1,0 +1,13 @@
+{
+  "id": "P065",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Bulantı refleksli hastalarda tarayıcı işimi kolaylaştırır ama tek bir teklife bakıp 4.950 € + KDV ödemem; önce ikinci el ilanlara, depo kampanyalarına ve başka markaların tekliflerine bakarım. Hasta başı 50 € kiralama ise birkaç ayda cihaz fiyatını geçer, bana hiç mantıklı gelmiyor.",
+  "objection": "Kiralamada hasta başı sayımı kim tutacak, neye göre faturalanacak belli değil; satın almada da Çinli bir markanın Türkiye'de servisi, yedek parçası ve yazılım güncellemesi kim verecek, bilmiyorum.",
+  "would_change_my_mind": "Diğer tekliflerden net olarak daha ucuz olduğunu görmek ya da 4.000 € civarına inmesi, yanında Türkiye'de yerel servis ve garanti yazılı olarak verilmesi.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
+}

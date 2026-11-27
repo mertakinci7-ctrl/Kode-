@@ -1,0 +1,13 @@
+{
+  "id": "P079",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Muayenehaneyi yeni açtım, kasada 5.000 euro ayıracak param yok; silikon ölçü yıllardır sorunsuz, hastam da şikâyet etmiyor. Hasta başı 50 euro kiralama da benim fiyatlarımla ölçü başına çok pahalı kalıyor.",
+  "objection": "Bu kadar parayı, hiç duymadığım bir Çin markasına ve bana ihtiyaç gibi gelmeyen bir cihaza yatırmak; bozulursa servisi kim yapacak, öğrenme süresinde koltuk boş mu kalacak?",
+  "would_change_my_mind": "Laboratuvarım klasik ölçüyü artık hiç kabul etmeyeceğini söylerse; o zaman da önce birkaç hafta ücretsiz deneyip, hasta başı ücreti 20 euro civarına inerse kiralamayı düşünürüm.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2500,
+  "price_expensive": 3800,
+  "price_too_expensive": 5000
+}

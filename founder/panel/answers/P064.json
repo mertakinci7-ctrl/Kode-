@@ -1,0 +1,13 @@
+{
+  "id": "P064",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Yıllardır silikon ölçüyle sorunsuz çalışıyorum, yeni açtığım muayenehanede 4.950 € artı KDV'yi tanımadığım bir Çin markasına vermem. Laboratuvar dijital dosya istiyorsa önce ölçüyü laboratuvarın taramasını konuşurum; kiralamada da hasta başı 50 € benim ölçü maliyetimin çok üstünde.",
+  "objection": "Launca'yı tanımıyorum; Ankara'da servisi, yedek parçası, yazılım güncellemesi kimde belli değil. Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım.",
+  "would_change_my_mind": "Ankara'da bir meslektaşın cihazı aylarca sorunsuz kullandığını görmek, yerel servis garantisi ve faizsiz uzun taksit; ayrıca laboratuvarın dijital olmayan ölçüyü artık hiç kabul etmemesi.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2500,
+  "price_expensive": 3800,
+  "price_too_expensive": 5000
+}
