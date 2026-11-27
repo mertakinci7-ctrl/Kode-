@@ -1,0 +1,6 @@
+Launca DL-300 Kablosuz ağız içi tarayıcı: "Laboratuvar Onaylı Dijital Ölçü" teklifi.
+Önce deneyin: cihazı kendi kliniğinizde ilk birkaç hastada ücretsiz deneyin, STL dosyalarını kendi laboratuvarınıza gönderip onay alın. Yerinde kurulum ve eğitim ücretsizdir.
+Satın alma: 4.950 € + KDV. Kurucu klinik fiyatı: 31 Ocak 2027'ye kadar ilk 5 kliniğe 4.450 € + KDV; karşılığında referans klinik olmayı kabul edersiniz.
+Kiralama (yalnızca Ankara): taramayı uygun saatinize önceden randevuyla planlıyoruz, o saatte cihazla kliniğinizdeyiz (aynı gün gerekirse, müsaitsek aynı gün de geliyoruz). Taramayı siz yapıyorsunuz, biz odaya girmiyoruz. Hasta başı 50 € + KDV, peşin ödeme yok; aynı hastanın tekrar taramaları ve her 10. hasta ücretsiz. 6 ay içinde satın alırsanız ödediğiniz kiranın tamamı cihaz fiyatından düşülür.
+Garanti: satın aldıktan sonra 30 gün içinde laboratuvarınız taramaları kabul etmezse cihazı geri alıp ödediğinizin tamamını iade ediyoruz. Kiralamada laboratuvarınızın reddettiği taramanın ve randevuya geç kaldığımız taramanın ücreti alınmaz.
+Launca Türkiye distribütörüyüz; teknik servisi biz veriyoruz, arızada Ankara ve İstanbul'a 1–2 gün, Türkiye'nin geri kalanına 5 gün içinde yedek cihaz gönderiyoruz. Launca, cihazını 100'den fazla ülkede satan Çinli bir ağız içi tarayıcı üreticisi.

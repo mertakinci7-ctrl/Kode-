@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Launca'yı kullanan tanıdığım tek bir meslektaşım yok; kimseye soramadığım bir cihaza 4.950 € peşin vermem. Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım.",
+  "objection": "Kimse kullanmıyor, meslektaşlardan duymadım; bir de taksit yok. Bulantı refleksli hastada gerçekten hızlı ve rahat tarıyor mu, yoksa ağızda uğraştırıyor mu bilmiyorum.",
+  "would_change_my_mind": "Ankara'da güvendiğim bir meslektaşımın bu cihazı birkaç aydır kullanıp memnun olduğunu kendi ağzından duymak; üstüne 6-12 ay taksit imkanı olsa ücretsiz denemeyi kesin yaparım.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4300,
+  "price_too_expensive": 6000
+}

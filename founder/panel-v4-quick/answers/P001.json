@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Laboratuvarım dijital dosya istemeye başladı, bu doğru, ama bana henüz hangi tarayıcıyı önerdiklerini söylemediler; Launca'yı onlar önermeden 4.950 € bağlamam. Ücretsiz denemeyi belki kabul ederim ama bu ay satın almam, klasik ölçü hâlâ işimi görüyor.",
+  "objection": "Laboratuvarım bu Çinli markanın dosyalarını her vakada sorunsuz kabul edecek mi, yoksa birkaç ay sonra 'şu cihazla gelin' mi diyecek? Ayrıca distribütör batarsa servis ve yedek cihaz kimden gelecek?",
+  "would_change_my_mind": "Laboratuvarımın kendisinin Launca dosyalarıyla sorunsuz çalıştığını yazılı olarak söylemesi ya da bu cihazı önermesi.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 4800,
+  "price_too_expensive": 6500
+}

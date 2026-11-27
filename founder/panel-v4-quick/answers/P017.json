@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Klasik ölçü işimi görüyor, hastam şikâyet etmiyor; giderler zaten zorlarken bu ay 4.950 € bağlamam. Ücretsiz denemeyi belki kabul ederim ama ilk ayda satın almam.",
+  "objection": "Çinli bir markanın tarayıcısı benim laboratuvarımda gerçekten klasik ölçü kadar hassas sonuç verir mi, ve hasta başı 50 € kiralama ölçü malzemesine göre bana ne kazandırır, emin değilim.",
+  "would_change_my_mind": "Kendi kliniğimde birkaç hastada denemede laboratuvarımın taramaları sorunsuz kabul etmesi ve koltuk süresinde/tekrar ölçüde net bir tasarruf görmem.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Ücretsiz denemeyi kesin isterim, laboratuvarımın dosyayı kabul edip etmediğini görmek tam aradığım şey. Ama muayenehaneyi yeni açtım, 4.450-4.950 € + KDV şu an kasamı zorlar; hasta başı 50 € + KDV kira da Ankara'daki kron fiyatlarına göre kazancımın büyük kısmını yer, ilk ay ölçüyü klasik yöntemle almaya devam ederim.",
+  "objection": "Yeni muayenehanede hasta sayım az; bu kadar parayı bir cihaza bağlarsam kendini ne zaman amorti eder bilmiyorum. Çinli bir marka olması ve servisin tek bir distribütöre bağlı olması da aklımı kurcalıyor, distribütör ortadan kalkarsa ne olacak?",
+  "would_change_my_mind": "Cihazı peşinatsız, 12-24 ay taksitle alabilmek ya da hasta başı kiranın 20-25 € civarına inmesi; ayrıca deneme sırasında laboratuvarımın taramaları sorunsuz onaylaması.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
+}

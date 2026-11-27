@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Muayenehaneyi yeni açtım, kasada 5.000 euro peşin ayıracak para yok ve silikon ölçüyle zaten sorunsuz çalışıyorum. Hasta başı 50 euro kira da silikonun ve ölçü kaşığının maliyetinin çok üstünde, ayda 20 ölçüde bana pahalıya patlar.",
+  "objection": "Taksit yok. Aynı parayla depodan bilinen bir markayı taksitle ya da ikinci el bir Medit alırım; Çinli bir markanın servisine ve birkaç yıl sonra piyasada olup olmayacağına güvenmek istemem.",
+  "would_change_my_mind": "12 ay faizsiz taksit ve aylık ödemenin silikon masrafıma yakın olması; bir de Ankara'da bu cihazı yıllardır kullanan bir meslektaşı görmek.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2500,
+  "price_expensive": 3800,
+  "price_too_expensive": 5000
+}

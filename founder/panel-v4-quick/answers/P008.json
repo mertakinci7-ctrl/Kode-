@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ücretsiz denemeyi belki kabul ederim ama muayenehaneyi yeni açtım, Launca adını fuarda görmüşlüğüm var ama tanımadığım bir Çin markasına bu ay 5 bin euro bağlamam. Param olsa 3Shape ya da iTero'yu beklerim.",
+  "objection": "Laboratuvar dosyayı kabul etse bile bu marka beş yıl sonra burada olacak mı, yazılım güncellemesi ve servis distribütör kapanırsa ne olacak; hastalar da 'Çin malı' cihazı görünce ne düşünür.",
+  "would_change_my_mind": "Ankara'da tanıdığım, saygın birkaç meslektaşın bu cihazı bir yıldır sorunsuz kullandığını kendi gözümle görmek ve laboratuvarımın bu marka dosyalarıyla zaten çalıştığını teyit etmesi.",
+  "price_too_cheap": 2500,
+  "price_cheap": 3800,
+  "price_expensive": 5500,
+  "price_too_expensive": 8000
+}

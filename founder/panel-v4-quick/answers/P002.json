@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ücretsiz denemeyi kabul ederim ama ilk ay para vermem; ayda birkaç vakam var, önce kendi hastalarımda tarayıp laboratuvarımın ne dediğini görmem lazım. Çinli bir marka ve distribütörü tanımıyorum, bu yüzden acele etmem.",
+  "objection": "Cihaz bozulursa servis gerçekten 1-2 günde gelecek mi, yoksa distribütör ortadan kaybolursa elimde yedeği olmayan bir Çin malı mı kalır? Yazılım güncellemeleri ve parça desteği kaç yıl sürecek?",
+  "would_change_my_mind": "Denemede laboratuvarımın taramaları sorunsuz kabul etmesi ve yedek cihaz ile servis süresinin sözleşmede yazılı olması; bir de Ankara'da bu cihazı kullanan bir meslektaşla konuşabilmek.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5500,
+  "price_too_expensive": 8000
+}

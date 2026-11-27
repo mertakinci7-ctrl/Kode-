@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Silikon ölçüyle ayda birkaç vakayı sorunsuz çıkarıyorum, laboratuvarım da memnun. Muayenehaneyi yeni açtım; yıllık gelirimin yarısına yakın bir cihaza para bağlamanın şu an anlamı yok, hasta başı 50 € kira da ölçü malzemesinden pahalı geliyor.",
+  "objection": "Bu kadar az vakayla cihaz kendini ne zaman amorti eder? Üstüne bilgisayarımın uyumlu olup olmadığını, yazılımın lisans ya da yıllık ücret isteyip istemediğini bilmiyorum; Çinli bir markanın birkaç yıl sonra Türkiye'de servisinin süreceğinden de emin değilim.",
+  "would_change_my_mind": "Şeffaf plak hastalarım dijital ölçü istediği için vaka sayım ayda 8-10'a çıkarsa ve laboratuvarım dijitalde bana fiyat avantajı sağlarsa ücretsiz denemeyi yapar, kiralamayla başlardım.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2500,
+  "price_expensive": 3800,
+  "price_too_expensive": 5000
+}
