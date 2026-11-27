@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Yıllardır silikon ölçüyle sorunsuz çalışıyorum, laboratuvarımla düzenim oturmuş. Sabit giderler zaten zorlarken 4.950 € artı KDV'yi ya da hasta başı 50 €'yu ihtiyaç duymadığım bir cihaza vermem.",
-  "objection": "Laboratuvarım bu tarayıcının dosyasını sorunsuz kabul eder mi, bilmiyorum; Çinli bir markaya bu parayı verip sonra laboratuvarla uyumsuzluk ya da servis derdi yaşamak istemem.",
-  "would_change_my_mind": "Çalıştığım laboratuvarın bu cihazın dosyalarını sorunsuz kabul ettiğini yazılı olarak teyit etmesi ve ücretsiz denemede ölçülerin klasik ölçü kadar oturduğunu kendi hastalarımda görmem.",
+  "reason": "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, laboratuvarım da buna alışık. Sabit giderler zaten zorlarken 5 bin euroya, Çin malı bir cihaza geçmek için bir sebep görmüyorum.",
+  "objection": "Laboratuvarım bu tarayıcının dosyalarını sorunsuz kabul edip aynı kalitede iş çıkarır mı, yoksa uyumsuzluk ve tekrar ölçülerle uğraşıp hem zaman hem hasta mı kaybederim?",
+  "would_change_my_mind": "Ücretsiz denemede kendi hastalarımda yaptığım taramalarla laboratuvarımın sorunsuz, tam oturan işler çıkarması; o zaman önce hasta başı kiralamayla başlamayı düşünürüm.",
   "price_too_cheap": 1500,
-  "price_cheap": 2500,
-  "price_expensive": 3500,
-  "price_too_expensive": 5000
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
 }

@@ -2,12 +2,12 @@
   "id": "P018",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, laboratuvarım da memnun; yeni açtığım muayenehanede yıllık gelirimin beşte biri kadar parayı ihtiyaç duymadığım bir cihaza yatırmam. Kiralama da ayda 15-25 ölçüyle 750-1.250 € eder, silikondan çok daha pahalı.",
-  "objection": "Çinli bir markanın uzun vadede servisine ve yedek parçasına güvenmiyorum; aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım.",
-  "would_change_my_mind": "Hasta başı ücret 10-15 € civarına inse ya da satın almada uzun vadeli faizsiz taksit olsa, ücretsiz denemede de laboratuvarımla sorunsuz çalıştığını görsem düşünürdüm.",
+  "reason_code": "price",
+  "reason": "Muayenehaneyi yeni açtım, 4.950 € artı KDV'yi peşin ayıracak nakdim yok, taksit de yok. Silikon ölçüyle bir sorunum yok; hasta başı 50 € kiralama da ayda 15-25 ölçüde silikondan çok daha pahalıya geliyor.",
+  "objection": "Aynı parayla depodan taksitle bilinen bir marka ya da ikinci el bir Medit alırım; Çinli bir markaya peşin para bağlamak, üstelik dijitale ihtiyacım yokken, bana mantıklı gelmiyor.",
+  "would_change_my_mind": "12 ay faizsiz taksit ya da aylık sabit düşük bir ödeme seçeneği olsa, ücretsiz denemeyi yapar, laboratuvarım onaylarsa düşünürdüm.",
   "price_too_cheap": 1500,
-  "price_cheap": 2500,
-  "price_expensive": 3800,
-  "price_too_expensive": 5000
+  "price_cheap": 3000,
+  "price_expensive": 4200,
+  "price_too_expensive": 5500
 }

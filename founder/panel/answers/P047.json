@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Silikon ölçüyle yıllardır hiçbir sorun yaşamadım, laboratuvarım da buna alışık; çalışan bir düzeni 4.950 euro verip değiştirmek için bir sebep görmüyorum. Kiralama da hasta başı 50 euro ile ayda 20 hastada 1.000 euro eder, bu bana çok pahalı geliyor.",
-  "objection": "Dijitale geçmeye ihtiyacım yok; üstelik Çinli bir markanın uzun vadede ne kadar dayanacağından, servisin Ankara dışında gerçekten hızlı olup olmadığından emin değilim.",
-  "would_change_my_mind": "Laboratuvarımın dijital ölçüye geçip silikon ölçüyü kabul etmemesi ya da tanıdığım meslektaşların bu cihazı en az bir yıl sorunsuz kullandığını görmem; ücretsiz denemede de gerçekten zaman kazandırdığını görürsem fiyatı yaklaşık 3.000 euroya inerse düşünürüm.",
+  "reason": "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, laboratuvarım da memnun; dijitale geçmem için bir sebep görmüyorum. Kiralamada hasta başı 50 € çok, ayda 20 hasta tarasam 1.000 € eder, satın almak için de 4.950 € şu an bütçemde öncelik değil.",
+  "objection": "Çinli bir markaya ve küçük bir distribütöre 5 yıl sonra servis, yazılım güncellemesi ve yedek parça konusunda güvenebilir miyim, emin değilim; üstelik silikon ölçüye göre bana ne kazandıracağı net değil.",
+  "would_change_my_mind": "Ücretsiz denemede laboratuvarımın STL'lerle daha az prova ve daha iyi uyum verdiğini kendi hastalarımda görmek ve Ankara'da bu cihazı yıllardır sorunsuz kullanan bir meslektaştan referans almak.",
   "price_too_cheap": 1500,
-  "price_cheap": 2800,
-  "price_expensive": 4000,
-  "price_too_expensive": 5500
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
 }

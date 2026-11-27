@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Bulantı refleksli hastalarda tarayıcı işimi kolaylaştırır ama ben laboratuvarım ne derse onu alırım; lab bu cihazın dosyasını sorunsuz alıyor demeden almam. Kiralama zaten hasta başı 50 euroyla ayda 1.000 euroyu bulur, o hiç olmaz.",
-  "objection": "Laboratuvarım Launca dosyalarıyla sorunsuz çalışır mı bilmiyorum; Çinli marka, gönderdiğim tarama bozuk ya da uyumsuz giderse yeniden ölçü almakla uğraşırım.",
-  "would_change_my_mind": "Çalıştığım laboratuvarın bu cihazı önermesi ve ücretsiz denemede gönderdiğim taramaların labdan sorunsuz dönmesi.",
-  "price_too_cheap": 1500,
-  "price_cheap": 3000,
-  "price_expensive": 6000,
-  "price_too_expensive": 9000
+  "reason": "Ben laboratuvarım hangi tarayıcıyı önerirse onu düşünürüm; Launca'yı laboratuvarım önermedi. Bu yaşta, dosyaların sorunsuz gittiği düzeni bilmediğim bir Çin markası için değiştirmem, kiralamada da hasta başı 50 euro ayda 20 hastada 1.000 euro eder, çok.",
+  "objection": "STL dosyaları laboratuvarımın sisteminde sorunsuz açılıp kronlar oturacak mı, yoksa ölçüyü tekrar almak mı zorunda kalacağım? Çinli bir marka ve küçük bir distribütör yıllar sonra da servis verecek mi?",
+  "would_change_my_mind": "Kendi laboratuvarımın ücretsiz denemedeki taramaları onaylayıp bu cihazla çalışmayı açıkça önermesi; o zaman özellikle bulantı refleksi olan hastalar için satın almayı düşünürüm.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5500,
+  "price_too_expensive": 8000
 }

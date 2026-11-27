@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "price",
-  "reason": "Ayda birkaç vaka için 4.950 € + KDV'yi bu ay ödemem; önce ikinci el Medit ilanlarına ve depoların taksitli kampanyalarına bakıp en az üç teklif toplarım. Ücretsiz denemeyi belki alırım ama satın alma kararı bu ay çıkmaz.",
-  "objection": "Launca'yı hiç tanımıyorum; aynı paraya ya da biraz fazlasına ikinci el bilinen bir marka alırım, yıllar sonra yazılımı ve ikinci el değeri ne olur bilmiyorum.",
-  "would_change_my_mind": "Fiyatın 3.500 € civarına inmesi ya da faizsiz taksit, üstüne Ankara'da bu cihazı yıllardır sorunsuz kullanan bir meslektaşın referansı.",
+  "reason": "Ayda birkaç şeffaf plak vakası için 4.950 € + KDV'yi peşin, taksitsiz ödemem; aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım. Ücretsiz denemeyi belki kabul ederim ama birkaç teklif toplamadan karar vermem.",
+  "objection": "Taksit yok ve Launca'nın ikinci el değeri, uzun vadeli yazılım desteği belirsiz; bilinen bir markaya göre bu fiyat bana pahalı geliyor.",
+  "would_change_my_mind": "12 ay vade farksız taksit ya da fiyatın 3.500 € civarına inmesi, üstüne kendi laboratuvarımın STL'leri sorunsuz onaylaması.",
   "price_too_cheap": 1500,
   "price_cheap": 3000,
-  "price_expensive": 4500,
-  "price_too_expensive": 6000
+  "price_expensive": 4200,
+  "price_too_expensive": 5500
 }

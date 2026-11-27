@@ -1,0 +1,13 @@
+{
+  "id": "P029",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Fiyat aslında fena değil, kiralama ise hasta başı 50 euroyla bizim hacimde çok pahalıya gelir. Ama Launca'yı kullanan tanıdığım tek bir meslektaşım yok; kimse 'al, memnunum' demeden kliniğime cihaz sokmam.",
+  "objection": "Çinli marka, ucuz olduğu için tarama hassasiyeti ve yazılımın laboratuvarlarla uyumu konusunda içim rahat değil; birkaç yıl sonra servis ve parça bulunur mu bilmiyorum.",
+  "would_change_my_mind": "Ankara'da bu cihazı en az bir yıldır kullanan güvendiğim bir meslektaşımın memnun olduğunu kendi ağzından duymak; sonra ücretsiz denemeyi kabul ederim.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4000,
+  "price_expensive": 7500,
+  "price_too_expensive": 11000
+}

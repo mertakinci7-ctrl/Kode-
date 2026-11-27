@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Fiyat aslında fena değil, kiralama ise hasta başı 50 euroyla bizim hacimde çok pahalıya gelir. Ama Launca'yı kullanan tanıdığım tek bir meslektaşım yok; kimse 'al, memnunum' demeden kliniğime cihaz sokmam.",
-  "objection": "Çinli marka, ucuz olduğu için tarama hassasiyeti ve yazılımın laboratuvarlarla uyumu konusunda içim rahat değil; birkaç yıl sonra servis ve parça bulunur mu bilmiyorum.",
-  "would_change_my_mind": "Ankara'da bu cihazı en az bir yıldır kullanan güvendiğim bir meslektaşımın memnun olduğunu kendi ağzından duymak; sonra ücretsiz denemeyi kabul ederim.",
+  "reason": "Kiralama bana pahalı geliyor; ayda 20 hasta tarasam 1.000 euro eder, o hesapla cihazı almak daha mantıklı. Ama Launca'yı kullanan tanıdık bir meslektaşım yok, kimse 'al, sorunsuz' demeden bu hafta karar vermem.",
+  "objection": "Çinli bir marka; birkaç hastada iyi çalışır ama bir yıl sonra yazılım güncellemesi, doğruluk ve servis ne olacak bilmiyorum. Fuarda gördüğüm büyük markaların yanında güven vermiyor.",
+  "would_change_my_mind": "Ankara'da bu cihazı en az altı aydır kullanan, güvendiğim bir meslektaşın memnun olduğunu söylemesi; ardından kendi kliniğimde ücretsiz denemede laboratuvarımın STL'leri onaylaması.",
   "price_too_cheap": 2000,
-  "price_cheap": 4000,
-  "price_expensive": 7500,
-  "price_too_expensive": 11000
+  "price_cheap": 3500,
+  "price_expensive": 7000,
+  "price_too_expensive": 10000
 }

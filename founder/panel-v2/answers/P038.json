@@ -1,0 +1,13 @@
+{
+  "id": "P038",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Laboratuvar dijital dosya istiyor, bunu biliyorum ama klasik ölçü hâlâ işimi görüyor. Birkaç firmadan teklif ve ikinci el fiyatlarını toplamadan 4.950 € + KDV'ye imza atmam; hasta başı 50 € kiralama ise uzun vadede bana daha pahalı geliyor.",
+  "objection": "Çin markası bir cihaza bu parayı verip birkaç yıl sonra servis ya da yazılım desteğinin kesilmesinden, laboratuvarımın dosyalarıyla sorun çıkmasından çekiniyorum. Aynı paraya ya da daha ucuza başka bir marka bulabilir miyim, onu görmeden karar vermem.",
+  "would_change_my_mind": "Laboratuvarımın dosyaları sorunsuz kabul ettiğini ücretsiz denemede kendi hastamda görmek ve topladığım diğer tekliflerden belirgin şekilde ucuz bir fiyat, örneğin 4.000 €'nun altında bir kampanya.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
+}

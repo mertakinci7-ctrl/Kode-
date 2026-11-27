@@ -1,0 +1,13 @@
+{
+  "id": "P050",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Launca'yı kullanan tek bir meslektaşımı tanımıyorum, ben de tanıdığım birinin kullanıp memnun kaldığı cihazı alırım. 4.950 € artı KDV yeni açtığım muayenehane için çok ağır; kira, asistan ve malzeme zaten beni zorluyor.",
+  "objection": "Çin malı, adını meslektaşlardan duymadığım bir marka; aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım. Hasta başı 50 € da her ölçüde cebimden çıkan para, hastaya yansıtması zor.",
+  "would_change_my_mind": "Ankara'da güvendiğim bir meslektaşın bu cihazı aylardır sorunsuz kullandığını kendi gözümle görmem; o zaman önce ücretsiz denemeyi, sonra kiralamayı düşünürdüm.",
+  "price_too_cheap": 1200,
+  "price_cheap": 2500,
+  "price_expensive": 3500,
+  "price_too_expensive": 4500
+}

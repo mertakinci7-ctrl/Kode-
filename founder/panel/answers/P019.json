@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "price",
-  "reason": "Muayenehaneyi yeni açtım, 4.950 € + KDV'yi peşin bırakacak durumum yok, taksit de yazmıyor. Hasta başı 50 € kiralama da bizim hastaya yansıtınca ağır kalıyor; ölçüyü şimdilik klasik yöntemle almaya devam ederim.",
-  "objection": "Çin malı bir cihaz; 'teknik servis var, yedek cihaz verilir' diyorlar ama Ankara'da kim, kaç günde geliyor belli değil. Gruptaki meslektaşlardan kullanan birini duymadan bu parayı vermem.",
-  "would_change_my_mind": "Depo üzerinden vade farksız 12 taksit, aylık ödemenin makul olması ve gruptan birkaç meslektaşın cihazdan memnun olduğunu söylemesi; o zaman ücretsiz denemeyi kabul ederim.",
+  "reason": "Muayenehaneyi yeni açtım, 4.950 € artı KDV'yi peşin verecek durumum yok ve taksit seçeneği yazmıyor. Kiralamada hasta başı 50 € da Ankara'daki hasta ücretlerine göre ağır, klasik ölçüyle bunun çok altına iş çıkarıyorum.",
+  "objection": "Çin malı bir cihaz; yedek cihaz sözü var ama distribütör küçükse yarın ortadan kalkarsa servisi kim verecek? Bir de aylık ne ödeyeceğimi göremiyorum, vade farksız taksit yoksa bütçeme sığmaz.",
+  "would_change_my_mind": "Depo üzerinden 12 ay vade farksız taksit (ayda 400-450 € civarı) ve WhatsApp grubundaki meslektaşlardan birinin cihazı en az bir yıldır sorunsuz kullandığını duymak.",
   "price_too_cheap": 1500,
   "price_cheap": 3000,
   "price_expensive": 4500,
-  "price_too_expensive": 6500
+  "price_too_expensive": 6000
 }

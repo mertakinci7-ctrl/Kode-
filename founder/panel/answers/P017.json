@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Ücretsiz denemeyi kabul ederim, ama bu ay 4.950 € bağlamam ya da her hastaya 50 € ödemem; klasik ölçü işimi görüyor ve sabit giderlerim zaten zorluyor.",
-  "objection": "Klasik ölçüde hastam şikâyet etmiyor, laboratuvarla düzenim oturmuş; hasta başı 50 € ölçü maliyetimin çok üstünde, Çinli bir markanın tarama doğruluğu ve uzun vadeli servisi de kendi hastalarımda görmeden içime sinmez.",
-  "would_change_my_mind": "Denemede kendi hastalarımda klasik ölçüden daha az prova ve yeniden yapım görmek, ve laboratuvarımın dijital dosyayı sorunsuz kabul ettiğini teyit etmek; o zaman taksitli satın almayı düşünürüm.",
-  "price_too_cheap": 1500,
-  "price_cheap": 3000,
+  "reason": "Ücretsiz denemeyi kabul ederim, birkaç hastada tararım ama bu ay 4.950 € bağlamam; klasik ölçü işimi görüyor, hastam şikâyet etmiyor, zaten kira ve asistan giderleri beni sıkıştırıyor.",
+  "objection": "Çinli bir markanın tarayıcısı benim laboratuvarımla sorunsuz çalışıp hassas ölçü verecek mi, ve bu cihaz kendini klasik ölçüye göre gerçekten amorti eder mi, emin değilim.",
+  "would_change_my_mind": "Denemede laboratuvarım STL'leri sorunsuz onaylar ve tekrar ölçü/prova sayısının düştüğünü kendi hastalarımda görürsem satın almayı ciddi düşünürüm.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
   "price_expensive": 5000,
-  "price_too_expensive": 7500
+  "price_too_expensive": 7000
 }

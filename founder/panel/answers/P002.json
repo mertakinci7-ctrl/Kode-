@@ -1,13 +1,13 @@
 {
   "id": "P002",
   "buys": true,
-  "purchases_first_month": 1,
+  "purchases_first_month": 2,
   "reason_code": "convenience",
-  "reason": "Ayda birkaç vakam var, 5 bin euroyu bir cihaza bağlamam mantıklı değil; ama önce kendi hastalarımda ücretsiz deneyip, peşinatsız hasta başı kiralamayla başlarım. Deneme kötü giderse hiçbir şey kaybetmem.",
-  "objection": "Çin malı bir marka; taramaların laboratuvarımın ve plak firmasının kabul ettiği kalitede çıkıp çıkmayacağından ve yedek cihazın gerçekten ne kadar hızlı geleceğinden emin değilim.",
-  "would_change_my_mind": "Deneme hastalarında taramalar laboratuvardan geri dönerse ya da Ankara'daki bir meslektaşım servisin yavaş olduğunu söylerse vazgeçerim.",
-  "price_too_cheap": 2000,
-  "price_cheap": 3500,
-  "price_expensive": 5500,
-  "price_too_expensive": 8000
+  "reason": "Ayda birkaç şeffaf plak vakası için 4.950 € bağlamam, ama önce ücretsiz deneyip STL'leri laboratuvarıma onaylatabiliyorsam, sonra peşinsiz hasta başı 50 € ile kiralamak tam benim tarzım. İlk ay ücretsiz denemeden sonra bir iki hastayı kiralık tararım, satın almayı sonra düşünürüm.",
+  "objection": "Çin malı bir cihaz; laboratuvarım dosyaları sorunsuz kabul edecek mi, ve randevulu hastam koltuktayken cihaz gelmezse ya da bozulursa ne olacak, bu sözler gerçekten tutulacak mı?",
+  "would_change_my_mind": "Ücretsiz denemede laboratuvarım STL dosyalarını reddederse ya da cihaz bir kez bile söz verilen saatte gelmezse vazgeçerim.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 6000,
+  "price_too_expensive": 9000
 }

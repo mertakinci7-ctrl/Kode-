@@ -2,12 +2,12 @@
   "id": "P042",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Ücretsiz denemeyi kabul ederim, özellikle bulantı refleksi olan hastalarda işe yarayıp yaramadığını görmek için, ama bu ay 4.950 € + KDV'yi bilmediğim bir Çinli markaya bağlamam. Hasta başı 50 € kiralama da benim hasta hacmimde fazla pahalı geliyor.",
-  "objection": "Launca'yı Türkiye'de kullanan meslektaş tanımıyorum; aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım. Birkaç yıl sonra servis ve yazılım desteği sürecek mi, emin değilim.",
-  "would_change_my_mind": "Kendi kliniğimde denemede zor hastalarda bile hızlı ve temiz tarama alırsam ve satın almaya depo gibi taksit seçeneği eklenirse alırım.",
-  "price_too_cheap": 2000,
-  "price_cheap": 3500,
-  "price_expensive": 5500,
-  "price_too_expensive": 7500
+  "reason_code": "price",
+  "reason": "Ücretsiz denemeyi kesinlikle isterim, bulantı refleksli hastalarda işime yarayabilir; ama 4.950 € + KDV'yi peşin, taksitsiz bir Çin markasına bağlamam. Hasta başı 50 € de benim fiyatlarımla her vakaya eklenecek bir para değil.",
+  "objection": "Taksit yok; aynı parayla depodan taksitle bilinen bir marka ya da ikinci el bir Medit alırım. Launca'nın birkaç yıl sonra servis ve yazılım desteğinin süreceğinden de emin değilim.",
+  "would_change_my_mind": "12 ay taksit imkânı ve denemede STL'lerin laboratuvarımdan sorunsuz onay alması; kiralamada ödediğim tutarın satın almada fiyattan düşülmesi.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
 }

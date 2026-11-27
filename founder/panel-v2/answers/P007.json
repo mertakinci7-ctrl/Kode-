@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Launca'yı gruptaki meslektaşlarımdan hiç duymadım; 4.950 € az para değil ve bu parayla ikinci el bir Medit ya da depodan taksitle bilinen bir marka almayı tercih ederim. Ücretsiz denemeyi belki isterim ama birkaç teklif toplamadan bu ay karar vermem.",
+  "objection": "Çinli, adını bilmediğim bir marka; birkaç yıl sonra yazılım güncellemesi, laboratuvarlarla uyum ve ikinci el değeri ne olacak bilmiyorum. Kiralamadaki hasta başı 50 € ise ayda birkaç düzine hastada cihaz parasını çabucak geçer, bana pahalı geliyor.",
+  "would_change_my_mind": "WhatsApp grubundaki güvendiğim birkaç meslektaşın bu cihazı kliniğinde bir yıldır sorunsuz kullandığını söylemesi ve fiyatın ikinci el Medit tekliflerinin belirgin şekilde altında, taksitli olması.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5000,
+  "price_too_expensive": 6500
+}

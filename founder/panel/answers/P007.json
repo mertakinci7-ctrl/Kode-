@@ -2,12 +2,12 @@
   "id": "P007",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Launca'yı gruptaki meslektaşlarımdan hiç duymadım; 4.950 € az para değil ve bu parayla ikinci el bir Medit ya da depodan taksitle bilinen bir marka almayı tercih ederim. Ücretsiz denemeyi belki isterim ama birkaç teklif toplamadan bu ay karar vermem.",
-  "objection": "Çinli, adını bilmediğim bir marka; birkaç yıl sonra yazılım güncellemesi, laboratuvarlarla uyum ve ikinci el değeri ne olacak bilmiyorum. Kiralamadaki hasta başı 50 € ise ayda birkaç düzine hastada cihaz parasını çabucak geçer, bana pahalı geliyor.",
-  "would_change_my_mind": "WhatsApp grubundaki güvendiğim birkaç meslektaşın bu cihazı kliniğinde bir yıldır sorunsuz kullandığını söylemesi ve fiyatın ikinci el Medit tekliflerinin belirgin şekilde altında, taksitli olması.",
+  "reason_code": "price",
+  "reason": "4.950 € peşin ödeyip bir Çin markasına bağlanmadan önce depodan taksitli Medit ya da Shining teklifine ve ikinci el ilanlara bakarım; birkaç teklif toplamadan bu ay karar vermem. Ücretsiz denemeyi isterim ama satın alma bu ay olmaz.",
+  "objection": "Taksit yok, hepsi peşin. Launca'yı meslektaş grubunda kimse önermedi; aynı paraya ya da biraz fazlasına ikinci el bilinen bir marka alabilirim, yarın bozulursa veya şirket çekilirse elimde kalır.",
+  "would_change_my_mind": "12 ay vade farksız taksit ve WhatsApp grubundan en az birkaç meslektaşın bu cihazı kullanıp laboratuvarlarının STL'leri sorunsuz kabul ettiğini söylemesi.",
   "price_too_cheap": 2000,
   "price_cheap": 3500,
-  "price_expensive": 5000,
-  "price_too_expensive": 6500
+  "price_expensive": 5500,
+  "price_too_expensive": 7500
 }

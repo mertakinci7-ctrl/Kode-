@@ -1,13 +1,13 @@
 {
   "id": "P031",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "price",
-  "reason": "Fuarda gördüğüm tarayıcılar bunun üç-beş katı fiyatında; 4.950 € kliniğe ikinci bir koltuk için tarayıcı demek. Önce kendi hastalarımda ücretsiz denerim, taramalar laboratuvarımla sorunsuz çalışırsa satın alırım, kiralamayı hasta başı 50 € ile hiç düşünmem.",
-  "objection": "Çin malı, iki yıl sonra yazılım güncellemesi kesilir mi, Ankara'da servis gerçekten gelir mi, yedek cihaz lafta mı kalır bilmiyorum. Bir de peşin istiyorlar, taksit seçeneği yazmıyor.",
-  "would_change_my_mind": "Denemede taramalar yavaş ya da hatalı çıkarsa veya laboratuvarım dosyaları sorunsuz açamazsa almam.",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Fiyatı fena değil, ama Launca'yı fuarda görmüşlüğüm var, kliniğimde hiç kullanmadım. Bu ay satın almam; önce ücretsiz denemeyi isterim, laboratuvar STL'leri onaylarsa ve vade farksız taksit olursa düşünürüm. Kiralama çok hekimli klinik için kullanışlı değil, her hasta için randevuyla cihaz beklemek olmaz.",
+  "objection": "Çin malı bir cihaz; bozulduğunda distribütör gerçekten 1-2 günde yedek getirecek mi, yoksa iki hafta cihazsız mı kalacağım? Bu firma birkaç yıl sonra hâlâ burada olacak mı, parça ve yazılım güncellemesi bulacak mıyım?",
+  "would_change_my_mind": "Kendi kliniğimde denemede taramaların laboratuvardan sorunsuz onay alması, artı depodan alır gibi vade farksız 10-12 taksit seçeneği.",
   "price_too_cheap": 2000,
-  "price_cheap": 3500,
-  "price_expensive": 7000,
-  "price_too_expensive": 10000
+  "price_cheap": 3800,
+  "price_expensive": 7500,
+  "price_too_expensive": 11000
 }

@@ -1,13 +1,13 @@
 {
   "id": "P009",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "price",
-  "reason": "Bizim klinikte birkaç hekim var, hasta başı 50 € kiralama bize birkaç ayda cihazın fiyatını öder; 4.950 € ağız içi tarayıcı için düşük bir rakam. Önce kendi kliniğimde ücretsiz deneyip taramalar laboratuvarımızın yazılımında sorunsuz açılırsa satın alırım.",
-  "objection": "Bilgisayarlarımız bu tarayıcıyla uyumlu mu, kurulumu ve hekimlerimin eğitimini kim yapacak belli değil; ayrıca taksit seçeneği yazmıyor ve Çin markası olduğu için WhatsApp grubunda kimsenin yorumunu görmedim, yazılım güncellemesi ve servis ne kadar sürer bilmiyorum.",
-  "would_change_my_mind": "Deneme sırasında kurulumu yapıp eğitimi verecek birinin kliniğe gelmesi, laboratuvarımızın dosyaları kabul ettiğini görmem ve vade farksız taksit imkanı; bunlar olmazsa almam.",
-  "price_too_cheap": 2000,
-  "price_cheap": 3500,
-  "price_expensive": 6500,
-  "price_too_expensive": 9000
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ücretsiz denemeyi muhtemelen isterim ama bu ay satın almam; Çinli bir markayı WhatsApp grubunda kimse önermeden, kurulum, eğitim ve bilgisayar uyumluluğu belli olmadan 5 bin euroluk cihaza karar vermem. Taksit seçeneği de yazmıyor, ben aylık ödemeye bakarım.",
+  "objection": "Bilgisayarlarım bu tarayıcıyla uyumlu mu, kurulumu ve hekimlerimin eğitimini kim yapacak belli değil; bir de Launca'yı tanıyan meslektaşım yok, yazılım ve servis birkaç yıl sonra ortada kalır mı diye çekiniyorum.",
+  "would_change_my_mind": "Kliniğimdeki bilgisayarlara kurulumu ve tüm hekimlerin eğitimini yerinde ücretsiz yapacaklarını yazılı taahhüt etmeleri ve 12 ay vade farksız taksit sunmaları.",
+  "price_too_cheap": 2500,
+  "price_cheap": 4000,
+  "price_expensive": 7000,
+  "price_too_expensive": 10000
 }

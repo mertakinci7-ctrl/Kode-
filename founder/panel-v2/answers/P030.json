@@ -1,0 +1,13 @@
+{
+  "id": "P030",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Otuz yılı aşkın süredir silikon ölçüyle çalışıyorum, hastam da şikâyet etmiyor; yeni açtığım muayenehanede yaklaşık bir yıllık kazancımın büyük kısmını bir tarayıcıya yatırmam. Laboratuvar dijital dosya istiyor ama gerekirse ölçüyü onlar tarar.",
+  "objection": "Bu yaştan sonra yeni bir cihaz öğrenmeye değer mi, hiç bilmediğim bir Çin markası birkaç yıl sonra servis verecek mi, emin değilim; hasta başı 50 € de ölçü maliyetimin çok üstünde.",
+  "would_change_my_mind": "Laboratuvarım klasik ölçüyü kabul etmeyi tamamen bırakırsa, önce ücretsiz denemeyi yapar, sonra peşin parasız kiralamayı düşünürdüm.",
+  "price_too_cheap": 1000,
+  "price_cheap": 2000,
+  "price_expensive": 3500,
+  "price_too_expensive": 5000
+}

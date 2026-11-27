@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Bulantı refleksi olan hastalarda ölçü almak gerçekten dert, dijital tarayıcı işime yarar. Ama çevremde Launca kullanan bir meslektaşım yok; kimse 'al, memnunum' demeden 5 bin avroluk bir Çin markasına para vermem, aynı paraya ikinci el Medit ya da depodan taksitle bilinen bir marka almayı tercih ederim.",
-  "objection": "Launca'yı tanıyan, kullanan bir meslektaşım yok. Tarama doğruluğu, laboratuvarların dosyayı sorunsuz kabul etmesi ve birkaç yıl sonra servis gerçekten sürecek mi, bilmiyorum. Kiralamada hasta başı 50 € de bana pahalı geliyor.",
-  "would_change_my_mind": "Ankara'da güvendiğim bir meslektaşın bu cihazı birkaç aydır kullanıp memnun olduğunu söylemesi; onun üzerine ücretsiz denemeyi kendi refleksli hastalarımda yapıp iyi sonuç görürsem alırım.",
+  "reason": "Bulantı refleksli hastalarda dijital ölçü işime yarar, ama Launca'yı kullanan tanıdığım tek bir meslektaşım yok. Bu parayı peşin vereceksem ya ikinci el bir Medit alırım ya da depodan taksitle herkesin bildiği bir markayı.",
+  "objection": "Çinli, adını meslektaşlardan duymadığım bir marka, üstelik taksit yok. Laboratuvarım dosyaları sorunsuz kabul edecek mi, birkaç yıl sonra servis ve yazılım desteği sürecek mi, bilmiyorum.",
+  "would_change_my_mind": "Ankara'da güvendiğim bir meslektaşın bu cihazı aylardır sorunsuz kullandığını söylemesi; yanında taksit imkânı olursa ücretsiz denemeyi kesin yaparım.",
   "price_too_cheap": 2000,
   "price_cheap": 3500,
-  "price_expensive": 5000,
-  "price_too_expensive": 7000
+  "price_expensive": 4800,
+  "price_too_expensive": 6500
 }

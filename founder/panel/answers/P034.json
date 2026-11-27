@@ -2,12 +2,12 @@
   "id": "P034",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Ben tarayıcıyı laboratuvarım ne derse ona göre seçerim; laboratuvarım Launca'yı önermedi ve dosyaların sorunsuz gidip gitmeyeceğini bilmeden 4.950 € vermem. Ücretsiz deneme hoş ama önce laboratuvarıma sorarım, büyük ihtimalle bildikleri bir marka söylerler.",
-  "objection": "Launca DL-300'ün taramaları benim laboratuvarımın yazılımına sorunsuz aktarılıyor mu, bilgisayarım uyumlu mu, kurulumu ve ekibimin eğitimini kim yapacak? Bunların hiçbiri teklifte yazmıyor.",
-  "would_change_my_mind": "Çalıştığım laboratuvarın Launca dosyalarını sorunsuz aldığını yazılı olarak teyit etmesi ve kurulum ile eğitimin klinikte ücretsiz yapılması.",
+  "reason_code": "habit",
+  "reason": "Ben tarayıcıyı laboratuvarımın önerisine göre seçerim; laboratuvarım bana Launca demedi, WhatsApp grubunda da pek duymadım. Ücretsiz deneme ve STL gönderme imkânı hoş ama bu hafta laboratuvarıma sormadan bir şey almam.",
+  "objection": "Bilgisayarımın uyumlu olup olmadığı, kurulumu ve eğitimi kimin yapacağı hiç yazmıyor; ayrıca Çin markası, laboratuvarım dosyaları sorunsuz açabilecek mi, ondan emin değilim.",
+  "would_change_my_mind": "Laboratuvarımın deneme taramalarını sorunsuz kabul edip bu cihazı bana açıkça önermesi, bir de kurulum ve eğitimin kliniğimde yerinde yapılacağının yazılı olarak söylenmesi.",
   "price_too_cheap": 2000,
   "price_cheap": 3500,
   "price_expensive": 6000,
-  "price_too_expensive": 9000
+  "price_too_expensive": 8500
 }

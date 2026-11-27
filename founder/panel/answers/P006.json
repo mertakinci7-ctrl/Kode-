@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Klasik ölçü zaten işimi görüyor, hastam da şikâyet etmiyor; dijitale geçeceksem de 3Shape ya da iTero gibi bildiğim bir markaya geçerim, adını meslektaş grubunda hiç duymadığım Çinli bir markaya değil.",
-  "objection": "4.950 € bu işin piyasasına göre şüpheli derecede ucuz; tarama hassasiyeti, laboratuvarların dosyayı sorunsuz kabul edip etmeyeceği ve birkaç yıl sonra yazılım/servis desteğinin süreceği konusunda güvenim yok.",
-  "would_change_my_mind": "WhatsApp grubundaki güvendiğim birkaç meslektaşın bu cihazı aylarca kullanıp çalıştığım laboratuvarla sorunsuz iş çıkardığını söylemesi; o zaman ücretsiz denemeyi kabul ederim.",
-  "price_too_cheap": 5000,
-  "price_cheap": 9000,
-  "price_expensive": 15000,
-  "price_too_expensive": 22000
+  "reason": "Klasik ölçü zaten işimi görüyor, hastam da şikâyet etmiyor; dijitale geçeceksem 3Shape ya da iTero gibi herkesin bildiği bir markaya geçerim, adını meslektaş grubunda hiç duymadığım bir Çin markasına değil.",
+  "objection": "Launca'nın tarama hassasiyetine ve uzun vadede yazılım/servis desteğine güvenmiyorum; distribütör yarın kapanırsa cihaz elimde kalır, kliniğimin imajı için de premium bir marka isterim.",
+  "would_change_my_mind": "WhatsApp grubundaki güvendiğim birkaç meslektaşın bu cihazı aylardır sorunsuz kullandığını söylemesi ve laboratuvarımın Launca STL'lerinin 3Shape kadar oturduğunu onaylaması.",
+  "price_too_cheap": 2500,
+  "price_cheap": 4000,
+  "price_expensive": 7000,
+  "price_too_expensive": 10000
 }

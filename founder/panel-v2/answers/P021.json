@@ -1,0 +1,13 @@
+{
+  "id": "P021",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "4.950 € artı KDV, kira, asistan ve malzeme giderleri zaten zorlarken benim için çok büyük bir para; klasik ölçü işimi görüyor ve hastam şikâyet etmiyor. Hasta başı 50 € kiralama da Ankara'da hastadan alabildiğim ücrete göre fazla, kârımı yer.",
+  "objection": "Bu parayı verip cihazı alsam kendini ne zaman amorti eder bilmiyorum; ikinci el ilanlarda ya da depo kampanyalarında daha ucuzunu bulabilirim diye düşünüyorum, birkaç teklif almadan karar vermem.",
+  "would_change_my_mind": "Ücretsiz denemede hastalarımın ölçü ve laboratuvar masrafından gerçekten tasarruf ettiğimi görmek ve fiyatın 3.000 € civarına inmesi ya da faizsiz taksitle ödenebilmesi.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2500,
+  "price_expensive": 3500,
+  "price_too_expensive": 4500
+}

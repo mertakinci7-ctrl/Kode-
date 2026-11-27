@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, yeni açtığım muayenehanede 4.950 € artı KDV'yi dijital ölçüye ayıracak durumum yok. Kiralamada da hasta başı 50 € her ölçüye eklenen ciddi bir maliyet, hastaya yansıtması zor.",
+  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak? Cihaz bende dururken kullanımı kim, neye göre kaydedecek, faturada tartışma çıkmaz mı? Bir de Çin malı bir cihazın hassasiyeti ve laboratuvarımın bu dosyalarla çalışıp çalışmayacağı belli değil.",
+  "would_change_my_mind": "Fuarda ya da kliniğimde ücretsiz denemede taramaların laboratuvarımla sorunsuz çalıştığını görmek ve satın alma fiyatının 3.000 € civarına inmesi ya da faizsiz taksit seçeneği.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2500,
+  "price_expensive": 3500,
+  "price_too_expensive": 4500
+}

@@ -29,7 +29,7 @@
   "income": 84000,
   "behaviour": "Meslektaş tavsiyesiyle alan",
   "behaviour_how": "Cihazı kullanan bir meslektaşı ne derse ona göre karar verir.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "bulantı refleksi olan hastalarda ölçü almakta zorlanıyorsun"
  },
  {
@@ -73,7 +73,7 @@
   "income": 140000,
   "behaviour": "Fiyat avcısı",
   "behaviour_how": "İkinci el ilanlara ve depo kampanyalarına bakar, birkaç teklif toplamadan karar vermez.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "haftada bir meslektaş WhatsApp grubunda cihaz tavsiyeleri okuyorsun"
  },
  {
@@ -106,7 +106,7 @@
   "income": 56000,
   "behaviour": "Fiyat avcısı",
   "behaviour_how": "İkinci el ilanlara ve depo kampanyalarına bakar, birkaç teklif toplamadan karar vermez.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "her yıl Dental fuarını dolaşıp yeni cihazlara bakıyorsun"
  },
  {
@@ -117,7 +117,7 @@
   "income": 180000,
   "behaviour": "Laboratuvarına bağlı",
   "behaviour_how": "Çalıştığı laboratuvar hangi tarayıcıyı önerirse onu düşünür, dosyanın sorunsuz gitmesini her şeyin önüne koyar.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "ayda 15 ile 25 arası ölçü alıyorsun, çoğu kron-köprü ve implant üstü"
  },
  {
@@ -128,7 +128,7 @@
   "income": 37000,
   "behaviour": "Klasik ölçüden memnun",
   "behaviour_how": "Silikon ölçüyle yıllardır sorunsuz çalışır, dijitale geçme ihtiyacı hissetmez.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "her yıl Dental fuarını dolaşıp yeni cihazlara bakıyorsun"
  },
  {
@@ -139,7 +139,7 @@
   "income": 85000,
   "behaviour": "Fiyat avcısı",
   "behaviour_how": "İkinci el ilanlara ve depo kampanyalarına bakar, birkaç teklif toplamadan karar vermez.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "her yıl Dental fuarını dolaşıp yeni cihazlara bakıyorsun"
  },
  {
@@ -150,7 +150,7 @@
   "income": 41000,
   "behaviour": "Laboratuvarına bağlı",
   "behaviour_how": "Çalıştığı laboratuvar hangi tarayıcıyı önerirse onu düşünür, dosyanın sorunsuz gitmesini her şeyin önüne koyar.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "çalıştığın laboratuvar dijital dosya istemeye başladı"
  },
  {
@@ -194,7 +194,7 @@
   "income": 29000,
   "behaviour": "Klasik ölçüden memnun",
   "behaviour_how": "Silikon ölçüyle yıllardır sorunsuz çalışır, dijitale geçme ihtiyacı hissetmez.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "ayda 15 ile 25 arası ölçü alıyorsun, çoğu kron-köprü ve implant üstü"
  },
  {
@@ -249,7 +249,7 @@
   "income": 58000,
   "behaviour": "Premium marka sadığı",
   "behaviour_how": "3Shape ya da iTero gibi bilinen markalara güvenir, az bilinen markaya mesafelidir.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "bulantı refleksi olan hastalarda ölçü almakta zorlanıyorsun"
  },
  {
@@ -260,7 +260,7 @@
   "income": 49000,
   "behaviour": "Taksitle alan",
   "behaviour_how": "Cihazı depodan vade farksız taksitle alır, aylık ödemeye bakar.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "aylık sabit giderlerin (kira, asistan, malzeme) seni zaten zorluyor"
  },
  {
@@ -293,7 +293,7 @@
   "income": 91000,
   "behaviour": "Taksitle alan",
   "behaviour_how": "Cihazı depodan vade farksız taksitle alır, aylık ödemeye bakar.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "ayda birkaç şeffaf plak ya da ortodonti vakası alıyorsun"
  },
  {
@@ -304,7 +304,7 @@
   "income": 84000,
   "behaviour": "Meslektaş tavsiyesiyle alan",
   "behaviour_how": "Cihazı kullanan bir meslektaşı ne derse ona göre karar verir.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "ayda 15 ile 25 arası ölçü alıyorsun, çoğu kron-köprü ve implant üstü"
  },
  {
@@ -403,7 +403,7 @@
   "income": 200000,
   "behaviour": "Fiyat avcısı",
   "behaviour_how": "İkinci el ilanlara ve depo kampanyalarına bakar, birkaç teklif toplamadan karar vermez.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "ayda birkaç şeffaf plak ya da ortodonti vakası alıyorsun"
  },
  {
@@ -458,7 +458,7 @@
   "income": 56000,
   "behaviour": "Önce dener sonra alır",
   "behaviour_how": "Büyük bir cihaza para bağlamadan önce kendi hastalarında denemek ister.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "bulantı refleksi olan hastalarda ölçü almakta zorlanıyorsun"
  },
  {
@@ -546,7 +546,7 @@
   "income": 22000,
   "behaviour": "Meslektaş tavsiyesiyle alan",
   "behaviour_how": "Cihazı kullanan bir meslektaşı ne derse ona göre karar verir.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "aylık sabit giderlerin (kira, asistan, malzeme) seni zaten zorluyor"
  },
  {
@@ -557,7 +557,7 @@
   "income": 149000,
   "behaviour": "Önce dener sonra alır",
   "behaviour_how": "Büyük bir cihaza para bağlamadan önce kendi hastalarında denemek ister.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "her yıl Dental fuarını dolaşıp yeni cihazlara bakıyorsun"
  },
  {
@@ -568,7 +568,7 @@
   "income": 52000,
   "behaviour": "Taksitle alan",
   "behaviour_how": "Cihazı depodan vade farksız taksitle alır, aylık ödemeye bakar.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "çalıştığın laboratuvar dijital dosya istemeye başladı"
  },
  {
@@ -579,7 +579,7 @@
   "income": 46000,
   "behaviour": "Önce dener sonra alır",
   "behaviour_how": "Büyük bir cihaza para bağlamadan önce kendi hastalarında denemek ister.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "çalıştığın laboratuvar dijital dosya istemeye başladı"
  },
  {
@@ -590,7 +590,7 @@
   "income": 35000,
   "behaviour": "Fiyat avcısı",
   "behaviour_how": "İkinci el ilanlara ve depo kampanyalarına bakar, birkaç teklif toplamadan karar vermez.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "her yıl Dental fuarını dolaşıp yeni cihazlara bakıyorsun"
  },
  {
@@ -623,7 +623,7 @@
   "income": 50000,
   "behaviour": "Premium marka sadığı",
   "behaviour_how": "3Shape ya da iTero gibi bilinen markalara güvenir, az bilinen markaya mesafelidir.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "her yıl Dental fuarını dolaşıp yeni cihazlara bakıyorsun"
  },
  {
@@ -656,7 +656,7 @@
   "income": 43000,
   "behaviour": "Laboratuvarına bağlı",
   "behaviour_how": "Çalıştığı laboratuvar hangi tarayıcıyı önerirse onu düşünür, dosyanın sorunsuz gitmesini her şeyin önüne koyar.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "haftada bir meslektaş WhatsApp grubunda cihaz tavsiyeleri okuyorsun"
  },
  {
@@ -689,7 +689,7 @@
   "income": 91000,
   "behaviour": "Taksitle alan",
   "behaviour_how": "Cihazı depodan vade farksız taksitle alır, aylık ödemeye bakar.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "aylık sabit giderlerin (kira, asistan, malzeme) seni zaten zorluyor"
  },
  {
@@ -700,7 +700,7 @@
   "income": 36000,
   "behaviour": "Klasik ölçüden memnun",
   "behaviour_how": "Silikon ölçüyle yıllardır sorunsuz çalışır, dijitale geçme ihtiyacı hissetmez.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "çalıştığın laboratuvar dijital dosya istemeye başladı"
  },
  {
@@ -711,7 +711,7 @@
   "income": 86000,
   "behaviour": "Fiyat avcısı",
   "behaviour_how": "İkinci el ilanlara ve depo kampanyalarına bakar, birkaç teklif toplamadan karar vermez.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "bulantı refleksi olan hastalarda ölçü almakta zorlanıyorsun"
  },
  {
@@ -766,7 +766,7 @@
   "income": 36000,
   "behaviour": "Klasik ölçüden memnun",
   "behaviour_how": "Silikon ölçüyle yıllardır sorunsuz çalışır, dijitale geçme ihtiyacı hissetmez.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "aylık sabit giderlerin (kira, asistan, malzeme) seni zaten zorluyor"
  },
  {
@@ -777,7 +777,7 @@
   "income": 115000,
   "behaviour": "Fiyat avcısı",
   "behaviour_how": "İkinci el ilanlara ve depo kampanyalarına bakar, birkaç teklif toplamadan karar vermez.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "çalıştığın laboratuvar dijital dosya istemeye başladı"
  },
  {
@@ -799,7 +799,7 @@
   "income": 54000,
   "behaviour": "Meslektaş tavsiyesiyle alan",
   "behaviour_how": "Cihazı kullanan bir meslektaşı ne derse ona göre karar verir.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "bulantı refleksi olan hastalarda ölçü almakta zorlanıyorsun"
  },
  {
@@ -810,7 +810,7 @@
   "income": 54000,
   "behaviour": "Premium marka sadığı",
   "behaviour_how": "3Shape ya da iTero gibi bilinen markalara güvenir, az bilinen markaya mesafelidir.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; burada taksit yok",
   "habit": "aylık sabit giderlerin (kira, asistan, malzeme) seni zaten zorluyor"
  },
  {
@@ -821,7 +821,7 @@
   "income": 41000,
   "behaviour": "Taksitle alan",
   "behaviour_how": "Cihazı depodan vade farksız taksitle alır, aylık ödemeye bakar.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "ayda birkaç şeffaf plak ya da ortodonti vakası alıyorsun"
  },
  {
@@ -876,7 +876,7 @@
   "income": 188000,
   "behaviour": "Premium marka sadığı",
   "behaviour_how": "3Shape ya da iTero gibi bilinen markalara güvenir, az bilinen markaya mesafelidir.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "çalıştığın laboratuvar dijital dosya istemeye başladı"
  },
  {
@@ -1041,7 +1041,7 @@
   "income": 103000,
   "behaviour": "Önce dener sonra alır",
   "behaviour_how": "Büyük bir cihaza para bağlamadan önce kendi hastalarında denemek ister.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "ayda birkaç şeffaf plak ya da ortodonti vakası alıyorsun"
  },
  {
@@ -1052,7 +1052,7 @@
   "income": 74000,
   "behaviour": "Meslektaş tavsiyesiyle alan",
   "behaviour_how": "Cihazı kullanan bir meslektaşı ne derse ona göre karar verir.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "her yıl Dental fuarını dolaşıp yeni cihazlara bakıyorsun"
  },
  {
@@ -1063,7 +1063,7 @@
   "income": 55000,
   "behaviour": "Klasik ölçüden memnun",
   "behaviour_how": "Silikon ölçüyle yıllardır sorunsuz çalışır, dijitale geçme ihtiyacı hissetmez.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "ayda 15 ile 25 arası ölçü alıyorsun, çoğu kron-köprü ve implant üstü"
  },
  {
@@ -1085,7 +1085,7 @@
   "income": 80000,
   "behaviour": "Taksitle alan",
   "behaviour_how": "Cihazı depodan vade farksız taksitle alır, aylık ödemeye bakar.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "objection": "Kiralamada randevuya bağlı kalırım; hasta koltuktayken cihaz yolda olursa ne olacak?",
   "habit": "aylık sabit giderlerin (kira, asistan, malzeme) seni zaten zorluyor"
  },
  {

@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Klasik ölçüyle yıllardır sorunsuz çalışıyorum, laboratuvarım da alışık; ayda 20 ölçü için ne 4.950 € verip öğrenme zahmetine girerim ne de hasta başı 50 € öderim, o para ölçü malzemesinin kat kat üstü.",
-  "objection": "Bu markayı kullanan tanıdığım bir meslektaşım yok; Çin malı bir tarayıcının kron-köprü ve implantta yeterince hassas olup olmadığını, laboratuvarımın dosyaları sorunsuz alıp almadığını bilmiyorum.",
-  "would_change_my_mind": "Ankara'da güvendiğim bir meslektaşımın bu cihazı aylardır implant ve köprü vakalarında kullanıp laboratuvarla sorun yaşamadığını kendi ağzından söylemesi; o zaman ücretsiz denemeyi kabul ederim.",
+  "reason": "Klasik ölçü zaten işimi görüyor, hastam da şikâyet etmiyor; tanıdığım hiçbir meslektaşım bu cihazı kullanmıyor. Hasta başı 50 € ayda 15-25 ölçüde bana pahalı geliyor, 4.950 € de benim gelirime göre ciddi para.",
+  "objection": "Çin malı, adını ilk kez duyduğum bir marka; kullanan bir meslektaşımdan 'iyi, lab da sorunsuz kabul ediyor' demeden bu kadar parayı riske atmam.",
+  "would_change_my_mind": "Ankara'da güvendiğim bir meslektaşımın bu cihazı aylardır kullanıp laboratuvarla sorunsuz çalıştığını kendi ağzından söylemesi; o zaman ücretsiz denemeyi yapar, belki satın alırım.",
   "price_too_cheap": 1500,
   "price_cheap": 3000,
   "price_expensive": 4500,
-  "price_too_expensive": 6500
+  "price_too_expensive": 6000
 }

@@ -2,12 +2,12 @@
   "id": "P040",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "price",
-  "reason": "Muayenehaneyi yeni açtım, 4.950 € neredeyse yıllık gelirimin dörtte biri; hasta başı 50 € kiralama da hastadan aldığım ücretin yanında çok ağır kalıyor. Bulantı refleksli hastalarda işime yarayacağını biliyorum ama şu an bu parayı ayıramam.",
-  "objection": "Bu parayı karşılayacak hasta sayım yok; ayrıca Launca'yı kullanan tanıdık bir meslektaşım yok, bilgisayarımla uyumu ve kurulum-eğitimi kimin yapacağı da belli değil.",
-  "would_change_my_mind": "Cihazı kullanan güvendiğim bir meslektaşın memnun olduğunu söylemesi ve aylık taksitle, kurulum ve eğitim dahil olarak 3.000 € civarına inmesi.",
+  "reason_code": "trust",
+  "reason": "Muayenehaneyi yeni açtım, 4.950 € benim için çok büyük para; kiralama mantıklı görünse de bu cihazı kullanan tanıdığım tek bir meslektaşım yok. Ücretsiz denemeyi belki isterim ama bir meslektaşım 'iyi, lab da kabul ediyor' demeden hasta başı bile ödemeye başlamam.",
+  "objection": "Çinli bir marka, Ankara'da kim kullanıyor bilmiyorum; bilgisayarımla uyumlu mu, kurulumu ve eğitimi kim yapacak, ölçüler laboratuvarımda gerçekten tutacak mı emin değilim.",
+  "would_change_my_mind": "Ankara'da bu cihazı kullanan güvendiğim bir meslektaşın kliniğinde görmek ve onun laboratuvarının taramaları sorunsuz kabul ettiğini duymak.",
   "price_too_cheap": 1500,
-  "price_cheap": 2500,
-  "price_expensive": 3800,
-  "price_too_expensive": 5000
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
 }

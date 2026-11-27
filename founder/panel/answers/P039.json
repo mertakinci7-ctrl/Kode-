@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Fiyat tarayıcı için makul, ücretsiz deneme de güzel ama Launca'yı WhatsApp grubunda kimsenin kullandığını duymadım; ayrıca taksit seçeneği yazmıyor, peşin 4.950 € + KDV'yi bir anda çıkarmam. Bu ay almam, önce meslektaşlara sorarım.",
-  "objection": "Çin malı, teknik servis 'Türkiye geneli' diyor ama Ankara'da arıza olunca yedek cihaz kaç günde geliyor, firma yarın ortadan kaybolursa yazılım güncellemesi ve parça kim verecek belli değil.",
-  "would_change_my_mind": "Tanıdığım bir depodan vade farksız 12 taksitle alabilmek ve Ankara'da bu cihazı en az bir yıldır sorunsuz kullanan bir meslektaşın tavsiyesi.",
+  "reason": "Ücretsiz denemeyi belki kabul ederim ama Launca'yı meslektaş grubunda kimse önermeden, bir ay içinde cihazı satın almam. Üstelik taksit seçeneği yazmıyor; ben aylık ödemeye bakarım, peşin 4.950 € + KDV bana göre değil.",
+  "objection": "Çin malı bir cihaz; distribütör yedek cihaz veriyor diyor ama yarın bu firma kapanırsa ya da yedek cihaz söz verdiği gibi gelmezse klinikte iş durur. Kaç kliniğin kullandığını, servisin gerçekten işleyip işlemediğini bilmiyorum.",
+  "would_change_my_mind": "Ankara'da bu cihazı kullanan birkaç meslektaşın olumlu referansı ve depodan vade farksız 12 ay taksit seçeneği.",
   "price_too_cheap": 2000,
   "price_cheap": 3500,
-  "price_expensive": 6500,
-  "price_too_expensive": 9000
+  "price_expensive": 7000,
+  "price_too_expensive": 10000
 }

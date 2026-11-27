@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Yıllardır bilinen markalarla çalışıyorum, kron-köprü ve implant ölçüsünde hassasiyet her şey; adını ilk kez duyduğum bir Çin markasına hastalarımın ölçüsünü emanet etmem. Kiralama da ayda 15-25 ölçüyle bana pahalıya gelir, deneme teklifi güzel ama şimdilik almam.",
-  "objection": "Çin malı bir cihaz; Türkiye'de servisi gerçekten kim veriyor, Ankara'da yedek cihaz kaç günde geliyor, iki yıl sonra firma hâlâ burada olacak mı, belli değil.",
-  "would_change_my_mind": "Ankara'da tanıdığım, güvendiğim birkaç meslektaşın bu cihazı bir yıldır sorunsuz kullandığını ve laboratuvarımın ölçülerden memnun kaldığını görmek; servis ve yedek cihaz süresinin yazılı sözleşmeyle garanti edilmesi.",
-  "price_too_cheap": 2500,
-  "price_cheap": 4000,
-  "price_expensive": 7000,
-  "price_too_expensive": 10000
+  "reason": "Ayda 20 civarı kron-köprü ve implant ölçüsü alıyorum, hassasiyet benim için her şey; yıllardır bilinen markalara güveniyorum, adını ilk kez duyduğum bir Çin markasıyla hastamın ölçüsünü riske atmam. Ücretsiz deneme hoş ama şu an bu hafta bir karar vermem.",
+  "objection": "Distribütör yarın kapanırsa ya da Launca Türkiye'den çekilirse cihaz ve yazılım güncellemeleri ne olacak; implant üstü ölçülerde 3Shape ya da iTero kadar hassas olduğuna inanmıyorum.",
+  "would_change_my_mind": "Kendi laboratuvarımın implant üstü vakalarda bu cihazın STL'lerini sorunsuz kabul ettiğini görmek ve Ankara'da bu cihazı birkaç yıldır kullanan tanıdığım meslektaşlardan olumlu referans almak.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 6000,
+  "price_too_expensive": 8500
 }

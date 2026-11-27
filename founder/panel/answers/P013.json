@@ -2,12 +2,12 @@
   "id": "P013",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Kiralamaya hiç girmem; hasta başı 50 € ile yüz hastada cihazın parası çıkar, sayımı da kim yapacak belli değil. Satın alma fiyatı fena değil ama ben birkaç teklif toplamadan, ikinci el ilanlara ve fuardaki kampanyalara bakmadan bu ay hiçbir cihaza para vermem.",
-  "objection": "Çinli bir marka, Ankara'da servisi ve yedek cihazı gerçekten zamanında getirir mi, yazılımı laboratuvarımla sorunsuz çalışır mı, emin değilim; kiralamada da hasta başı sayımı kimin nasıl tuttuğuna güvenmiyorum.",
-  "would_change_my_mind": "Ücretsiz denemede kendi hastalarımda taramaların laboratuvara sorunsuz gitmesi ve topladığım diğer tekliflerden, ikinci el muadillerden açıkça daha ucuz kalan, yazılı servis süresi garantili bir satın alma fiyatı.",
+  "reason_code": "price",
+  "reason": "Ücretsiz denemeyi kabul ederim ama ilk teklifte 4.950 € ödemem; önce fuarda ve ikinci el ilanlarda Medit, Shining 3D gibi rakiplerden en az iki üç teklif toplarım. Kiralama ise benim için uymaz, hasta koltuktayken cihazın gelip gelmeyeceğine bağlı kalmak istemem.",
+  "objection": "Çinli bir markaya bu parayı verip birkaç yıl sonra servis ve yedek parçada ortada kalmaktan korkuyorum; aynı paraya ikinci el daha bilinen bir tarayıcı bulabilir miyim, onu görmeden karar vermem.",
+  "would_change_my_mind": "Denemede laboratuvarım STL'leri sorunsuz onaylarsa ve fiyat rakip tekliflerin altına, 4.000 € civarına inerse, yazılı servis garantisiyle birlikte alırım.",
   "price_too_cheap": 2000,
-  "price_cheap": 3800,
-  "price_expensive": 5500,
-  "price_too_expensive": 7500
+  "price_cheap": 3500,
+  "price_expensive": 5000,
+  "price_too_expensive": 6500
 }

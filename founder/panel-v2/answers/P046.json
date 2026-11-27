@@ -1,0 +1,13 @@
+{
+  "id": "P046",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Laboratuvarım artık dijital dosya istiyor, bu işi ertelemem mümkün değil. Ücretsiz denemede kendi hastalarımda tarama yapıp laboratuvar dosyayı sorunsuz kabul ederse, 4.950 € bu kadar hekimli bir klinik için makul; satın alırım, hasta başı 50 € kiralama bizim hasta sayımızda çok pahalıya gelir.",
+  "objection": "Laboratuvarım bu tarayıcının dosyasını sorunsuz kabul edecek mi, yoksa her vakada uyum sorunu mu yaşayacağız? Bir de Çinli marka; birkaç yıl sonra yazılım güncellemesi ve servis gerçekten sürecek mi?",
+  "would_change_my_mind": "Denemede laboratuvarım dosyalarda uyum sorunu yaşar ya da kenar hatlarını net okuyamazsa almam.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4000,
+  "price_expensive": 7500,
+  "price_too_expensive": 12000
+}
