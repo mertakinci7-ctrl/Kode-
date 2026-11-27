@@ -1,0 +1,13 @@
+{
+  "id": "P056",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Fiyat iTero ya da Medit'e göre cazip, ücretsiz denemeyi de büyük ihtimalle isterim; ama Çin malı bir tarayıcıyı birkaç vakada laboratuvarım onaylamadan ve taksit şartlarını görmeden bu ay almam. Ayda birkaç plak vakası için hasta başı 50 € da tek başına beni kiralamaya itmiyor, çünkü klinikte birden fazla hekim var ve cihazın elimizin altında olmasını isterim.",
+  "objection": "Bilgisayarlarımız ve kullandığım yazılım/laboratuvar akışıyla sorunsuz çalışacak mı, kurulumu ve hekimlerin eğitimini kim yapacak belli değil; bir de taksit seçeneği hiç yazmıyor, peşin 4.950 € + KDV'yi tek seferde ödemek istemem.",
+  "would_change_my_mind": "Ücretsiz denemede laboratuvarımın STL'leri sorunsuz onaylaması, kurulum ve eğitimin yerinde yapılacağının yazılı olması ve depodan vade farksız 12 taksit imkânı.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 6500,
+  "price_too_expensive": 9000
+}

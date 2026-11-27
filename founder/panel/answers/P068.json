@@ -1,0 +1,13 @@
+{
+  "id": "P068",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "Çok hekimli klinikte bir tarayıcı tüm koltuklara yetmiyor; 4.950 € bu cihazlar için çok uygun, kendi kliniğimde ücretsiz deneyip laboratuvarım STL'leri onaylarsa ikinci ünite olarak alırım. Kiralama bana göre değil, hacmim yüksek.",
+  "objection": "Bilgisayarlarım uyumlu mu, kurulumu ve hekimlerimin eğitimini kim yapacak belli değil; yazılım için yıllık lisans ya da gizli ücret var mı, Çinli markanın birkaç yıl sonra servis ve yedek parçası sürecek mi, bunlar yazmıyor. Taksit seçeneği de yok, ben cihazı vade farksız taksitle almaya alışkınım.",
+  "would_change_my_mind": "Deneme sırasında taramalar laboratuvarımdan geri dönerse ya da kurulum, eğitim ve yazılım ücretsiz değilse almam; vade farksız 6-12 taksit sunulsa hemen karar veririm.",
+  "price_too_cheap": 2500,
+  "price_cheap": 4000,
+  "price_expensive": 7500,
+  "price_too_expensive": 11000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P051",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "Kiralama bana göre değil, birden fazla hekim çalışan klinikte cihazın randevuyla gelip gitmesini beklemem. Ama 4.950 € bir tarayıcı için düşük; ücretsiz denemede taramalar laboratuvardan onay alırsa kendi cihazımız olsun diye satın alırım.",
+  "objection": "Launca'yı fuarda gördüm ama Çin malı bir tarayıcının hassasiyetine ve birkaç yıl sonra yazılım desteğine tam güvenmiyorum; ucuz diye alıp sonra laboratuvarla uyumsuzluk yaşamak istemem.",
+  "would_change_my_mind": "Deneme taramalarında laboratuvarım uyumsuzluk ya da kenar uyum sorunu bildirirse almam.",
+  "price_too_cheap": 2000,
+  "price_cheap": 4000,
+  "price_expensive": 7000,
+  "price_too_expensive": 10000
+}

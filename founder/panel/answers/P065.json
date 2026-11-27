@@ -1,0 +1,13 @@
+{
+  "id": "P065",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Bulantı refleksli hastalar için tarayıcıya gerçekten ihtiyacım var, ama tek bir teklifle 4.950 € + KDV ödemem; önce ikinci el ilanlara ve başka bayilerin kampanyalarına bakıp birkaç teklif toplarım. Kiralama da randevuya bağlı olduğu için bana göre değil.",
+  "objection": "4.950 € + KDV, ikinci el bir tarayıcıya ya da başka bir markanın kampanyasına göre pahalı olabilir; Çinli bir marka için bu parayı vermeden önce karşılaştırmam lazım. Kiralamada da hasta koltuktayken cihazın yolda olması riski var.",
+  "would_change_my_mind": "Ücretsiz denemede STL'leri laboratuvarım onaylarsa ve fiyat 4.000 €'nun altına inerse ya da topladığım tekliflerin en ucuzu bu çıkarsa satın alırım.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4300,
+  "price_too_expensive": 5800
+}

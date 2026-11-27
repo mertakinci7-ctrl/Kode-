@@ -1,0 +1,13 @@
+{
+  "id": "P064",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Yeni açtığım muayenehanede 4.950 € artı KDV'yi peşin bayılacak param yok, taksit de yok; silikon ölçü hâlâ işimi görüyor. Laboratuvar dijital istiyorsa ölçüyü gönderirim, modeli onlar tarasın.",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; adını ilk kez duyduğum Çinli bir markaya peşin para vermem. Hasta başı 50 € de benim hastalarıma ölçü ücreti olarak fazla geliyor.",
+  "would_change_my_mind": "12 ay taksit imkânı ve laboratuvarımın ölçüleri artık kesinlikle kabul etmeyeceğini söylemesi.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2500,
+  "price_expensive": 3800,
+  "price_too_expensive": 5000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P053",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Ücretsiz denemeyi kabul ederim, laboratuvar da dijital dosya istiyor; ama bu ay 4.950 € peşin bağlamam, hasta başı 50 € de benim hastalarıma ölçü maddesinin yanında çok pahalı geliyor. 60 yaşındayım, bu yatırımı kaç yılda çıkaracağımı bilmeden almam.",
+  "objection": "Taksit yok; aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım. Çinli marka, birkaç yıl sonra servis ve yazılım desteği sürer mi emin değilim.",
+  "would_change_my_mind": "12 ay taksit seçeneği ve denemede laboratuvarımın STL dosyalarını sorunsuz onaylaması.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
+}

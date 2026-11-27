@@ -1,0 +1,13 @@
+{
+  "id": "P060",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Muayenehaneyi yeni açtım, 4.950 € benim için çok büyük para; laboratuvarım bu markayı önermeden Çinli bir tarayıcıya ne para basarım ne de hastamı kiralık cihaza bağlarım.",
+  "objection": "Kiralamada randevuya bağlı kalıyorum; hasta koltuktayken cihaz yolda kalırsa ya da 'müsait değiliz' derlerse hastaya ne diyeceğim? Bir de dosyalar laboratuvarıma sorunsuz gidecek mi, emin değilim.",
+  "would_change_my_mind": "Çalıştığım laboratuvarın bu cihazın STL dosyalarını sorunsuz kabul ettiğini söyleyip cihazı açıkça önermesi; o zaman önce ücretsiz denemeyi, sonra kiralamayı düşünürüm.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
+}

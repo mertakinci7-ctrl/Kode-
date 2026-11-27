@@ -1,0 +1,13 @@
+{
+  "id": "P070",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, laboratuvarım da memnun; yeni açtığım muayenehanede kira ve asistan maaşı zaten zorlarken 4.950 € + KDV'yi peşin, taksitsiz verecek durumum yok. Kiralama mantıklı görünse de hasta başı 50 € benim hastalarıma yansıtamayacağım bir ek maliyet, silikon ölçü bana çok daha ucuza geliyor.",
+  "objection": "Taksit yok; aynı paraya depodan taksitle bilinen bir marka ya da ikinci el bir Medit alırım. Çin malı bir markanın birkaç yıl sonra servisinin, yazılım güncellemesinin devam edeceğinden de emin değilim.",
+  "would_change_my_mind": "12 ay vade farksız taksit ya da aylık küçük sabit bir ödemeyle satın alma imkanı, artı bildiğim bir meslektaşın bu cihazı bir yıldır sorunsuz kullandığını görmek.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2500,
+  "price_expensive": 3800,
+  "price_too_expensive": 5000
+}

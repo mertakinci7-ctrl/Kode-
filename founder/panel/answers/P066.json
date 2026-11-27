@@ -1,0 +1,13 @@
+{
+  "id": "P066",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Muayenehaneyi yeni açtım, 4.950 € + KDV'yi peşin çıkaramam ve teklifte taksit hiç yazmıyor. Kiralama da ayda 20 hastayla 1.000 € eder, o parayla birkaç ayda cihazın taksitlerini öderim; ücretsiz denemeyi belki yaparım ama bu ay almam.",
+  "objection": "Ödeme planı yok; vade farksız taksit olmadan bu tutar benim için çok ağır. Bir de Çin malı, birkaç yıl sonra servis ve yedek cihaz sözü gerçekten tutulacak mı, emin değilim.",
+  "would_change_my_mind": "12 ay vade farksız taksit (aylık 400-450 € civarı) ve yazılı garanti ile yedek cihaz taahhüdü olsa, laboratuvarım STL'leri onaylarsa alırım.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
+}

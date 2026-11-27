@@ -1,0 +1,13 @@
+{
+  "id": "P054",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Muayenehaneyi yeni açtım, 4.950 € artı KDV'yi peşin, taksitsiz bir Çin markasına bir anda bağlayamam. Ücretsiz denemeyi belki yaparım ama karar vermeden önce ikinci el Medit ilanlarına ve depoların taksitli kampanyalarına bakıp birkaç teklif toplarım.",
+  "objection": "Taksit yok; aynı parayla ikinci el bilinen bir marka ya da depodan taksitle Medit alabilirken, ikinci elde değeri belirsiz bir Launca'ya peşin para vermek riskli geliyor.",
+  "would_change_my_mind": "12 aya yayılan faizsiz taksit ya da kiralamada ödenen hasta başı ücretlerin satın alma fiyatından düşülmesi.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4200,
+  "price_too_expensive": 5500
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P067",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Muayenehaneyi yeni açtım, ayda birkaç vakam var; 4.950 € benim için çok yüksek. Kiralama mantıklı görünüyor ama laboratuvarım bu tarayıcıyı önermeden hiçbir şeye girmem, ölçüyü şimdilik bildiğim yöntemle almaya devam ederim.",
+  "objection": "Laboratuvarım Launca dosyalarını sorunsuz kabul ediyor mu bilmiyorum; ayrıca bilgisayarımla uyumu, kurulumu ve bana eğitimi kimin vereceği yazmıyor.",
+  "would_change_my_mind": "Laboratuvarımın bu cihazı önermesi ve ücretsiz denemede gönderdiğim STL dosyalarını sorunsuz onaylaması; o olursa hasta başı kiralamayla başlarım.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2500,
+  "price_expensive": 3500,
+  "price_too_expensive": 4500
+}
