@@ -1,0 +1,13 @@
+{
+  "id": "P100",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason": "Ücretsiz denemeyi kabul ederim ama laboratuvarım bu markayı önermeden ne satın alırım ne de kiralamaya geçerim; bu ay yapacağım şey sadece birkaç hastada deneyip STL'leri laboratuvara göndermek olur.",
+  "reason_code": "trust",
+  "objection": "Laboratuvarım Launca dosyalarını sorunsuz açıp kullanabilecek mi, yoksa ölçüler geri mi dönecek? Çin markası, fuarda pek konuşulmuyor; kurulumu ve hekimlerimin eğitimini gerçekten kim yapacak belli değil.",
+  "would_change_my_mind": "Laboratuvarımın deneme taramalarını onaylayıp bu cihazla çalışmaktan memnun olduğunu söylemesi, ve kliniğimdeki bilgisayarlara kurulum ile hekimlere yerinde eğitimin fiyata dahil olduğunun yazılı olması.",
+  "price_too_cheap": 2500,
+  "price_cheap": 4000,
+  "price_expensive": 6500,
+  "price_too_expensive": 9000
+}

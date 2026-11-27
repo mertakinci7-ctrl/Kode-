@@ -1,0 +1,13 @@
+{
+  "id": "P080",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Laboratuvar dijital dosya istiyor, tarayıcı alacağım belli; ama çok hekimli bir klinikte her gün kullanılacak bir cihaz için az bilinen bir Çin markasına değil, 3Shape ya da iTero'ya para veririm. Kiralama da bana göre değil, hasta koltuktayken cihazın yolda olmasını kaldıramam.",
+  "objection": "Launca'yı tanımıyorum; tarama kalitesi, yazılım güncellemeleri ve birkaç yıl sonra bu distribütörün hâlâ burada olup olmayacağı belirsiz. Arızada yedek cihaz 1-2 gün diyorlar ama o 1-2 gün benim kliniğimde hasta iptali demek.",
+  "would_change_my_mind": "Ankara'da güvendiğim birkaç meslektaşın bu cihazı en az bir yıldır sorunsuz kullandığını görmek ve laboratuvarımın STL dosyalarını iTero kadar iyi bulduğunu yazılı olarak söylemesi.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 6500,
+  "price_too_expensive": 9000
+}

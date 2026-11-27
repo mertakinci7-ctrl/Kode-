@@ -1,0 +1,13 @@
+{
+  "id": "P096",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Launca adını fuarda görmüşümdür ama kullanan tanıdık bir meslektaşım yok; kimse bana 'al, memnunum' demeden 4.950 € vermem. Kiralamaya da girmem, hasta koltuktayken cihazın randevuya yetişmesine bağlı kalmak istemem.",
+  "objection": "Çin malı bir tarayıcının taramaları laboratuvarımda ne kadar sorunsuz çıkar, birkaç yıl sonra servis ve yazılım desteği sürer mi, bilmiyorum; kullanan bir meslektaştan duymadan güvenemem.",
+  "would_change_my_mind": "Ankara'da güvendiğim bir meslektaşımın bu cihazı birkaç aydır kullanıp memnun olduğunu ve laboratuvarının taramalardan şikayetçi olmadığını kendi ağzından duymak.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 6500,
+  "price_too_expensive": 9000
+}

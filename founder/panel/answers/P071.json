@@ -1,0 +1,13 @@
+{
+  "id": "P071",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Laboratuvar dijital dosya istiyor, bir tarayıcıya ihtiyacım olacağı belli; ama birkaç teklif toplamadan, ikinci el ilanlara ve depo kampanyalarına bakmadan bu ay 4.950 € ödemem. Çok hekimli klinikte hasta başı 50 € kiralama da hesaba gelmez, randevuya bağlı kalmak da istemem.",
+  "objection": "Çin markası, 4.950 € ucuz görünüyor ama tarama doğruluğu ve birkaç yıl sonra yazılım/servis desteği sürecek mi bilmiyorum; diğer markaların ikinci el ve kampanya fiyatlarıyla karşılaştırmadan karar veremem.",
+  "would_change_my_mind": "Ücretsiz denemede laboratuvarımın STL dosyalarını sorunsuz onaylaması ve topladığım diğer tekliflerin (ikinci el dahil) bundan pahalı çıkması; üstüne yazılı bir indirim ya da ek garanti verilirse alırım.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3500,
+  "price_expensive": 5500,
+  "price_too_expensive": 7500
+}

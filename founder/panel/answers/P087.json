@@ -1,0 +1,13 @@
+{
+  "id": "P087",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ayda birkaç vaka için 4.950 €'yu peşin bağlamam, ilanda taksit de yazmıyor; hasta başı kiralama mantıklı görünüyor ama Çinli bir markayı, kurulumu ve eğitimi kimin yapacağını bilmeden hastamın ölçüsünü buna emanet etmem. Önce ücretsiz denemeyi isterim, bu hafta bir şey satın almam.",
+  "objection": "Bilgisayarım ve yazılımım bu tarayıcıyla uyumlu mu, kurulumu ve eğitimi kim yapacak belli değil; ayrıca laboratuvarımın ve plak firmasının bu Launca STL dosyalarını sorunsuz kabul edip etmeyeceğinden emin değilim.",
+  "would_change_my_mind": "Kliniğimde ücretsiz denemeyi kurulum ve eğitimle birlikte yapmaları, laboratuvarımın taramaları onaylaması ve satın almada depo gibi vade farksız 12 ay taksit sunmaları.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 5500,
+  "price_too_expensive": 8000
+}

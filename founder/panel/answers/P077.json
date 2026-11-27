@@ -1,0 +1,13 @@
+{
+  "id": "P077",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason": "Muayenehaneyi yeni açtım, 4.950 € + KDV'yi peşin çıkaramam; satın almada taksitten hiç söz edilmiyor. Kiralamada hasta başı 50 € de bizim zirkonyum fiyatlarımızın yanında çok büyük pay, ölçü maddesiyle hastayı birkaç euroya ölçüyorum.",
+  "reason_code": "price",
+  "objection": "Aylık ödeyebileceğim vade farksız taksit yok; bir de Çin malı cihaz, yedek cihaz sözü var ama distribütör ne kadar ayakta kalır bilmiyorum.",
+  "would_change_my_mind": "Depolar gibi 12 ay vade farksız taksit (ayda 400-450 € civarı) ve yazılı garanti; önce ücretsiz denemede laboratuvarım STL'leri onaylarsa ciddi düşünürüm.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
+}

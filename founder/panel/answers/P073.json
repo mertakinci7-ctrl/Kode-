@@ -1,0 +1,13 @@
+{
+  "id": "P073",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Bulantı refleksi olan hastalarda tarayıcı işimi gerçekten kolaylaştırır ama Launca'yı kullanan tek bir meslektaşım yok; ücretsiz denemeyi belki yaparım ama bu ay ne 4.950 € peşin öderim ne de bilmediğim bir markayla hasta başı kiralamaya başlarım.",
+  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alabilirim; burada taksit yok ve Çinli, tanımadığım bir markanın birkaç yıl sonra servis ve yazılım desteğinin süreceğinden emin değilim.",
+  "would_change_my_mind": "Ankara'da güvendiğim bir meslektaşımın bu cihazı aylardır sorunsuz kullandığını ve laboratuvarının taramalardan memnun olduğunu kendisinden duymam; yanında taksitli ödeme seçeneği olsa satın almayı ciddi düşünürüm.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
+}

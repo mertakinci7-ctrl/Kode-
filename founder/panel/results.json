@@ -1,0 +1,262 @@
+{
+ "business": "Ağız İçi Tarayıcı Satış ve Kiralama (çalışma adı): Launca DL-300 Kablosuz tarayıcının satışı ve hasta başı kiralaması",
+ "seed": 393267,
+ "dealt": 100,
+ "answered": 100,
+ "skipped": [],
+ "buys": 7,
+ "passes": 93,
+ "buy_rate": 0.07,
+ "by_segment": [
+  [
+   "Yeni muayenehane açmış diş hekimi (yıllık geliri USD karşılığı)",
+   30,
+   0.1
+  ],
+  [
+   "Çok hekimli poliklinik / klinik sahibi diş hekimi (yıllık geliri USD karşılığı)",
+   30,
+   0.1
+  ],
+  [
+   "Yerleşik muayenehane sahibi diş hekimi (yıllık geliri USD karşılığı)",
+   40,
+   0.025
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Önce dener sonra alır",
+   12,
+   0.4166666666666667
+  ],
+  [
+   "Taksitle alan",
+   18,
+   0.1111111111111111
+  ],
+  [
+   "Laboratuvarına bağlı",
+   15,
+   0.0
+  ],
+  [
+   "Meslektaş tavsiyesiyle alan",
+   13,
+   0.0
+  ],
+  [
+   "Fiyat avcısı",
+   15,
+   0.0
+  ],
+  [
+   "Klasik ölçüden memnun",
+   15,
+   0.0
+  ],
+  [
+   "Premium marka sadığı",
+   12,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "under $43,000",
+   33,
+   0.09090909090909091
+  ],
+  [
+   "$95,000 and up",
+   35,
+   0.08571428571428572
+  ],
+  [
+   "$43,000 to $95,000",
+   32,
+   0.03125
+  ]
+ ],
+ "why_not": [
+  [
+   "habit",
+   32,
+   [
+    "Klasik ölçü hâlâ işimi görüyor, laboratuvar dijital dosya istemeye başladı ama zorunlu tutmuyor. Laboratuvarım hangi tarayıcıyı önerirse ona bakarım; kendi başıma tanımadığım bir Çin markasına 5 bin euro vermem.",
+    "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, hastam da laboratuvarım da memnun. Muayenehaneyi yeni açtım, kira ve asistan maaşı zaten zorluyor; neredeyse yıllık gelirimin yarısı kadar bir cihaza ya da hasta başı 50 € ek maliyete şu an gerek görmüyorum."
+   ],
+   [
+    "P001",
+    "P005"
+   ]
+  ],
+  [
+   "trust",
+   32,
+   [
+    "Bulantı refleksli hastalarda dijital ölçü işime yarar, ama Launca'yı kullanan tanıdığım tek bir meslektaşım yok. Bu parayı peşin vereceksem ya ikinci el bir Medit alırım ya da depodan taksitle herkesin bildiği bir markayı.",
+    "Klasik ölçü zaten işimi görüyor, hastam da şikâyet etmiyor; dijitale geçeceksem 3Shape ya da iTero gibi herkesin bildiği bir markaya geçerim, adını meslektaş grubunda hiç duymadığım bir Çin markasına değil."
+   ],
+   [
+    "P003",
+    "P006"
+   ]
+  ],
+  [
+   "price",
+   28,
+   [
+    "Laboratuvar dijital dosya istediği için bir tarayıcıya ihtiyacım olacağı belli, ücretsiz denemeyi de kabul ederim. Ama birkaç teklif toplamadan, ikinci el ilanlara ve diğer markaların kampanyalarına bakmadan bu ay 4.950 € + KDV vermem; hasta başı 50 € de bizim fiyatlarımıza göre pahalı.",
+    "4.950 € peşin ödeyip bir Çin markasına bağlanmadan önce depodan taksitli Medit ya da Shining teklifine ve ikinci el ilanlara bakarım; birkaç teklif toplamadan bu ay karar vermem. Ücretsiz denemeyi isterim ama satın alma bu ay olmaz."
+   ],
+   [
+    "P004",
+    "P007"
+   ]
+  ],
+  [
+   "need",
+   1,
+   [
+    "Muayenehaneyi yeni açtım, yılda kazandığım paranın neredeyse dörtte biri olan 4.950 € + KDV'yi klasik ölçünün zaten yaptığı bir iş için bağlayamam. Ücretsiz denemeyi belki kabul ederim ama hasta başı 50 € da benim az sayıdaki protez vakamda hastaya yansıtamayacağım bir ek maliyet."
+   ],
+   [
+    "P048"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   3,
+   [
+    "Laboratuvarım artık dijital dosya istiyor ve yeni açtığım muayenehanede 5.000 € bağlayacak param yok; önce ücretsiz denerim, lab STL'leri onaylarsa ayda birkaç hastada hasta başı kiralamayla başlarım. Satın almayı şimdilik düşünmüyorum.",
+    "Laboratuvarım artık dijital dosya istiyor ve birkaç hekimin çalıştığı klinikte hasta başı 50 € kiralama kısa sürede satın almayı geçer. Önce ücretsiz denemeyi yaparım; laboratuvar STL'leri sorunsuz onaylarsa 4.950 € benim için makul, bir tane alırım."
+   ],
+   [
+    "P016",
+    "P046"
+   ]
+  ],
+  [
+   "price",
+   3,
+   [
+    "Kiralama bana göre değil, birden fazla hekim çalışan klinikte cihazın randevuyla gelip gitmesini beklemem. Ama 4.950 € bir tarayıcı için düşük; ücretsiz denemede taramalar laboratuvardan onay alırsa kendi cihazımız olsun diye satın alırım.",
+    "Çok hekimli klinikte bir tarayıcı tüm koltuklara yetmiyor; 4.950 € bu cihazlar için çok uygun, kendi kliniğimde ücretsiz deneyip laboratuvarım STL'leri onaylarsa ikinci ünite olarak alırım. Kiralama bana göre değil, hacmim yüksek."
+   ],
+   [
+    "P051",
+    "P068"
+   ]
+  ],
+  [
+   "convenience",
+   1,
+   [
+    "Ayda birkaç şeffaf plak vakası için 4.950 € bağlamam, ama önce ücretsiz deneyip STL'leri laboratuvarıma onaylatabiliyorsam, sonra peşinsiz hasta başı 50 € ile kiralamak tam benim tarzım. İlk ay ücretsiz denemeden sonra bir iki hastayı kiralık tararım, satın almayı sonra düşünürüm."
+   ],
+   [
+    "P002"
+   ]
+  ]
+ ],
+ "flip": [
+  "Ücretsiz denemede çektiğim STL dosyalarını laboratuvarım sorunsuz kabul edip bu cihazı bana açıkça önerirse, önce hasta başı kiralamayla başlardım.",
+  "Ankara'da güvendiğim bir meslektaşın bu cihazı aylardır sorunsuz kullandığını söylemesi; yanında taksit imkânı olursa ücretsiz denemeyi kesin yaparım.",
+  "Denemede laboratuvarım STL'leri sorunsuz onaylarsa ve fiyat 4.000 € civarına inerse ya da yazılı garanti ve yedek cihaz taahhüdü sözleşmeye konursa alırım.",
+  "Hastalarımın dijital ölçü istediğini görürsem ya da laboratuvarım dijital ölçüyle işi daha ucuz ve hızlı yapacağını söylerse, önce kiralamayı ücretsiz denemede birkaç hastada denerim.",
+  "WhatsApp grubundaki güvendiğim birkaç meslektaşın bu cihazı aylardır sorunsuz kullandığını söylemesi ve laboratuvarımın Launca STL'lerinin 3Shape kadar oturduğunu onaylaması.",
+  "12 ay vade farksız taksit ve WhatsApp grubundan en az birkaç meslektaşın bu cihazı kullanıp laboratuvarlarının STL'leri sorunsuz kabul ettiğini söylemesi.",
+  "Ankara'da tanıdığım birkaç meslektaşın bu cihazı bir yıldır sorunsuz kullandığını görmek ve laboratuvarımın deneme taramalarını yazılı olarak onaylaması.",
+  "Kliniğimdeki bilgisayarlara kurulumu ve tüm hekimlerin eğitimini yerinde ücretsiz yapacaklarını yazılı taahhüt etmeleri ve 12 ay vade farksız taksit sunmaları.",
+  "12 ay faizsiz taksit seçeneği ya da fiyatın 3.500 € civarına inmesi; ücretsiz denemede STL'leri laboratuvarım sorunsuz onaylarsa ciddi düşünürüm.",
+  "Laboratuvarım ücretsiz denemedeki STL dosyalarını sorunsuz kabul edip bu cihazı önerirse ve 12 ay taksit imkanı verilirse ciddi düşünürüm.",
+  "Laboratuvarımın dijital ölçüyü şart koşması ya da fiyatın 3.000 € civarına inip taksitle ödenebilmesi; o zaman ücretsiz denemeyi yapar, kendi hastalarımda STL'leri görüp karar verirdim.",
+  "Denemede laboratuvarım STL'leri sorunsuz onaylarsa ve fiyat rakip tekliflerin altına, 4.000 € civarına inerse, yazılı servis garantisiyle birlikte alırım.",
+  "Laboratuvarımın ücretsiz denemedeki STL dosyalarını onaylayıp bu tarayıcıyı açıkça önermesi; o zaman satın almayı ciddi düşünürüm.",
+  "Laboratuvarımın dijital ölçüyü silikondan daha ucuza ya da daha hızlı işleyeceğini söylemesi ve kurulum ile eğitimin ücretsiz yerinde yapılacağının yazılı olarak garanti edilmesi.",
+  "Denemede laboratuvarım STL'leri sorunsuz onaylar ve tekrar ölçü/prova sayısının düştüğünü kendi hastalarımda görürsem satın almayı ciddi düşünürüm.",
+  "12 ay faizsiz taksit ya da aylık sabit düşük bir ödeme seçeneği olsa, ücretsiz denemeyi yapar, laboratuvarım onaylarsa düşünürdüm.",
+  "Depo üzerinden 12 ay vade farksız taksit (ayda 400-450 € civarı) ve WhatsApp grubundaki meslektaşlardan birinin cihazı en az bir yıldır sorunsuz kullandığını duymak.",
+  "Çalıştığım laboratuvarın ücretsiz denemedeki STL dosyalarını sorunsuz kabul edip bu cihazı bana açıkça önermesi; o zaman önce hasta başı kiralamayla başlarım.",
+  "İkinci el ya da kampanyalı fiyatla 3.000 € civarına inmesi, ya da hasta başı ücretin klasik ölçü maliyetime yakın, 15-20 € seviyesine düşmesi.",
+  "Kendi laboratuvarımın implant üstü vakalarda bu cihazın STL'lerini sorunsuz kabul ettiğini görmek ve Ankara'da bu cihazı birkaç yıldır kullanan tanıdığım meslektaşlardan olumlu referans almak.",
+  "Taksitli ödeme imkanı ve Ankara'da bu cihazı yıllardır sorunsuz kullanan, tanıdığım meslektaşlardan referans; kendi laboratuvarımın STL'leri sorunsuz onaylaması.",
+  "Vade farksız 12 taksitle aylık 400-450 € civarına inmesi ve ücretsiz denemede STL'lerin laboratuvarımdan sorunsuz onay alması.",
+  "Ankara'da güvendiğim bir meslektaşımın bu cihazı birkaç aydır sorunsuz kullandığını ve laboratuvarının taramalarından memnun olduğunu söylemesi.",
+  "Çalıştığım laboratuvar dijital ölçüye geçip silikon ölçüyü daha pahalıya almaya başlarsa ya da ücretsiz denemede tarama ile işin belirgin şekilde hızlandığını ve hastanın bunu fark edip tercih ettiğini kendi gözümle görürsem.",
+  "Satın almada vade farksız 12 taksit (ayda 400 € civarı) olsa ve ücretsiz denemede laboratuvarım STL'leri sorunsuz onaylasa alırım.",
+  "Ankara'da güvendiğim bir meslektaşımın bu cihazı birkaç aydır kullanıp laboratuvarıyla sorunsuz çalıştığını bizzat söylemesi, artı 12 ay taksit imkânı.",
+  "Ankara'da bu cihazı en az altı aydır kullanan, güvendiğim bir meslektaşın memnun olduğunu söylemesi; ardından kendi kliniğimde ücretsiz denemede laboratuvarımın STL'leri onaylaması.",
+  "Laboratuvarım klasik ölçüyü artık hiç kabul etmeyeceğini ya da ölçü taramasını ayrıca ücretlendireceğini söylerse; o zaman önce ücretsiz denemeyi yapar, sonra ara sıra kiralamayı düşünürdüm.",
+  "Kendi kliniğimde denemede taramaların laboratuvardan sorunsuz onay alması, artı depodan alır gibi vade farksız 10-12 taksit seçeneği.",
+  "Ücretsiz denemede bulantı refleksli hastalarda taramanın hızlı ve rahat olması ve laboratuvarımın STL'lerle yaptığı işlerin klasik ölçü kadar iyi oturması.",
+  "Kendi laboratuvarımın ücretsiz denemedeki taramaları onaylayıp bu cihazla çalışmayı açıkça önermesi; o zaman özellikle bulantı refleksi olan hastalar için satın almayı düşünürüm.",
+  "Laboratuvarımın deneme taramalarını sorunsuz kabul edip bu cihazı bana açıkça önermesi, bir de kurulum ve eğitimin kliniğimde yerinde yapılacağının yazılı olarak söylenmesi.",
+  "Laboratuvarımın deneme taramalarının STL dosyalarını sorunsuz bulup bu cihazı bana açıkça önermesi ve Ankara'da bu cihazı kullanan tanıdık bir meslektaştan iyi referans duymam.",
+  "Ankara'da güvendiğim bir meslektaşımın bu cihazı aylardır kullanıp laboratuvarla sorunsuz çalıştığını kendi ağzından söylemesi; o zaman ücretsiz denemeyi yapar, belki satın alırım.",
+  "12 ay vade farksız taksit ya da fiyatın 3.500 € civarına inmesi, üstüne kendi laboratuvarımın STL'leri sorunsuz onaylaması.",
+  "Laboratuvarım klasik ölçüyü artık kabul etmeyeceğini net söylerse ya da cihaz 3.500 € civarına inerse, ücretsiz denemede STL dosyaları laboratuvardan sorunsuz onay alırsa alırım.",
+  "Ankara'da bu cihazı kullanan birkaç meslektaşın olumlu referansı ve depodan vade farksız 12 ay taksit seçeneği.",
+  "Ankara'da bu cihazı kullanan güvendiğim bir meslektaşın kliniğinde görmek ve onun laboratuvarının taramaları sorunsuz kabul ettiğini duymak.",
+  "Satın almada faizsiz 12-24 ay taksit ya da kiralamada ödenen tutarın sonradan satın alma fiyatından düşülmesi; bir de WhatsApp grubundaki meslektaşlardan birkaçının bu cihazı kullanıp memnun olduğunu duymak.",
+  "12 ay taksit imkânı ve denemede STL'lerin laboratuvarımdan sorunsuz onay alması; kiralamada ödediğim tutarın satın almada fiyattan düşülmesi.",
+  "Ücretsiz denemede kendi hastalarımda yaptığım taramalarla laboratuvarımın sorunsuz, tam oturan işler çıkarması; o zaman önce hasta başı kiralamayla başlamayı düşünürüm.",
+  "Depodan vade farksız 12 taksit (ayda 500 € civarı) ve yazılı garantiyle yedek cihaz taahhüdü; üstüne kendi laboratuvarımdan ilk denemelerde olumlu onay.",
+  "Laboratuvarımın ücretsiz denemedeki STL dosyalarını onaylayıp bu cihazı önermesi ve kiralamada hasta başı ücretin 20-25 € civarına inmesi.",
+  "Ücretsiz denemede laboratuvarımın STL'lerle daha az prova ve daha iyi uyum verdiğini kendi hastalarımda görmek ve Ankara'da bu cihazı yıllardır sorunsuz kullanan bir meslektaştan referans almak.",
+  "Kendi hastalarımda ücretsiz denemede laboratuvarımın STL'leri sorunsuz onaylaması ve WhatsApp grubundaki meslektaşlarımın bu cihazı birkaç aydır sorunsuz kullandığını söylemesi; bir de satın almada faizsiz taksit.",
+  "Satın almada faizsiz 12 taksit ya da hasta başı ücretin 20-25 € civarına inmesi; ücretsiz denemede STL'leri laboratuvarım onaylarsa ve fiyat ikinci el rakiplerle yarışırsa düşünürüm.",
+  "Ankara'da bu cihazı bir yıldır kullanan güvendiğim bir meslektaşın memnun olduğunu söylemesi ve 12 ay taksit imkânı.",
+  "Vade farksız 12 ay taksit; aylık ödeme 400-450 € civarına inerse ve deneme taramalarını laboratuvarım onaylarsa alırım.",
+  "12 ay taksit seçeneği ve denemede laboratuvarımın STL dosyalarını sorunsuz onaylaması.",
+  "12 aya yayılan faizsiz taksit ya da kiralamada ödenen hasta başı ücretlerin satın alma fiyatından düşülmesi.",
+  "Ankara'da güvendiğim bir meslektaşın bu cihazı birkaç aydır kullanıp şeffaf plak vakalarında sorunsuz sonuç aldığını bana kendisinin söylemesi.",
+  "Ücretsiz denemede laboratuvarımın STL'leri sorunsuz onaylaması, kurulum ve eğitimin yerinde yapılacağının yazılı olması ve depodan vade farksız 12 taksit imkânı.",
+  "Ankara'da tanıdığım, güvendiğim birkaç meslektaşın bu cihazı en az bir yıldır sorunsuz kullandığını görmek ve kendi laboratuvarımın ücretsiz denemedeki STL'leri 3Shape kalitesinde bulduğunu yazılı olarak söylemesi.",
+  "Ücretsiz denemede kendi laboratuvarımın bu cihazın STL'leriyle yaptığı kron ve köprülerin silikon ölçüdekiler kadar oturduğunu görmek; o zaman satın almayı ciddi düşünürüm.",
+  "Ankara'da tanıdığım, güvendiğim birkaç meslektaşın bu cihazı en az bir yıldır sorunsuz kullandığını görmek ve şeffaf plak firmalarının STL'leri sorunsuz kabul ettiğini kendi deneme vakalarımda teyit etmek.",
+  "Çalıştığım laboratuvarın bu cihazın STL dosyalarını sorunsuz kabul ettiğini söyleyip cihazı açıkça önermesi; o zaman önce ücretsiz denemeyi, sonra kiralamayı düşünürüm.",
+  "Vade farksız 12 ay taksit sunulsa ve ücretsiz denemede bulantı refleksli hastalarımda tarama sorunsuz olup laboratuvarım STL'leri onaylasa ciddi düşünürüm.",
+  "Ankara'da güvendiğim bir meslektaşın cihazı aylardır kullandığını, laboratuvarının STL'lerden memnun olduğunu ve servisin dediği gibi geldiğini grupta söylemesi.",
+  "Depo gibi 10-12 ay vade farksız taksit, aylık 450-500 € civarı bir ödeme olsa ücretsiz denemeyi yapar, laboratuvarım onaylarsa alırım.",
+  "12 ay taksit imkânı ve laboratuvarımın ölçüleri artık kesinlikle kabul etmeyeceğini söylemesi.",
+  "Ücretsiz denemede STL'leri laboratuvarım onaylarsa ve fiyat 4.000 €'nun altına inerse ya da topladığım tekliflerin en ucuzu bu çıkarsa satın alırım.",
+  "12 ay vade farksız taksit (aylık 400-450 € civarı) ve yazılı garanti ile yedek cihaz taahhüdü olsa, laboratuvarım STL'leri onaylarsa alırım.",
+  "Laboratuvarımın bu cihazı önermesi ve ücretsiz denemede gönderdiğim STL dosyalarını sorunsuz onaylaması; o olursa hasta başı kiralamayla başlarım.",
+  "Ücretsiz denemede laboratuvarımın STL'leri sorunsuz kabul etmesi ve fiyatın 3.500 € civarına inmesi ya da faizsiz taksit seçeneği olması.",
+  "12 ay vade farksız taksit ya da aylık küçük sabit bir ödemeyle satın alma imkanı, artı bildiğim bir meslektaşın bu cihazı bir yıldır sorunsuz kullandığını görmek.",
+  "Ücretsiz denemede laboratuvarımın STL dosyalarını sorunsuz onaylaması ve topladığım diğer tekliflerin (ikinci el dahil) bundan pahalı çıkması; üstüne yazılı bir indirim ya da ek garanti verilirse alırım.",
+  "Hasta başı ücretin 15-20 €'ya düşmesi ya da laboratuvarımın dijital ölçüde belirgin indirim yapması; o zaman kiralamayı denerim.",
+  "Ankara'da güvendiğim bir meslektaşımın bu cihazı aylardır sorunsuz kullandığını ve laboratuvarının taramalardan memnun olduğunu kendisinden duymam; yanında taksitli ödeme seçeneği olsa satın almayı ciddi düşünürüm.",
+  "12 ay vade farksız taksit seçeneği ve Ankara'da Launca kullanan, tanıdığım birkaç meslektaşın olumlu referansı.",
+  "Ücretsiz denemede kendi laboratuvarımın STL'leri sorunsuz onaylaması ve Ankara'da bu cihazı kullanan tanıdığım bir meslektaşın memnun olduğunu söylemesi; o zaman önce hasta başı kiralamayla başlarım.",
+  "Depolar gibi 12 ay vade farksız taksit (ayda 400-450 € civarı) ve yazılı garanti; önce ücretsiz denemede laboratuvarım STL'leri onaylarsa ciddi düşünürüm.",
+  "Kurulum ve tüm hekimlere klinikte eğitimin fiyata dahil olduğunun yazılı taahhüdü, yıllık yazılım/lisans ücreti olmadığının netleşmesi ve kendi laboratuvarımın deneme STL dosyalarını sorunsuz onaylaması.",
+  "Laboratuvarım klasik ölçüyü artık kabul etmeyeceğini kesin olarak söylerse, önce ücretsiz denemeyi yapar, sonra kiralamayla başlardım.",
+  "Ankara'da güvendiğim birkaç meslektaşın bu cihazı en az bir yıldır sorunsuz kullandığını görmek ve laboratuvarımın STL dosyalarını iTero kadar iyi bulduğunu yazılı olarak söylemesi.",
+  "Kendi laboratuvarımın ücretsiz denemedeki taramaları onaylayıp bu cihazı açıkça önermesi; o zaman satın almayı taksitle düşünürüm.",
+  "Ankara'da bu cihazı en az birkaç aydır kullanan ve arızada yedek cihazı gerçekten zamanında almış bir meslektaşın olumlu tavsiyesi; ardından kendi laboratuvarımın STL dosyalarını onaylaması.",
+  "Çalıştığım laboratuvar bu cihazı açıkça önerip ücretsiz denemede STL dosyalarını sorunsuz kabul ederse ve hasta başı ücret 20-25 € civarına inerse kiralamayı denerim.",
+  "Laboratuvarım klasik ölçüyü kabul etmeyi bırakırsa ya da topladığım tekliflerden daha düşük bir fiyat veya taksitli/kiralamadan satışa geçişte ödediğim ücretin düşüleceği bir kampanya sunulursa.",
+  "Deneme taramalarını gönderdiğim laboratuvarın dosyaları sorunsuz kabul edip bu cihazla çalışmayı açıkça onaylaması.",
+  "Ücretsiz denemede taradığım hastaların STL dosyalarını laboratuvarım sorunsuz kabul edip bu cihazı bana açıkça önerirse.",
+  "Kliniğimde ücretsiz denemeyi kurulum ve eğitimle birlikte yapmaları, laboratuvarımın taramaları onaylaması ve satın almada depo gibi vade farksız 12 ay taksit sunmaları.",
+  "Laboratuvarımın ücretsiz denemedeki STL dosyalarını sorunsuz onaylaması ve şeffaf plak vakalarım belirgin şekilde artarsa, önce hasta başı kiralamayla denerim.",
+  "Ankara'da tanıdığım, güvendiğim bir meslektaşımın bu cihazı uzun süredir sorunsuz kullandığını görmek ve kendi laboratuvarımın STL dosyalarını 3Shape kadar iyi bulduğunu söylemesi; o durumda önce kiralamayla birkaç hastada denerim.",
+  "Laboratuvarım deneme taramalarını sorunsuz kabul ederse ve cihazı 12 ay vade farksız, TL sabit taksitle (aylık ödemesi belli) verirlerse alırım.",
+  "Ücretsiz denemede bulantı refleksi olan hastalarımda taramanın rahat geçmesi ve kendi laboratuvarımın STL dosyalarını sorunsuz kabul ettiğini yazılı olarak teyit etmesi; o zaman en azından kiralamayla başlamayı düşünürüm.",
+  "Ankara'da cihazı en az birkaç aydır kullanan, güvendiğim bir meslektaşımın 'sorunsuz, servisi de geliyor' demesi; o zaman önce kiralamayla bulantı refleksli hastalarda denerim.",
+  "Kendi kliniğimde ücretsiz denemede laboratuvarımın STL'leri sorunsuz onaylaması ve birkaç rakip teklifle karşılaştırınca fiyatın 3.500 € civarına inmesi.",
+  "Kendi kliniğimde 4-5 plak vakasında deneyip laboratuvarımdan ve plak firmasından sorunsuz onay almak; ardından deneme süresinde alırsam deneme taramalarının ve ilk ayların kiralama ücretlerinin fiyattan düşülmesi.",
+  "Ankara'da güvendiğim bir meslektaşımın bu cihazı birkaç aydır kullanıp memnun olduğunu ve laboratuvarının taramalardan şikayetçi olmadığını kendi ağzından duymak.",
+  "Ücretsiz denemede kendi laboratuvarımın taramalardan yaptığı kron-köprü ve implant üstü işlerin silikonla aynı ya da daha iyi oturduğunu görmek ve fiyatın 3.000 € civarına inmesi.",
+  "Ankara'da güvendiğim birkaç meslektaşın bu cihazı en az bir yıl sorunsuz kullandığını WhatsApp grubunda anlatması ve kendi laboratuvarımın STL'lerden memnun kaldığını söylemesi.",
+  "Depodan aldığım gibi 12 ay vade farksız taksit, ayda 400-450 € civarı bir ödeme ve önce kendi kliniğimde ücretsiz denemede laboratuvarımın STL'leri onaylaması.",
+  "Laboratuvarımın deneme taramalarını onaylayıp bu cihazla çalışmaktan memnun olduğunu söylemesi, ve kliniğimdeki bilgisayarlara kurulum ile hekimlere yerinde eğitimin fiyata dahil olduğunun yazılı olması."
+ ],
+ "purchases_first_month_per_buyer": 1.5714285714285714,
+ "price_answers": 100
+}

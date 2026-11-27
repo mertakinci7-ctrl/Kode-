@@ -1,0 +1,13 @@
+{
+  "id": "P091",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Ücretsiz denemeyi yaparım, STL'yi laboratuvarıma gönderme imkânı hoşuma gitti; ama 4.950 € + KDV'yi peşin, taksit lafı bile olmadan bir ayda çıkarmam. 57 yaşındayım, ölçü kaşığıyla gayet iyi çalışıyorum, kiralamada da her hasta için randevu ayarlamakla uğraşmak istemem.",
+  "objection": "Fiyat euro ve peşin; aylık kaça geleceğini, vade farksız taksit olup olmadığını bilmiyorum. Bir de Çin malı bir tarayıcının birkaç yıl sonra yazılım güncellemesi ve parça desteği sürer mi, firma Türkiye'den çekilirse elimde kalır mı diye düşünüyorum.",
+  "would_change_my_mind": "Laboratuvarım deneme taramalarını sorunsuz kabul ederse ve cihazı 12 ay vade farksız, TL sabit taksitle (aylık ödemesi belli) verirlerse alırım.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5000,
+  "price_too_expensive": 7000
+}

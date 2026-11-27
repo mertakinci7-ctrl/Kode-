@@ -1,0 +1,13 @@
+{
+  "id": "P095",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ücretsiz denemeyi kabul ederim ama ilk ay para bağlamam; Çinli bir markanın taramalarının laboratuvarımda plak için gerçekten kabul gördüğünü birkaç vakada kendim görmeden 5 bin avro vermem. Kiralamaya da ayda birkaç vaka için hastayı kuryenin saatine bağlamak istemem.",
+  "objection": "Launca'yı tanımıyorum; hassasiyeti şeffaf plak vakalarında yeterli mi, birkaç yıl sonra yazılım ve servis desteği sürecek mi, emin değilim. Kiralamada da hasta koltuktayken cihaz gecikirse rezil olurum.",
+  "would_change_my_mind": "Kendi kliniğimde 4-5 plak vakasında deneyip laboratuvarımdan ve plak firmasından sorunsuz onay almak; ardından deneme süresinde alırsam deneme taramalarının ve ilk ayların kiralama ücretlerinin fiyattan düşülmesi.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 6000,
+  "price_too_expensive": 9000
+}

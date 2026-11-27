@@ -1,0 +1,13 @@
+{
+  "id": "P089",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "need",
+  "reason": "Laboratuvar artık dijital dosya istiyor, bu yüzden bir çözüm lazım; ama 4.950 € yeni muayenehanede bana çok ağır. Önce ücretsiz denemeyi yapar, lab STL'leri onaylarsa ayda birkaç hastada hasta başı kiralamayı kullanırım, satın almayı şimdilik düşünmem.",
+  "objection": "Çin malı bir cihaz; satın alırsam ve bozulursa servis gerçekten 1-2 günde yedek cihaz getirecek mi, yoksa distribütör ortadan kaybolursa elimde 5 bin avroluk bir hurda mı kalır? Bir de hasta başı 50 € artı KDV'yi hastaya yansıtabilir miyim, emin değilim.",
+  "would_change_my_mind": "Satın alma için: faizsiz taksit ya da ödediğim kira ücretlerinin satın alma fiyatından düşülmesi, ve Ankara'da bu cihazı kullanan, servisinden memnun birkaç meslektaşla konuşabilmek.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4200,
+  "price_too_expensive": 5500
+}

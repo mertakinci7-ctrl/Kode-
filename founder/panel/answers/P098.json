@@ -1,0 +1,13 @@
+{
+  "id": "P098",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Klasik ölçü işimi görüyor, hastam şikâyet etmiyor; dijitale geçeceksem de 3Shape ya da iTero alırım, adını meslektaş grubunda kimsenin anmadığı Çinli bir markaya kliniğimi emanet etmem.",
+  "objection": "Launca'yı tanımıyorum; tarama hassasiyeti, yazılım güncellemeleri ve birkaç yıl sonra distribütörün hâlâ burada olup olmayacağı belirsiz. Ucuz diye alıp sonra laboratuvarla uyumsuzluk yaşamak istemem.",
+  "would_change_my_mind": "Ankara'da güvendiğim birkaç meslektaşın bu cihazı en az bir yıl sorunsuz kullandığını WhatsApp grubunda anlatması ve kendi laboratuvarımın STL'lerden memnun kaldığını söylemesi.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 6000,
+  "price_too_expensive": 9000
+}

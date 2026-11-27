@@ -1,0 +1,13 @@
+{
+  "id": "P092",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Muayenehaneyi yeni açtım, 4.950 € benim için neredeyse bir yıllık kazancın üçte biri; bu parayı vereceksem 3Shape ya da iTero gibi adını bildiğim bir markaya veririm, Çinli bir markaya değil. Kiralama ilginç ama hasta başı 50 € de yeni bir muayenehane için az para değil.",
+  "objection": "Launca'yı tanımıyorum; laboratuvarım dosyaları sorunsuz kabul eder mi, birkaç yıl sonra servis ve yazılım desteği sürer mi, hastalar bu markayı nasıl karşılar, emin değilim.",
+  "would_change_my_mind": "Ücretsiz denemede bulantı refleksi olan hastalarımda taramanın rahat geçmesi ve kendi laboratuvarımın STL dosyalarını sorunsuz kabul ettiğini yazılı olarak teyit etmesi; o zaman en azından kiralamayla başlamayı düşünürüm.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P083",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Klasik ölçü işimi görüyor, hastam da laboratuvarım da şikâyet etmiyor. Yeni açtığım muayenehanede her ay kira ve asistan maaşını zor çıkarırken ne 4.950 € ne de ölçü maddesinin kat kat üstündeki hasta başı 50 € bana mantıklı geliyor.",
+  "objection": "Hasta başı 50 € benim kâr payımı yiyor, hastaya da ayrıca yansıtamam; 4.950 € ise şu an bütçemde yok. Bir de Çin malı bir cihazın dosyalarını benim laboratuvarımın sorunsuz kabul edip etmeyeceğinden emin değilim.",
+  "would_change_my_mind": "Çalıştığım laboratuvar bu cihazı açıkça önerip ücretsiz denemede STL dosyalarını sorunsuz kabul ederse ve hasta başı ücret 20-25 € civarına inerse kiralamayı denerim.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2500,
+  "price_expensive": 3500,
+  "price_too_expensive": 5000
+}

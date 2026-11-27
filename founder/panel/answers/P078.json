@@ -1,0 +1,13 @@
+{
+  "id": "P078",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Laboratuvar dijital dosya istiyor, yani bir tarayıcı alacağım kesin; ama birkaç teklif toplamadan, ikinci el Medit/3Shape ilanlarına ve depo kampanyalarına bakmadan bu ay hiçbir şey almam. Ücretsiz denemeyi yaparım, satın alma kararı sonra gelir.",
+  "objection": "Bilgisayarlarım bu tarayıcıyla uyumlu mu, kurulumu ve hekimlerimin eğitimini kim yapacak belli değil; Çinli bir marka için 4.950 € uygun görünüyor ama yazılım güncellemeleri, lisans ücreti ve birkaç yıl sonra parça bulunur mu diye kuşkum var.",
+  "would_change_my_mind": "Kurulum ve tüm hekimlere klinikte eğitimin fiyata dahil olduğunun yazılı taahhüdü, yıllık yazılım/lisans ücreti olmadığının netleşmesi ve kendi laboratuvarımın deneme STL dosyalarını sorunsuz onaylaması.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3800,
+  "price_expensive": 5500,
+  "price_too_expensive": 7500
+}

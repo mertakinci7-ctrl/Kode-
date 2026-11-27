@@ -1,0 +1,13 @@
+{
+  "id": "P072",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, ayda birkaç plak ya da ortodonti vakası için 4.950 € artı KDV vermem yeni açılmış muayenehanemde mantıklı değil. Hasta başı 50 € de çok; o parayı hastaya yansıtamam, laboratuvar ölçüyle zaten iş görüyor.",
+  "objection": "Yıllık gelirimin büyük kısmına denk bir cihaza ihtiyacım yok; Çinli bir markanın uzun vadede doğruluğu ve servisi de bana hâlâ soru işareti.",
+  "would_change_my_mind": "Hasta başı ücretin 15-20 €'ya düşmesi ya da laboratuvarımın dijital ölçüde belirgin indirim yapması; o zaman kiralamayı denerim.",
+  "price_too_cheap": 1000,
+  "price_cheap": 2000,
+  "price_expensive": 3000,
+  "price_too_expensive": 4000
+}

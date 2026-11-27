@@ -1,0 +1,13 @@
+{
+  "id": "P088",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, ayda birkaç plak vakası için ne 5 bin euro cihaz almaya ne de dijital iş akışını baştan kurmaya ihtiyacım var. Mevcut düzenim işliyor.",
+  "objection": "Laboratuvarım bu Çinli tarayıcının dosyalarını sorunsuz kabul edecek mi, taramalar ölçü kadar hassas olacak mı; düzgün çalışan bir sistemi bozup hekimlerimi ve asistanlarımı yeni cihaza alıştırmakla uğraşmak istemiyorum.",
+  "would_change_my_mind": "Laboratuvarımın ücretsiz denemedeki STL dosyalarını sorunsuz onaylaması ve şeffaf plak vakalarım belirgin şekilde artarsa, önce hasta başı kiralamayla denerim.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
+}

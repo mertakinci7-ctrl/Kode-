@@ -1,0 +1,13 @@
+{
+  "id": "P085",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Bulantı refleksli hastalar için tarayıcı gerçekten işime yarar ama laboratuvarım bana Launca önermedi; ilk ay en fazla ücretsiz denemeyi yapar, dosyaları laboratuvara gönderir, cevabını beklerim. Onay gelmeden ne satın alırım ne de kiralamaya başlarım.",
+  "objection": "Laboratuvarım bu Çin markası tarayıcının STL dosyalarını sorunsuz kabul edecek mi, kenar uyumu ve kontak noktaları onların istediği netlikte çıkacak mı? Dosya geri dönerse hasta önünde ben mahcup olurum.",
+  "would_change_my_mind": "Deneme taramalarını gönderdiğim laboratuvarın dosyaları sorunsuz kabul edip bu cihazla çalışmayı açıkça onaylaması.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5500,
+  "price_too_expensive": 7500
+}

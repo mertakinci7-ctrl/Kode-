@@ -1,0 +1,13 @@
+{
+  "id": "P084",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Laboratuvar dijital dosya istemeye başladı, o yüzden ücretsiz denemeyi kabul ederim ama bu ay para ödemem; önce başka distribütörlerden ve ikinci el ilanlardan teklif toplarım. Hasta başı 50 € de bana pahalı geliyor, 100 hastada cihazın parasını vermiş oluyorum.",
+  "objection": "4.950 € + KDV klasik ölçünün yanında ciddi para; Çinli bir marka olduğu için birkaç yıl sonra servis ve yedek parça bulabilecek miyim, ikinci elde değeri kalır mı emin değilim. Klasik ölçü hâlâ işimi görüyor.",
+  "would_change_my_mind": "Laboratuvarım klasik ölçüyü kabul etmeyi bırakırsa ya da topladığım tekliflerden daha düşük bir fiyat veya taksitli/kiralamadan satışa geçişte ödediğim ücretin düşüleceği bir kampanya sunulursa.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
+}
