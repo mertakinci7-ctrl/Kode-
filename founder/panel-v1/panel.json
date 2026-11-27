@@ -1,0 +1,138 @@
+{
+ "n": 100,
+ "seed": 393267,
+ "customer": {
+  "business": "Ağız İçi Tarayıcı Satış ve Kiralama (çalışma adı): Launca DL-300 Kablosuz tarayıcının satışı ve hasta başı kiralaması",
+  "target": "Türkiye'de, özellikle Ankara'da, kendi muayenehanesi ya da kliniği olan ve cihaz alım kararını kendisi veren diş hekimleri",
+  "where": "Kiralama: Ankara. Satış: Türkiye geneli",
+  "age": [
+   27,
+   62
+  ],
+  "segments": [
+   {
+    "name": "Yeni muayenehane açmış diş hekimi (yıllık geliri USD karşılığı)",
+    "share": 0.3,
+    "income": [
+     18000,
+     45000
+    ]
+   },
+   {
+    "name": "Yerleşik muayenehane sahibi diş hekimi (yıllık geliri USD karşılığı)",
+    "share": 0.4,
+    "income": [
+     40000,
+     100000
+    ]
+   },
+   {
+    "name": "Çok hekimli poliklinik / klinik sahibi diş hekimi (yıllık geliri USD karşılığı)",
+    "share": 0.3,
+    "income": [
+     90000,
+     250000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Taksitle alan",
+    "share": 0.18,
+    "how": "Cihazı depodan vade farksız taksitle alır, aylık ödemeye bakar."
+   },
+   {
+    "name": "Laboratuvarına bağlı",
+    "share": 0.15,
+    "how": "Çalıştığı laboratuvar hangi tarayıcıyı önerirse onu düşünür, dosyanın sorunsuz gitmesini her şeyin önüne koyar."
+   },
+   {
+    "name": "Premium marka sadığı",
+    "share": 0.12,
+    "how": "3Shape ya da iTero gibi bilinen markalara güvenir, az bilinen markaya mesafelidir."
+   },
+   {
+    "name": "Fiyat avcısı",
+    "share": 0.15,
+    "how": "İkinci el ilanlara ve depo kampanyalarına bakar, birkaç teklif toplamadan karar vermez."
+   },
+   {
+    "name": "Önce dener sonra alır",
+    "share": 0.12,
+    "how": "Büyük bir cihaza para bağlamadan önce kendi hastalarında denemek ister."
+   },
+   {
+    "name": "Meslektaş tavsiyesiyle alan",
+    "share": 0.13,
+    "how": "Cihazı kullanan bir meslektaşı ne derse ona göre karar verir."
+   },
+   {
+    "name": "Klasik ölçüden memnun",
+    "share": 0.15,
+    "how": "Silikon ölçüyle yıllardır sorunsuz çalışır, dijitale geçme ihtiyacı hissetmez."
+   }
+  ],
+  "objections": [
+   "Çin malı bir cihaz, bozulursa kim bakacak, yedek cihaz verilecek mi?",
+   "Laboratuvarım bu tarayıcının dosyasını sorunsuz kabul eder mi?",
+   "Hasta başı 50 euro çok; ayda 20 hasta tarasam 1.000 euro eder",
+   "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım",
+   "Bilgisayarım bu tarayıcıyla uyumlu mu, kurulumu ve eğitimi kim yapacak?",
+   "Hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+   "Klasik ölçü zaten işimi görüyor, hastam da şikâyet etmiyor"
+  ],
+  "habits": [
+   "ayda 15 ile 25 arası ölçü alıyorsun, çoğu kron-köprü ve implant üstü",
+   "çalıştığın laboratuvar dijital dosya istemeye başladı",
+   "haftada bir meslektaş WhatsApp grubunda cihaz tavsiyeleri okuyorsun",
+   "aylık sabit giderlerin (kira, asistan, malzeme) seni zaten zorluyor",
+   "ayda birkaç şeffaf plak ya da ortodonti vakası alıyorsun",
+   "bulantı refleksi olan hastalarda ölçü almakta zorlanıyorsun",
+   "her yıl Dental fuarını dolaşıp yeni cihazlara bakıyorsun"
+  ],
+  "brief_note": "Language and units: write reason, objection and would_change_my_mind in Turkish. Your income above is shown as a US dollar equivalent. Give the four price answers in euros (EUR, excluding KDV) for BUYING the scanner outright (not the per-patient rental).",
+  "names": [
+   "Ayşe",
+   "Elif",
+   "Mehmet",
+   "Ahmet",
+   "Zeynep",
+   "Mustafa",
+   "Fatma",
+   "Emre",
+   "Burak",
+   "Selin",
+   "Can",
+   "Deniz",
+   "Ece",
+   "Murat",
+   "Hakan",
+   "Gökhan",
+   "Seda",
+   "Pınar",
+   "Serkan",
+   "Tolga",
+   "Merve",
+   "Burcu",
+   "Kerem",
+   "Oğuz",
+   "Esra",
+   "Cem",
+   "Derya",
+   "Volkan",
+   "Gizem",
+   "Tuba",
+   "Onur",
+   "Sinan",
+   "Aslı",
+   "Barış",
+   "Nur",
+   "Kaan",
+   "Ebru",
+   "Levent",
+   "Sevgi",
+   "Umut"
+  ]
+ },
+ "pitch": "Launca DL-300 Kablosuz ağız içi tarayıcı (dijital ölçü cihazı), diş hekimlerine iki seçenekle sunuluyor.\nSatın alma: 4.950 € + KDV, Türkiye geneline teslim.\nKiralama (yalnızca Ankara): cihaz kliniğinizde kalır, cihazı her hastada kullandığınızda hasta başı 50 € + KDV ödersiniz; peşin ödeme yok.\nLaunca, cihazını 100'den fazla ülkede satan Çinli bir ağız içi tarayıcı üreticisi."
+}

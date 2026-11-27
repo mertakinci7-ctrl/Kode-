@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Klasik ölçü kliniğimde yıllardır sorunsuz çalışıyor, bulantı refleksli hasta ayda birkaç tane, onun için cihaz almam. Kiralamada hasta başı 50 € da deneme için bile pahalı geliyor, aldığım ölçü malzemesinin birkaç katı.",
-  "objection": "Çinli bir markanın taramasının laboratuvarımla uyumlu ve kuronda hassas olacağından emin değilim; servis ve yedek parça işini Türkiye'de kim yapacak, onu da bilmiyorum.",
-  "would_change_my_mind": "Kliniğime bir-iki hafta ücretsiz bırakılsa, kendi hastalarımda deneyip laboratuvarımdan uyumlu sonuç alsam satın almayı ciddi düşünürüm.",
+  "reason": "Ücretsiz denemeyi kabul ederim, bulantı refleksli birkaç hastada bakarım ama bu ay cihaz almam; klasik ölçü işimi görüyor ve hastalarım şikâyet etmiyor. Hasta başı 50 € kiralama da benim için anlamsız, ölçü maddesi bundan çok daha ucuza geliyor.",
+  "objection": "Çinli bir markanın tarayıcısının doğruluğuna ve laboratuvarımın bu dosyalarla sorunsuz çalışacağına güvenim yok; birkaç yıl sonra servis ve yazılım desteği sürer mi, emin değilim.",
+  "would_change_my_mind": "Kendi kliniğimde denemede taramaların laboratuvarımdan ilk seferde sorunsuz, klasik ölçü kadar iyi oturan işler olarak dönmesi ve Ankara'da bu cihazı yıllardır sorunsuz kullanan bir meslektaşı görmek.",
   "price_too_cheap": 1500,
   "price_cheap": 3500,
-  "price_expensive": 6000,
-  "price_too_expensive": 9000
+  "price_expensive": 7000,
+  "price_too_expensive": 11000
 }

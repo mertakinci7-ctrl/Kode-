@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Ayda birkaç plak vakası için tarayıcı mantıklı ama Türkiye'de servisi, yedek cihazı, yazılımın laboratuvarlarla uyumu belli olmayan Çinli bir markaya 4.950 € peşin vermem; kiralamada da hasta başı sayımı kimin, nasıl yaptığını bilmeden imza atmam.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak? Cihaz bozulursa Ankara'da kim bakacak, kaç günde yedek gelir? Bir de satın almada taksit yok, ben depodan vade farksız taksitle alırım.",
-  "would_change_my_mind": "Depo üzerinden 12 ay vade farksız taksit ve Ankara'da yerel teknik servis ile yedek cihaz garantisi; kiralamada ise sayımı benim de görebildiğim, cihazın kendi tarama kaydından çıkan şeffaf bir aylık döküm.",
+  "reason": "Kiralamada hasta başı ücreti kimin, neye göre saydığı belli değil, cihaz bende duruyor ama sayaç onların elinde; satın almada da taksit lafı yok, 4.950 € peşin ve KDV'si ile bu ay depo taksiti varken bu karara girmem. Ücretsiz denemeyi belki yaparım ama bu hafta satın almam.",
+  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak? Bir de Çinli markanın yazılımı ve servisi Ankara dışında gerçekten dediği gibi yürür mü, yedek cihaz kaç günde gelir bilmiyorum.",
+  "would_change_my_mind": "Depodan aldığım gibi vade farksız 10-12 ay taksit ve sayımın cihazın kendi kaydından şeffaf, benim de görebileceğim şekilde yapılması; üstüne kendi hastalarımda denediğimde ölçülerin laboratuvardan sorunsuz dönmesi.",
   "price_too_cheap": 2000,
   "price_cheap": 3500,
-  "price_expensive": 6000,
-  "price_too_expensive": 8000
+  "price_expensive": 5000,
+  "price_too_expensive": 7000
 }

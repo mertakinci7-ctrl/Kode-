@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Otuz yıldır silikon ölçüyle çalışıyorum, hastam da şikâyet etmiyor. Yeni açtığım muayenehanenin masrafları ortadayken 4.950 € artı KDV'yi bir alışkanlığı değiştirmek için ödemem; laboratuvar dijital dosya istiyor diye hemen cihaz almam.",
-  "objection": "Bu yaşta yeni bir cihaza alışmak, ekibe öğretmek ve Çinli bir markanın servisine, yedek parçasına güvenmek bana zor geliyor. Bozulursa Ankara'da kim bakacak bilmiyorum. Kiralamada da hasta başı 50 € pahalı, ölçü malzemesi bana o kadar tutmuyor.",
-  "would_change_my_mind": "Laboratuvarın klasik ölçüyü artık hiç kabul etmeyeceğini kesin söylemesi ve cihazı birkaç hafta ücretsiz deneyip Ankara'da yerinde servis ve eğitim garantisi görmem.",
-  "price_too_cheap": 1500,
-  "price_cheap": 2500,
-  "price_expensive": 3800,
+  "reason": "Otuz yılı aşkın süredir silikon ölçüyle çalışıyorum, hastam da şikâyet etmiyor; yeni açtığım muayenehanede yaklaşık bir yıllık kazancımın büyük kısmını bir tarayıcıya yatırmam. Laboratuvar dijital dosya istiyor ama gerekirse ölçüyü onlar tarar.",
+  "objection": "Bu yaştan sonra yeni bir cihaz öğrenmeye değer mi, hiç bilmediğim bir Çin markası birkaç yıl sonra servis verecek mi, emin değilim; hasta başı 50 € de ölçü maliyetimin çok üstünde.",
+  "would_change_my_mind": "Laboratuvarım klasik ölçüyü kabul etmeyi tamamen bırakırsa, önce ücretsiz denemeyi yapar, sonra peşin parasız kiralamayı düşünürdüm.",
+  "price_too_cheap": 1000,
+  "price_cheap": 2000,
+  "price_expensive": 3500,
   "price_too_expensive": 5000
 }

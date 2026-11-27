@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Laboratuvarım dijital dosya istiyor ama hangi tarayıcıyı önerdiğini henüz sormadım; Launca dosyaları onların sistemine sorunsuz gidiyor mu bilmeden 4.950 € bağlamam. Kiralama da her hastada 50 € demek, ayda birkaç ölçüde bile cebimden çıkan para çok, üstelik kim sayacak belli değil.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak? Bir de bu Çin malı tarayıcının dosyasını benim laboratuvarım kabul ediyor mu, sorun çıkarsa Ankara'da kim bakacak?",
-  "would_change_my_mind": "Çalıştığım laboratuvarın Launca'yı önermesi ve birkaç vakayı sorunsuz alıp işlediğini görmem; o olursa satın almayı ciddi düşünürüm.",
-  "price_too_cheap": 1500,
-  "price_cheap": 3000,
-  "price_expensive": 4500,
+  "reason": "Laboratuvarım dijital dosya istiyor ama hangi tarayıcıyı önereceğini henüz söylemedi; Launca'nın dosyalarını sorunsuz alıp almadığını bilmeden 4.950 € artı KDV bağlamam. Kiralamada da hasta başı sayımı kimin yapacağı belli değil, sonra faturada tartışmak istemem.",
+  "objection": "Laboratuvarım bu tarayıcıdan gelen dosyayı sorunsuz okuyacak mı? Dosya gitmezse cihaz bana bir işe yaramaz. Kiralamada da hasta başı sayıma nasıl güveneceğim, kim sayacak?",
+  "would_change_my_mind": "Çalıştığım laboratuvarın Launca dosyalarıyla sorunsuz çalıştığını söylemesi ya da bu cihazı bana kendisinin önermesi; o zaman ücretsiz denemeyi yapar, birkaç vakayı laboratuvara gönderip öyle karar veririm.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5000,
   "price_too_expensive": 6500
 }

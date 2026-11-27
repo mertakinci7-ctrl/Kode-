@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ayda birkaç vakam var, 4.950 €'yu tanımadığım bir Çin markasına şimdiden bağlamam. Kiralama mantıklı görünüyor ama servis ve yedek cihaz konusunda hiçbir şey yazmıyor, hasta koltuktayken cihaz bozulursa ne olacağını bilmeden işime sokmam.",
+  "objection": "Çin malı bir cihaz; bozulursa Ankara'da kim bakacak, ne kadar sürede, o sürede yedek cihaz verilecek mi? Bunun cevabı yok.",
+  "would_change_my_mind": "Ankara'da yerel teknik servis ve arıza durumunda 48 saat içinde yedek cihaz taahhüdü yazılı olarak verilse, önce kiralamayla kendi hastalarımda deneyip memnun kalırsam satın almayı düşünürüm.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5500,
+  "price_too_expensive": 7500
+}

@@ -2,12 +2,12 @@
   "id": "P013",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "4.950 € bir tarayıcı için kötü değil ama Çinli bir markayı fuarda elime alıp denemeden, başka firmalardan ve ikinci el ilanlardan teklif toplamadan bu hafta karar vermem. Kiralamaya hiç sıcak bakmıyorum, hasta başı 50 € ayda birkaç yüz euroyu bulur ve kimin neyi saydığını kontrol edemem.",
-  "objection": "Bu fiyata servis, yedek parça ve yazılım güncellemesi Türkiye'de kim tarafından verilecek, cihaz bozulunca kaç gün beklerim? Kiralamada da hasta başı sayımı kim tutacak, ben mi güveneceğim size mi?",
-  "would_change_my_mind": "Ankara'da yerel servis garantisi yazılı olarak verilse ve cihazı bir meslektaşımın muayenehanesinde ya da fuarda kendi hastamda deneyip ölçü kalitesini laboratuvarımla teyit edebilsem, bir de birkaç teklif içinde en iyi fiyat bu çıksa.",
-  "price_too_cheap": 2500,
-  "price_cheap": 4000,
-  "price_expensive": 6000,
-  "price_too_expensive": 8000
+  "reason_code": "habit",
+  "reason": "Kiralamaya hiç girmem; hasta başı 50 € ile yüz hastada cihazın parası çıkar, sayımı da kim yapacak belli değil. Satın alma fiyatı fena değil ama ben birkaç teklif toplamadan, ikinci el ilanlara ve fuardaki kampanyalara bakmadan bu ay hiçbir cihaza para vermem.",
+  "objection": "Çinli bir marka, Ankara'da servisi ve yedek cihazı gerçekten zamanında getirir mi, yazılımı laboratuvarımla sorunsuz çalışır mı, emin değilim; kiralamada da hasta başı sayımı kimin nasıl tuttuğuna güvenmiyorum.",
+  "would_change_my_mind": "Ücretsiz denemede kendi hastalarımda taramaların laboratuvara sorunsuz gitmesi ve topladığım diğer tekliflerden, ikinci el muadillerden açıkça daha ucuz kalan, yazılı servis süresi garantili bir satın alma fiyatı.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3800,
+  "price_expensive": 5500,
+  "price_too_expensive": 7500
 }

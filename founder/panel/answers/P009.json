@@ -1,13 +1,13 @@
 {
   "id": "P009",
-  "buys": false,
-  "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Fiyat cazip ama ilanda kurulumu, eğitimi, teknik servisi ve taksit seçeneğini kimin sağlayacağı yazmıyor; meslektaş grubunda kullanan birini duymadan Çin malı bir tarayıcıya peşin para bağlamam. Hasta başı 50 € kiralama da benim hasta sayımda çok pahalıya gelir.",
-  "objection": "Bilgisayarlarım ve laboratuvarımın yazılımıyla uyumlu mu, kurulumu ve asistanlarımın eğitimini kim yapacak, arıza olursa Türkiye'de yedek cihaz ve servis var mı?",
-  "would_change_my_mind": "Depo üzerinden vade farksız 12 taksit, klinikte ücretsiz kurulum ve eğitim, Türkiye'de servis garantisi ve WhatsApp grubundan bir meslektaşın olumlu tavsiyesi.",
-  "price_too_cheap": 2500,
-  "price_cheap": 4000,
-  "price_expensive": 7000,
-  "price_too_expensive": 10000
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "Bizim klinikte birkaç hekim var, hasta başı 50 € kiralama bize birkaç ayda cihazın fiyatını öder; 4.950 € ağız içi tarayıcı için düşük bir rakam. Önce kendi kliniğimde ücretsiz deneyip taramalar laboratuvarımızın yazılımında sorunsuz açılırsa satın alırım.",
+  "objection": "Bilgisayarlarımız bu tarayıcıyla uyumlu mu, kurulumu ve hekimlerimin eğitimini kim yapacak belli değil; ayrıca taksit seçeneği yazmıyor ve Çin markası olduğu için WhatsApp grubunda kimsenin yorumunu görmedim, yazılım güncellemesi ve servis ne kadar sürer bilmiyorum.",
+  "would_change_my_mind": "Deneme sırasında kurulumu yapıp eğitimi verecek birinin kliniğe gelmesi, laboratuvarımızın dosyaları kabul ettiğini görmem ve vade farksız taksit imkanı; bunlar olmazsa almam.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 6500,
+  "price_too_expensive": 9000
 }

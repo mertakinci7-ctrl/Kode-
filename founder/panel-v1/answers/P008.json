@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Yeni açtığım muayenehanede her kuruş önemli ve tarayıcı alacaksam 3Shape ya da iTero gibi adını bildiğim bir marka alırım; Launca'yı fuarlarda görmüş olabilirim ama hastalarımın ölçüsünü az tanıdığım bir Çin markasına emanet etmek içime sinmiyor. Kiralamada hasta başı 50 € de benim hasta sayımla çok pahalı kalıyor.",
+  "objection": "Laboratuvarım bu cihazın dosyasını sorunsuz kabul eder mi, Ankara'da arıza olursa servisi kim, ne kadar sürede verir? Ucuz diye alıp sonra ölçüleri tekrar almak zorunda kalmaktan korkuyorum.",
+  "would_change_my_mind": "Çalıştığım laboratuvarın bu tarayıcıdan gelen dosyalarla sorunsuz çalıştığını yazılı olarak teyit etmesi ve Ankara'da yerinde servis ile birkaç hafta ücretsiz deneme imkânı.",
+  "price_too_cheap": 2500,
+  "price_cheap": 4500,
+  "price_expensive": 8000,
+  "price_too_expensive": 12000
+}

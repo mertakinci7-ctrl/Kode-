@@ -2,12 +2,12 @@
   "id": "P020",
   "buys": false,
   "purchases_first_month": 0,
-  "reason": "Ayda sadece birkaç plak ve ortodonti vakası alıyorum, bunun için yıllık gelirimin ciddi bir kısmını Çinli bir markaya yatırmam mantıklı gelmiyor. Laboratuvarım bu tarayıcıyı önermedi, dosyası sorunsuz gider mi bilmiyorum.",
   "reason_code": "trust",
-  "objection": "Laboratuvarım Launca dosyasını sorunsuz kabul eder mi? Dosya geri dönerse ya da uyum sorunu çıkarsa hem hastaya hem laboratuvara rezil olurum.",
-  "would_change_my_mind": "Çalıştığım laboratuvarın Launca dosyalarını sorunsuz aldığını yazılı olarak teyit etmesi ve önce birkaç vakayı denememe izin verilmesi.",
+  "reason": "Ayda birkaç vaka için 4.950 € benim gelirime göre çok büyük bir para, ve laboratuvarım bu tarayıcıyı önermeden hiçbir şeye karar vermem. Kiralama mantıklı görünüyor ama önce laboratuvarın dosyayı sorunsuz alıp almadığını görmem lazım.",
+  "objection": "Laboratuvarım Launca dosyasını sorunsuz kabul eder mi, uyum sorunu çıkarsa vaka geri döner mi, ilanda bununla ilgili tek kelime yok.",
+  "would_change_my_mind": "Çalıştığım laboratuvarın Launca DL-300 dosyalarını sorunsuz aldığını teyit etmesi ve tavsiye etmesi; o zaman ücretsiz denemeyi yapar, kiralama ile başlarım.",
   "price_too_cheap": 1500,
   "price_cheap": 3000,
   "price_expensive": 4500,
-  "price_too_expensive": 6000
+  "price_too_expensive": 6500
 }

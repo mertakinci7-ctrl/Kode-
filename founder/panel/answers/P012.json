@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "habit",
-  "reason": "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, laboratuvarım da buna alışık; yeni açtığım muayenehanede 5 bin euroyu ihtiyaç duymadığım bir cihaza bağlamam mantıklı değil. Kiralama da hasta başı 50 € ile benim ölçü maliyetimin çok üstünde kalıyor.",
-  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak? Bir de Çinli bir markanın Türkiye'de servisi, yedek parçası, yazılım güncellemesi kimde, cihaz bozulursa kaç gün ölçüsüz kalırım bilmiyorum.",
-  "would_change_my_mind": "Fuarda ya da kliniğimde birkaç hafta ücretsiz deneyip laboratuvarımın dijital ölçüyle sorunsuz çalıştığını görmek, üstüne Ankara'da yerel servis garantisi ve hasta başı yerine sabit, düşük aylık kira.",
+  "reason": "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, yeni açtığım muayenehanede 4.950 € artı KDV'yi dijital ölçüye ayıracak durumum yok. Kiralamada da hasta başı 50 € her ölçüye eklenen ciddi bir maliyet, hastaya yansıtması zor.",
+  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak? Cihaz bende dururken kullanımı kim, neye göre kaydedecek, faturada tartışma çıkmaz mı? Bir de Çin malı bir cihazın hassasiyeti ve laboratuvarımın bu dosyalarla çalışıp çalışmayacağı belli değil.",
+  "would_change_my_mind": "Fuarda ya da kliniğimde ücretsiz denemede taramaların laboratuvarımla sorunsuz çalıştığını görmek ve satın alma fiyatının 3.000 € civarına inmesi ya da faizsiz taksit seçeneği.",
   "price_too_cheap": 1500,
-  "price_cheap": 3000,
-  "price_expensive": 4500,
-  "price_too_expensive": 6000
+  "price_cheap": 2500,
+  "price_expensive": 3500,
+  "price_too_expensive": 4500
 }

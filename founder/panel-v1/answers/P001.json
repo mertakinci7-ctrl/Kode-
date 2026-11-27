@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Laboratuvarım dijital dosya istemeye başladı ama hangi tarayıcıyı önerdiğini henüz bilmiyorum; adını ilk kez duyduğum bir Çin markasına 4.950 € + KDV bağlamadan önce laboratuvarın dosyayı sorunsuz alıp almadığını görmem lazım. Klasik ölçü şimdilik işimi görüyor, acelem yok.",
+  "objection": "Dosyalar laboratuvarımın sistemine sorunsuz gidecek mi, yoksa her vakada uyum sorunu, tekrar tarama, telefon trafiği mi yaşayacağım? Kiralamada hasta başı 50 € da çok; zaten ölçüye ayrıca para vermiyorum.",
+  "would_change_my_mind": "Çalıştığım laboratuvarın bu cihazı açıkça önermesi ya da birkaç gerçek vakada dosyaları sorunsuz aldığını görmem, ideali ücretsiz deneme süresiyle.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3500,
+  "price_expensive": 5500,
+  "price_too_expensive": 8000
+}

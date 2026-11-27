@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "price",
-  "reason": "Laboratuvar dijital dosya istiyor, bunu biliyorum, ama ilk gördüğüm teklife 4.950 € + KDV vermem; önce ikinci el ilanlara, depo kampanyalarına bakıp birkaç teklif toplarım. Hasta başı 50 € kiralama ise benim ölçü sayımla kısa sürede satın almadan pahalıya gelir.",
-  "objection": "Klasik ölçü zaten işimi görüyor, hastam da şikâyet etmiyor; üstelik Çinli bir markanın Türkiye'de servisini, yedek parçasını, yazılım güncellemesini kim verecek bilmiyorum, cihaz bozulursa muayenehane ortada kalır.",
-  "would_change_my_mind": "Ankara'da yerel servis garantisiyle, karşılaştırdığım diğer tekliflerin altında bir fiyat (4.000 € civarı) ve birkaç hafta ücretsiz deneme imkânı; laboratuvarın dijital olmayan ölçüyü kabul etmeyeceğini kesin söylemesi de beni hızlandırır.",
+  "reason": "Laboratuvar dijital dosya istiyor, bunu biliyorum ama klasik ölçü hâlâ işimi görüyor. Birkaç firmadan teklif ve ikinci el fiyatlarını toplamadan 4.950 € + KDV'ye imza atmam; hasta başı 50 € kiralama ise uzun vadede bana daha pahalı geliyor.",
+  "objection": "Çin markası bir cihaza bu parayı verip birkaç yıl sonra servis ya da yazılım desteğinin kesilmesinden, laboratuvarımın dosyalarıyla sorun çıkmasından çekiniyorum. Aynı paraya ya da daha ucuza başka bir marka bulabilir miyim, onu görmeden karar vermem.",
+  "would_change_my_mind": "Laboratuvarımın dosyaları sorunsuz kabul ettiğini ücretsiz denemede kendi hastamda görmek ve topladığım diğer tekliflerden belirgin şekilde ucuz bir fiyat, örneğin 4.000 €'nun altında bir kampanya.",
   "price_too_cheap": 1500,
   "price_cheap": 3000,
-  "price_expensive": 4200,
-  "price_too_expensive": 5500
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
 }

@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Fiyat aslında makul ama Türkiye'de servisi, yedek cihazı ve taksit imkanı hiç yazmıyor; Çin malı bir tarayıcıyı kim tamir edecek bilmeden 5 bin euroyu bağlamam. Kiralama da hasta başı 50 euroya ayda 100 hastada cihazın parasını bir ayda ödetiyor, hiç mantıklı değil.",
-  "objection": "Cihaz bozulursa Ankara'da kim bakacak, kaç günde döner, o sürede yedek cihaz verilecek mi? Bunu bilmeden ölçü randevularımı bir Çin cihazına emanet edemem.",
-  "would_change_my_mind": "Ankara'da yerel servis ve arıza süresince yedek cihaz garantisi, üstüne depodan vade farksız 12 taksit; bir de WhatsApp grubundaki meslektaşlardan iyi yorum duymak.",
+  "reason": "Fiyat tarayıcı için makul, ücretsiz deneme de güzel ama Launca'yı WhatsApp grubunda kimsenin kullandığını duymadım; ayrıca taksit seçeneği yazmıyor, peşin 4.950 € + KDV'yi bir anda çıkarmam. Bu ay almam, önce meslektaşlara sorarım.",
+  "objection": "Çin malı, teknik servis 'Türkiye geneli' diyor ama Ankara'da arıza olunca yedek cihaz kaç günde geliyor, firma yarın ortadan kaybolursa yazılım güncellemesi ve parça kim verecek belli değil.",
+  "would_change_my_mind": "Tanıdığım bir depodan vade farksız 12 taksitle alabilmek ve Ankara'da bu cihazı en az bir yıldır sorunsuz kullanan bir meslektaşın tavsiyesi.",
   "price_too_cheap": 2000,
   "price_cheap": 3500,
-  "price_expensive": 5500,
-  "price_too_expensive": 8000
+  "price_expensive": 6500,
+  "price_too_expensive": 9000
 }

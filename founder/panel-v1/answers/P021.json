@@ -1,0 +1,13 @@
+{
+  "id": "P021",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Sabit giderlerim zaten beni zorlarken 4.950 € + KDV'yi bir tarayıcıya yatıramam; klasik ölçü işimi görüyor, hastam da şikâyet etmiyor. Hasta başı 50 € kiralama da benim fiyatlarımla her ölçüde kârımı yiyip bitirir.",
+  "objection": "Bu parayı geri kazanacağımı göremiyorum; ölçü maddesi zaten ucuz, hasta başı 50 € ise ölçü maliyetimin kat kat üstünde. Çinli bir marka olduğu için de servis ve yedek parça Ankara'da ne kadar hızlı, emin değilim.",
+  "would_change_my_mind": "İkinci el ya da depo kampanyasıyla 2.500 € civarına, taksitli ve yerel servis garantili bir teklif gelse, diğer tekliflerle karşılaştırıp düşünürdüm.",
+  "price_too_cheap": 1000,
+  "price_cheap": 2000,
+  "price_expensive": 3500,
+  "price_too_expensive": 4500
+}

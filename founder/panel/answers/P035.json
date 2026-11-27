@@ -2,12 +2,12 @@
   "id": "P035",
   "buys": false,
   "purchases_first_month": 0,
-  "reason_code": "trust",
-  "reason": "Laboratuvarım bu cihazı önermedikçe, dosyalar sorunsuz gidecek mi bilmeden kimsenin adını duymadığı bir Çin markasına 5 bin euro vermem. Kiralamada da hasta başı 50 euro, ölçü maliyetine göre çok pahalı geliyor.",
-  "objection": "Çin malı bir cihaz, bozulursa Ankara'da kim bakacak, tamirdeyken yedek cihaz verilecek mi, hiçbir yerde yazmıyor. Laboratuvarım dosyaları sorunsuz açabiliyor mu, onu da bilmiyorum.",
-  "would_change_my_mind": "Çalıştığım laboratuvarın bu tarayıcıyı önermesi ve dosyaların sorunsuz gittiğini görmem, artı arızada Ankara'da yerel servis ve yedek cihaz garantisi.",
+  "reason_code": "habit",
+  "reason": "Ben tarayıcı seçimini laboratuvarıma bırakırım; laboratuvarım Launca dosyalarını sorunsuz aldığını söylemeden cihaz almam. Ücretsiz deneme ve yedek cihaz iyi ama bu ay karar vermem, önce laboratuvara soracağım.",
+  "objection": "Çin malı bir cihaz; laboratuvarımın sistemiyle dosyalar sorunsuz gidecek mi, bozulunca Ankara'da gerçekten kim bakacak, yedek cihaz ne kadar sürede gelecek?",
+  "would_change_my_mind": "Çalıştığım laboratuvarın bu cihazı önermesi ve deneme süresinde gönderdiğim taramaların laboratuvardan sorunsuz dönmesi.",
   "price_too_cheap": 2000,
   "price_cheap": 3500,
-  "price_expensive": 5000,
-  "price_too_expensive": 7000
+  "price_expensive": 6500,
+  "price_too_expensive": 9000
 }

@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "4.950 € bir tarayıcı için kötü değil ama Çinli bir markayı fuarda elime alıp denemeden, başka firmalardan ve ikinci el ilanlardan teklif toplamadan bu hafta karar vermem. Kiralamaya hiç sıcak bakmıyorum, hasta başı 50 € ayda birkaç yüz euroyu bulur ve kimin neyi saydığını kontrol edemem.",
+  "objection": "Bu fiyata servis, yedek parça ve yazılım güncellemesi Türkiye'de kim tarafından verilecek, cihaz bozulunca kaç gün beklerim? Kiralamada da hasta başı sayımı kim tutacak, ben mi güveneceğim size mi?",
+  "would_change_my_mind": "Ankara'da yerel servis garantisi yazılı olarak verilse ve cihazı bir meslektaşımın muayenehanesinde ya da fuarda kendi hastamda deneyip ölçü kalitesini laboratuvarımla teyit edebilsem, bir de birkaç teklif içinde en iyi fiyat bu çıksa.",
+  "price_too_cheap": 2500,
+  "price_cheap": 4000,
+  "price_expensive": 6000,
+  "price_too_expensive": 8000
+}

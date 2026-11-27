@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Launca'yı kullanan tek bir meslektaşımı tanımıyorum; çevremde kimse 'aldım, memnunum' demeden bir Çin markasına 4.950 € vermem. Kiralama da ayda 15-25 ölçüyle ayda 750-1.250 € tutuyor, birkaç ayda cihazın parasını öderim, mantıklı değil.",
-  "objection": "Aynı paraya ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım; Launca'nın taramasının kron-köprü ve implant üstü ölçüde laboratuvarın sorunsuz kabul edeceği kadar hassas olup olmadığını ve Türkiye'de servisin, yedek parçanın kimde olduğunu bilmiyorum.",
-  "would_change_my_mind": "Ankara'da güvendiğim bir meslektaşımın bu cihazı birkaç aydır kullanıp laboratuvarıyla sorun yaşamadığını kendi ağzından duymak, mümkünse muayenehanesinde görmek.",
+  "reason": "Launca adını çevremde kullanan bir meslektaşımdan duymadım; 4.950 € bir Çin markası için az para değil, aynı paraya ikinci el Medit ya da depodan taksitle bilinen bir marka alırım. Kiralama da ayda 20 ölçüyle 1.000 €'yu bulur, o hiç mantıklı değil.",
+  "objection": "Kron-köprü ve implant üstü ölçülerde hassasiyetine ve laboratuvarımın dosyaları sorunsuz açacağına güvenemiyorum; birkaç yıl sonra servis ve yazılım desteği sürecek mi, bilmiyorum.",
+  "would_change_my_mind": "Ankara'da güvendiğim bir meslektaşımın bu cihazı aylardır implant ve kron vakalarında sorunsuz kullandığını kendi ağzından duymak; o zaman ücretsiz denemeyi kabul ederim.",
   "price_too_cheap": 2000,
   "price_cheap": 3500,
-  "price_expensive": 5000,
-  "price_too_expensive": 7000
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
 }
