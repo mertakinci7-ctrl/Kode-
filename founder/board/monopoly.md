@@ -1,31 +1,30 @@
 # Tekel merceği
 Puan: 3/10 | Oy: GEÇ
 
-Tekel merceği şunu soruyor: Bu iş küçük bir pazarın büyük payını alıp orada kalıcı olabilir mi? Brifinge göre iş, başka bir üreticinin cihazını (Launca DL-300) satmak ve kiralamak. Cihaz başkasının teknolojisi; teknoloji, ağ etkisi, ölçek ya da marka avantajı henüz yok. Satış fiyatı, aynı cihazı satabilecek herkesin verebileceği bir fiyat.
-
 ## Güçlü olan
-- **Hasta başı kiralama modeli, ayrışabilecek tek unsur.** Hekim 4.950 € + KDV peşin ödemek yerine hasta başı 50 € + KDV ödüyor. Satın almanın maliyetine ancak yaklaşık 99 hastada ulaşılıyor. Bu, nakdi az olan ya da dijital ölçüyü önce denemek isteyen klinikler için gerçek bir giriş kapısı olabilir.
-- **Küçük ve tanımlı bir başlangıç pazarı kurulabilir.** "Bir şehirde, tarayıcısı olmayan ve peşin almak istemeyen klinikler" gibi dar bir hedef seçilirse, bu küçük pazarın büyük payını almak düşünülebilir.
-- **Kullanım başı ücret tekrar eden gelir getiriyor** ve klinikle sürekli bir ilişki kuruyor. İleride servis, eğitim ve laboratuvar bağlantısı bu ilişkinin üstüne eklenebilir.
+- **Sahiplenilebilecek küçük bir pazar var:** Ankara'da hasta başı ücretli tarayıcı kiralama. Okunan 10 bayi sayfasının hiçbirinde kiralama ya da hasta başı ücret yok; herkes satış ve taksit yapıyor. Bu, "küçük bir pazarda büyük pay" ile başlamak için doğru bir hücre.
+- **Launca'nın Türkiye'de görünür bir distribütörü yok.** Bu boşluk münhasır distribütörlüğe çevrilirse işin tek gerçek savunma hattı olabilir.
+- **Zamanlama makul:** dijital ölçüye geçmek isteyen ama 5.000 € civarını peşin bağlamak istemeyen hekim için peşinsiz, kullandıkça öde modeli şu an pazarda yok.
+- Ücretsiz deneme ve STL dosyasını hekimin kendi laboratuvarına onaylatma, en büyük itirazı (72 simüle hekim: "lab kabul eder mi") doğrudan hedefliyor.
 
 ## Bunu batıracak şeyler (en tehlikeliden başlayarak ilk 3)
-1. **Kalıcılık yok: altıncı ayda kopyalanabilir.** Ürün başkasının ve münhasırlık bilinmiyor. Üretici başka bayi atarsa ya da doğrudan satarsa, ya da bir rakip aynı kiralama modelini sunarsa, iş fiyat savaşına girer ve kâr marjı kaybolur. On yıl sonra bu konumun korunacağını gösteren hiçbir şey yok.
-2. **Dağıtım tanımlanmamış.** İlk 100 kliniğe nasıl ulaşılacağı (saha satışı, fuar, bayi ağı) ve her birinin kaça mal olacağı bilinmiyor. Tıbbi cihaz satışı genellikle ilişki ve deneme ister. Kanalı olmayan iyi bir ürün iş sayılmaz.
-3. **Kiralama modelinin işleyişi ve maliyeti belirsiz.** Hasta başı kullanım nasıl ölçülecek, nasıl tahsil edilecek? Cihaz klinikte mi kalacak? Peki az hasta taranırsa cihazın maliyetini kim taşıyacak? Alış fiyatı bilinmediği için bir cihazın kaç hastada kendini ödediği hesaplanamıyor. 750.000 TL'lik bütçe kaç cihaz eder, o da bilinmiyor. Servis ve yazılım desteği kötü giderse marka değil şikâyet birikir.
+1. **Ürün bir emtia, sır ve teknoloji yok.** Girişimci üretici değil, Çin malı bir cihazın satıcısı. Aynı DL-300 yurt dışı gri pazarda 4.250–4.750 USD'ye, ikinci el Medit i700 yaklaşık 5.000 €'ya bulunuyor. 4.950 € + KDV'lik satış, hiçbir şeyin 10 kat iyisi değil; fark yalnızca fiyat ve servis. Satış kolu, Dexis (Çatak) ve iTero (Medoral) ile aynı alıcıya, ince marjla dövüşür.
+2. **Kiralama modeli ölçeklenmiyor ve kopyalanabilir.** Cihaz klinikte kalmıyor; her tarama girişimcinin randevuyla kliniğe gitmesini gerektiriyor. Kapasite girişimcinin takvimiyle sınırlı: ölçek ekonomisi yok, ağ etkisi yok. Bir Ankara deposu 6. ayda elindeki demo cihazla aynı teklifi yapabilir; onu durduracak bir şey görünmüyor.
+3. **Dağıtım ve kalıcılık belirsiz.** İlk 100 müşterinin nasıl geleceği, her birinin maliyeti, münhasırlık, alış fiyatı ve yedek cihaz süresi bilinmiyor. Simüle panel en iyi teklifte bile %6'da kalıyor (üst sınır) ve alanların çoğu kiralamayı değil satın almayı seçiyor; yani "sahiplenilecek küçük pazar" olan kiralama tarafına talep henüz kanıtlanmadı. On yıl içinde tarayıcı fiyatları düştükçe, hasta başı kiralamanın gerekçesi de zayıflar.
 
 ## Girişimciye soracağım sorular
-- Üreticiyle münhasır distribütörlük anlaşmanız var mı? Bölgesi ve süresi ne? Üretici doğrudan satarsa ne olur?
-- Bilip de başkalarının bilmediği şey ne? Hangi klinikleri ya da hangi kanalı başkalarından iyi tanıyorsunuz?
-- Önce sahiplenebileceğiniz küçük pazar hangisi (şehir, klinik tipi)? Orada kaç klinik var ve kaçında hâlihazırda tarayıcı bulunuyor? (Açık soru: /founder-competitors ve /founder-consumer)
-- Aynı hekime bugün başka kim ağız içi tarayıcı satıyor ya da kiralıyor, hangi fiyata? Hasta başı model sunan başka biri var mı? (Açık soru: /founder-competitors)
-- Cihazın alış fiyatı ne? Bir kiralık cihaz kaç hastada kendini öder? 750.000 TL kaç cihaza ve kaç ay nakit akışına yeter? (Açık soru: /founder-cfo)
-- İlk 100 klinik nereden gelecek ve her biri kaça mal olacak? (Açık soru: /founder-consumer ve /founder-cfo)
-- Neden şimdi? Türkiye'de dijital ölçüye geçişte bu anı doğru zaman yapan ne?
-- Hasta başı kullanım teknik olarak nasıl sayılacak ve faturalanacak?
-- Servis, eğitim, garanti ve CAD/laboratuvar entegrasyonu kimin sorumluluğunda?
+- Launca ile Türkiye (en az Ankara) için **yazılı münhasır distribütörlük** var mı, alınabilir mi? Alış fiyatı ne? (Marj ve fiyat savunması bunlara bağlı: /founder-cfo)
+- Başkalarının bilmediği neyi biliyorsunuz? Sektör geçmişiniz, hekim ağınız, laboratuvar ilişkileriniz neler?
+- Bir depo 6. ayda aynı kiralama teklifini yaparsa ne kaybedersiniz? Sizi kopyalanamaz yapan şey ne olacak?
+- Ankara'da kaç klinik var, kaçı hâlâ dijital ölçüye geçmedi? Kiralama pazarının büyüklüğü ne? (Açık soru: /founder-competitors ve /founder-consumer)
+- İlk 100 klinik hangi kanaldan gelecek, her biri kaça mal olacak? (Açık soru: /founder-consumer, /founder-cfo)
+- Tek başınıza günde kaç kliniğe gidebilirsiniz? Bu tavanda kiralama 750.000 TL'yi ne zaman geri öder? (/founder-cfo)
+- Kiralayan klinik kaçıncı hastada cihazı satın almaya geçiyor? Kiralama, satışın huniye mi dönüşüyor? (/founder-offer)
+- Yedek cihaz kaç saatte geliyor, servisi kim veriyor?
 
 ## ŞARTLI FONLA ise: koşullar
-Oy GEÇ olduğu için koşul yok. Aşağıdakiler gösterilirse fikir yeniden değerlendirilebilir:
-- Yazılı münhasır bölge distribütörlüğü ya da başka bir korunaklı avantaj (kendi servis ağı, laboratuvar ortaklıkları).
-- Adı konmuş küçük bir başlangıç pazarı ve orada hasta başı modeli kabul eden ilk klinikler. Bu bir ön sözleşme ya da pilot olabilir.
-- Alış fiyatı ve kullanım varsayımıyla kurulmuş, kiralık bir cihazın kendini ödediği noktayı gösteren birim ekonomisi (/founder-cfo).
+Oy GEÇ. Aşağıdakiler sağlanırsa kurul yeniden değerlendirir:
+1. Launca'dan yazılı münhasır distribütörlük (en az Ankara, tercihen Türkiye) ve belgelenmiş alış fiyatı.
+2. Önce yalnızca Ankara kiralama hücresine odak: belirlenecek sayıda klinikten gerçek, ücretli hasta başı tarama ve tekrar kullanım verisi (gerçek alıcı, simüle panel değil).
+3. Laboratuvar ağıyla STL kabul anlaşmaları; bu, kopyacının hemen kuramayacağı bir ilişki varlığına dönüşebilir.
+4. Girişimcinin takvimine bağlı olmayan bir teslim modeli (ikinci kişi ya da cihazın güvenli biçimde klinikte kalması) ve bunun birim ekonomisi (/founder-cfo).

@@ -69,19 +69,22 @@ Diğer risk sinyalleri:
 
 **Açık iş:** Google Haritalar yorumları elle okunmalı. Ayrıca 5–10 hekimle kısa görüşme yapılmalı (`/founder-consumer`).
 
-## 5. Boşluk
-1. **Kiralama yok.** Okunan 10 bayi sayfasının hiçbiri kiralama ya da hasta başı ücret sunmuyor. Piyasada finansmanın karşılığı taksit ("Vade Farksız 8 Taksit", ikinci elde "5 taksit"). Bu ya gerçek bir boşluk ya da hekimin taksiti yeterli bulduğunun işareti. Hangisi olduğunu `/founder-consumer` ve hekim görüşmeleri gösterecek.
-2. **Fiyat şeffaflığı yok.** Hiçbir depo açık fiyat vermiyor. Açık fiyat ve basit bir kiralama hesaplayıcısı tek başına ayırt edici olabilir.
-3. **Düşük fiyat + yerel destek kutusu boş.** Desteği güçlü olanlar (Çatak, Osstem, iTero ve 3Shape bayileri) premium markalar satıyor. Ucuz seçeneklerin (gri pazar, ikinci el) desteği yok.
+## 5. Boşluk (güncellendi: 27 Kasım 2026, yeni teklif modeline göre)
+Piyasa bilgisi değişmedi. Bu bölüm, girişimcinin teyit ettiği teklif maddelerine göre yeniden yazıldı: randevulu yerinde kiralama, ücretsiz deneme, STL dosyasıyla laboratuvar onayı, servis ve yedek cihaz.
 
-**Dikkat:** Satışta ikinci el Medit i700 (5.000 EUR, taksitli) ve gri pazar DL-300 (~4.250–4.750 USD) senin fiyatına çok yakın. Ayrıca depolar taksitle premium marka satıyor. Yetkili garanti ve yerel servis sunmazsan satışta fiyat avantajın yok.
+1. **"Cihaz almadan dijital ölçü" boşluğu.** Okunan 10 bayi sayfasının hiçbiri kiralama ya da hasta başı ücret sunmuyor; piyasada tek finansman yolu taksit. Senin modelinde hekim cihaz almıyor, bakım yapmıyor, cihazı klinikte saklamıyor; sadece taradığı hasta için ödüyor. Bu modelin piyasadaki tek alternatifi laboratuvarın tarama hizmeti ([United Dental örneği](https://www.uniteddental.com.tr/klinik-dijitalizasyon-tarama/)). Fark şu: laboratuvar hizmetinde hekim laboratuvara bağlanıyor, senin modelinde dosya hekimin kendi seçtiği laboratuvara gidiyor.
+2. **"Satın almadan önce kendi laboratuvarınla dene" boşluğu.** Depolar fiyatı bile üye girişinin arkasında tutuyor; herkese açık bir "kendi laboratuvarına STL gönder, onay al" teklifi görülmedi. Panelde en büyük itiraz laboratuvar uyumuydu (72 kişi). Bu teklif tam olarak ona cevap veriyor.
+3. **Düşük fiyat + destek kutusu.** Desteği güçlü olanlar (Çatak, Osstem, iTero ve 3Shape bayileri) premium marka satıyor; ucuz seçeneklerin (gri pazar, ikinci el) desteği yok. Servis ve yedek cihaz taahhüdüyle 4.950 € bu kutuya oturuyor.
 
-## 6. Tehdit: seni en hızlı kim kopyalar?
-- **Çatak Diş Deposu ve Medoral Care (Ankara).** Teknik servis, eğitim ekibi ve hekim ilişkileri hazır. Kiralama ya da hasta başı modeli kendi markalarıyla haftalar içinde sunabilirler.
-- **Dentrealmarket ve Merkez Diş.** Taksit altyapıları zaten var. Bunu "aylık kira"ya çevirmeleri kolay.
-- **Launca'nın kendisi ya da başka bir Launca satıcısı.** Türkiye distribütörü görünmüyor. Münhasırlık alamazsan aynı cihazı başkası daha ucuza verebilir.
-- **Diş laboratuvarları.** Cihazsız tarama hizmeti ya da klinikleri bağlamak için tarayıcı sağlama, hekim için kiralamadan da ucuz bir ikame olabilir ([United Dental örneği](https://www.uniteddental.com.tr/klinik-dijitalizasyon-tarama/)). Ankara'daki yaygınlığı doğrulanmadı.
+**Hâlâ açık olan:** Satışta taksit yok. Depolar "vade farksız 8 taksit" veriyor; ikinci el ilanlarda bile 5 taksit var. Taksit eklenmezse satışta depolara karşı dezavantaj sürüyor.
+
+## 6. Tehdit: seni en hızlı kim kopyalar? (güncellendi)
+- **Ankara'daki depolar (Çatak Diş Deposu, Medoral Care).** Teknik servis ekipleri ve hekim ilişkileri hazır. Yerinde kiralama modelini kopyalamaları kolay, ama premium marka sattıkları için hasta başı 50 €'ya inmeleri zor olabilir. Bu bir tahmin; doğrulanmadı.
+- **Diş laboratuvarları.** Hekimi kendine bağlamak için tarayıcıyla kliniğe gidebilir ya da cihazsız tarama hizmeti verebilirler. Senin modeline en yakın rakip türü bu; Ankara'daki yaygınlığı doğrulanmadı.
+- **Başka Launca satıcıları ya da üreticinin kendisi.** Türkiye'de görünür bir distribütör yok. Münhasırlık alamazsan aynı cihazı başkası daha ucuza satabilir.
+- **Modelin doğal sınırı:** Tek kişi ve tek cihazla kiralama kapasitesi günlük randevu sayısıyla sınırlı. Büyüdükçe ikinci cihaz ve ikinci kişi gerekir; bu maliyeti `/founder-cfo` hesaplayacak.
 
 ## Sonraki adım
-- `/founder-consumer`: hekim itirazlarını test et (taksit mi, kiralama mı; destek; bilgisayar uyumu; ikinci elle kıyas; sayaca güven).
-- `/founder-pricing`: bu fiyat aralığını kullanır. Önce 2–3 depodan gerçek teklif almak çok faydalı olur.
+- `/founder-consumer`: son teklifi (randevulu kiralama, STL onayı) panelde test et.
+- `/founder-pricing`: bu fiyat aralığını kullanır.
+- `/founder-cfo`: kiralama kapasitesini ve kârlılığı hesaplar; cihazın alış fiyatı gerekecek.
