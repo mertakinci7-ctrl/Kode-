@@ -1,0 +1,13 @@
+{
+  "id": "P078",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason": "Laboratuvar dijital dosya istediği için bir tarayıcı almam gerekecek, fiyat da piyasaya göre uygun görünüyor; ama Medit ve Shining 3D bayilerinden, ikinci el ilanlardan teklif toplamadan ve kendi kliniğimde denemeden 5 bin avroya karar vermem. Bu ay en fazla ücretsiz denemeyi isterim.",
+  "reason_code": "trust",
+  "objection": "Bilgisayarlarım bu tarayıcıyla uyumlu mu, kurulumu ve hekimlerimin eğitimini kim yapacak belli değil; çalıştığım laboratuvarın Launca dosyalarını sorunsuz açıp açmadığını da bilmiyorum. Çin markası, Türkiye'deki servisin gerçekten hızlı olup olmadığını görmeden güvenemem.",
+  "would_change_my_mind": "Kliniğimde ücretsiz denemede kurulumu ve eğitimi yerinde yapmaları, laboratuvarımın dosyaları sorunsuz kabul etmesi ve aldığım diğer tekliflerden daha düşük ya da eşit bir net fiyat vermeleri.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3800,
+  "price_expensive": 5500,
+  "price_too_expensive": 7500
+}

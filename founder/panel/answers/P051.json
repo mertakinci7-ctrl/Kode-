@@ -1,0 +1,13 @@
+{
+  "id": "P051",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "price",
+  "reason": "Önce kendi hastalarımda ücretsiz denerim; tarama kalitesi ve laboratuvarla uyum tutarsa 4.950 € çok hekimli bir klinik için düşük bir rakam, satın alırım. Kiralama bana göre değil, hasta başı 50 € bizim hasta hacmimizde birkaç ayda cihaz parasını geçer.",
+  "objection": "Kiralamada hasta başı sayımı kim tutacak, neye güveneceğim belli değil; satın almada da Çinli bir markanın doğruluğu ve Türkiye'deki servisin gerçekten hızlı olup olmayacağı kafamda soru işareti.",
+  "would_change_my_mind": "Deneme sırasında taramaların laboratuvarımdan geri dönmesi ya da arızada yedek cihazın günler sonra gelmesi beni vazgeçirir.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 7000,
+  "price_too_expensive": 10000
+}

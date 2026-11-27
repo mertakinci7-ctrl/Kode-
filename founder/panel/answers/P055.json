@@ -1,0 +1,13 @@
+{
+  "id": "P055",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Ayda birkaç şeffaf plak vakası için klasik ölçü bana yetiyor, hastam da şikâyet etmiyor. Bu markayı kullanan, güvendiğim bir meslektaşım olmadan 55 yaşında iş akışımı değiştirmem.",
+  "objection": "Launca'yı tanıyan, kullanan bir meslektaşım yok; Çin malı bir tarayıcının taramalarının laboratuvarım ve plak firmalarıyla sorunsuz çalışıp çalışmadığını, birkaç yıl sonra servisin hâlâ ayakta olup olmayacağını bilmiyorum.",
+  "would_change_my_mind": "Ankara'da güvendiğim bir meslektaşımın bu cihazı aylardır kullanıp taramalarının laboratuvarda ve plak firmasında sorunsuz kabul edildiğini bana bizzat söylemesi.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5500,
+  "price_too_expensive": 8000
+}

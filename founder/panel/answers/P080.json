@@ -1,0 +1,13 @@
+{
+  "id": "P080",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Laboratuvar dijital dosya istiyor, tarayıcı alacağım kesin ama çok hekimli klinikte az bilinen bir Çin markasına güvenip hekimlerimi buna alıştırmam; ya 3Shape ya iTero alırım. Hasta başı 50 € kiralama da bizim hasta hacmimizde hem pahalı hem sayımı kimin tuttuğu belirsiz.",
+  "objection": "Launca'yı Ankara'da kimin kullandığını, servisin gerçekten ne kadar hızlı geldiğini ve laboratuvarımın bu dosyalarla sorunsuz çalışıp çalışmadığını bilmiyorum; kiralamada da hasta başı sayımı kim yapacak, ben nasıl doğrulayacağım belli değil.",
+  "would_change_my_mind": "Ankara'da tanıdığım birkaç klinikte sorunsuz kullanıldığını görmek ve laboratuvarımın Launca dosyalarını onaylaması; o zaman ücretsiz denemeyi yapar, satın almayı düşünürdüm.",
+  "price_too_cheap": 2500,
+  "price_cheap": 4000,
+  "price_expensive": 7000,
+  "price_too_expensive": 10000
+}

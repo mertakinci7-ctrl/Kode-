@@ -1,0 +1,13 @@
+{
+  "id": "P089",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Ücretsiz denemeyi kesinlikle isterim, laboratuvar da dijital dosya istiyor; ama yeni açtığım muayenehanede 4.950 € bir yıllık gelirimin beşte biri, bu ay o parayı bağlayamam. Hasta başı 50 € kiralama da benim hastalarıma yansıtamayacağım kadar pahalı, klasik ölçü bana çok daha ucuza geliyor.",
+  "objection": "Çin malı bir cihaz; yedek cihaz verilecek deniyor ama Ankara'da arıza olunca kaç günde geliyor, servis gerçekten var mı, kimse bilmiyor. Bir de nakit sıkışıkken bu kadar parayı tek cihaza yatırmak.",
+  "would_change_my_mind": "Kendi hastalarımda denemede laboratuvarın dosyaları sorunsuz kabul etmesi ve satın almanın 12 ay faizsiz taksitle, aylık 400 € civarına bölünebilmesi.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
+}

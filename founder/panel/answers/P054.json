@@ -1,0 +1,13 @@
+{
+  "id": "P054",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Muayenehaneyi yeni açtım, 4.950 € artı KDV benim için bir yıllık gelirin önemli bir kısmı. Birkaç teklif toplamadan, ikinci el Medit ilanlarına ve depo taksitlerine bakmadan bilmediğim bir Çin markasına bu parayı vermem; hasta başı 50 € kiralama da benim fiyatlarımla kârımı yer.",
+  "objection": "Launca'yı tanımıyorum; aynı paraya ikinci el bilinen bir marka ya da depodan taksitle tanıdık bir cihaz alabilirken, birkaç yıl sonra servisi ve yedek parçası bulunur mu, ikinci el değeri kalır mı, emin değilim.",
+  "would_change_my_mind": "Fiyatın 3.500 € civarına inmesi ya da faizsiz 12 taksit sunulması, üstüne Ankara'da bu cihazı yıllardır sorunsuz kullanan bir meslektaşın tavsiyesi.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4200,
+  "price_too_expensive": 5500
+}

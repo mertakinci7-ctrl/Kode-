@@ -1,0 +1,13 @@
+{
+  "id": "P096",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Launca adını fuarda görmüşümdür ama bu cihazı kullanan, güvendiğim tek bir meslektaşım yok; o yüzden bu ay ne alırım ne kiralarım. Ücretsiz denemeyi belki kabul ederim ama karar için bir meslektaşın ne dediğini duymam lazım.",
+  "objection": "Çin malı bir tarayıcı; taramalar laboratuvarda sorunsuz açılıyor mu, birkaç yıl sonra servis ve yedek parça bulunur mu, bilmiyorum. Kiralamada da hasta başı 50 € pahalı, hangi hastada kullandığımı kim sayacak, faturada tartışma çıkar.",
+  "would_change_my_mind": "Ankara'da bu cihazı en az bir yıldır kullanan, güvendiğim bir meslektaşımın kliniğinde görüp 'laboratuvarla sorunsuz, servis hızlı' demesi.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P067",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Muayenehaneyi yeni açtım, 4.950 € benim için neredeyse birkaç aylık gelir; kiralama mantıklı görünüyor ama laboratuvarım bu markayı önermedikçe ve dosyaları sorunsuz almadıkça hiçbir tarayıcıya geçmem.",
+  "objection": "Çalıştığım laboratuvar Launca dosyalarını sorunsuz kabul ediyor mu, bilgisayarım uyumlu mu ve kurulumu, eğitimi kim yapacak; bunların hiçbiri yazmıyor. Çinli bir markaya da ilk etapta tam güvenemiyorum.",
+  "would_change_my_mind": "Laboratuvarımın bu cihazı önermesi ve ücretsiz denemede taramaların laboratuvara sorunsuz gittiğini kendi gözümle görmem; o zaman kiralamayla başlarım.",
+  "price_too_cheap": 1200,
+  "price_cheap": 2500,
+  "price_expensive": 3800,
+  "price_too_expensive": 5500
+}

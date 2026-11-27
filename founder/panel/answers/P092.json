@@ -1,0 +1,13 @@
+{
+  "id": "P092",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Muayenehaneyi yeni açtım, 4.950 € benim için yılın önemli bir kısmı demek; bu parayı adını pek duymadığım bir Çin markasına değil, iTero ya da 3Shape gibi güvendiğim bir markaya vermek isterim. Kiralamada hasta başı 50 € de benim hasta ücretlerime göre çok yüksek kalıyor.",
+  "objection": "Laboratuvarım bu cihazın dosyalarını sorunsuz kabul edecek mi, emin değilim; ayrıca Launca'yı tanımıyorum, birkaç yıl sonra servis ve yedek parça bulabilecek miyim bilmiyorum.",
+  "would_change_my_mind": "Çalıştığım laboratuvarın dosyaları sorunsuz aldığını yazılı teyit etmesi ve Ankara'da bu cihazı yıllardır kullanan meslektaşlarımdan olumlu geri bildirim duymam; o zaman ücretsiz denemeyi yapıp taksitle almayı düşünürdüm.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
+}

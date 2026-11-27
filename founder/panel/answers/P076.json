@@ -1,0 +1,13 @@
+{
+  "id": "P076",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Muayenehaneyi yeni açtım, her kuruş hesapta; 4.950 € benim için ciddi para ve bu parayı vereceksem 3Shape ya da iTero gibi adını bildiğim bir markaya vermeyi tercih ederim. Bulantı refleksli hastalarda tarayıcıya ihtiyacım var ama Launca adını ilk kez duyuyorum, ücretsiz denemeyi belki yaparım ama bu hafta satın almam.",
+  "objection": "Çin malı bir cihaz; 'Türkiye geneli servis, yedek cihaz' deniyor ama Ankara'da kim bakacak, servis ne kadar sürede geliyor, firma iki yıl sonra burada olacak mı belli değil. Kiralamada da hasta başı 50 € benim hastadan alabileceğim ölçü ücretine göre çok yüksek.",
+  "would_change_my_mind": "Ankara'da bu cihazı birkaç yıldır sorunsuz kullanan tanıdığım meslektaşlardan referans ve yazılı bir servis süresi garantisi (ör. 48 saatte yedek cihaz); bir de fiyat 3.500 € civarına inse ciddi düşünürüm.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3500,
+  "price_expensive": 5500,
+  "price_too_expensive": 8000
+}

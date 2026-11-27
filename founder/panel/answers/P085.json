@@ -1,0 +1,13 @@
+{
+  "id": "P085",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Bulantı refleksi olan hastalarda ölçü benim için gerçekten dert, dijital ölçü ilgimi çekiyor ve fiyat da cebimi yakmaz. Ama laboratuvarım bu markayı önermedi, dosyaların sorunsuz gideceğini bilmeden bu hafta karar vermem.",
+  "objection": "Laboratuvarım Launca'nın dosyasını sorunsuz kabul eder mi, bilmiyorum; ilanda tek kelime yok. Dosya gitmezse ya da tekrar istenirse cihazın hiçbir anlamı kalmaz.",
+  "would_change_my_mind": "Çalıştığım laboratuvarın bu cihazdan gelen dosyaları sorunsuz kabul ettiğini teyit etmesi; o zaman ücretsiz denemeyi yapar, iyi giderse alırım.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5500,
+  "price_too_expensive": 8000
+}

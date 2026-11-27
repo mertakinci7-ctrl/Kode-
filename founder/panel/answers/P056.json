@@ -1,0 +1,13 @@
+{
+  "id": "P056",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Fiyat aslında makul ama 4.950 €'yu peşin bağlamam, ben cihazı depodan vade farksız taksitle alırım; burada taksit yok, kurulumu ve eğitimi kimin yapacağı da yazmıyor. Ücretsiz denemeyi belki isterim ama bu hafta satın alma kararı vermem.",
+  "objection": "Bilgisayarım bu tarayıcıyla uyumlu mu, kurulumu ve personelin eğitimini kim yapacak belli değil; Çin markası olduğu için şeffaf plak firmalarına ve laboratuvarlara gönderdiğim dosyaların sorunsuz kabul edileceğinden de emin değilim.",
+  "would_change_my_mind": "Vade farksız 10-12 taksit (aylık 450-500 € civarı) ve klinikte kurulum ile eğitimin fiyata dahil olduğunun yazılı garantisi.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 6500,
+  "price_too_expensive": 9000
+}

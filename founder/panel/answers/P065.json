@@ -1,0 +1,13 @@
+{
+  "id": "P065",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Bulantı refleksli hastalar için tarayıcı işime yarar, ücretsiz denemeyi de kabul ederim; ama birkaç teklif toplayıp ikinci el ilanlara bakmadan 4.950 € + KDV'yi bu ay ödemem. Hasta başı 50 € kiralama ise yüz hastada cihaz parasını geçiyor, bana mantıklı gelmiyor.",
+  "objection": "Kiralamada hasta başı sayımı kim tutacak, neye göre faturalanacak belli değil; satın almada da aynı fiyata ya da daha ucuza başka marka veya ikinci el bir tarayıcı bulabilir miyim, onu görmeden karar vermem.",
+  "would_change_my_mind": "Deneme sonrası diğer teklifleri gerçekten geçen bir fiyat, örneğin 4.000 € civarı ve yazılı garanti ile yedek cihaz taahhüdü.",
+  "price_too_cheap": 1800,
+  "price_cheap": 3500,
+  "price_expensive": 5000,
+  "price_too_expensive": 7000
+}

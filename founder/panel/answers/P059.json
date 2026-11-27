@@ -1,0 +1,13 @@
+{
+  "id": "P059",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Kliniğimde 3Shape ya da iTero gibi bilinen bir marka isterim; hastaya ve laboratuvara güven veren cihaz o. Kiralama da hasta başı 50 euro ile ayda birkaç vaka için bile pahalı geliyor, satın alma fiyatı ucuz ama Çinli az bilinen bir markaya klinik itibarımı emanet etmem.",
+  "objection": "Launca'nın tarama doğruluğu, yazılım güncellemeleri ve laboratuvarlarla uyumu konusunda içim rahat değil; 4.950 euro bu sınıf bir cihaz için şüphe uyandıracak kadar düşük.",
+  "would_change_my_mind": "Ankara'da güvendiğim meslektaşların ya da çalıştığım laboratuvarın bu cihazı sorunsuz kullandığını görmek ve ücretsiz denemede taramaların 3Shape kalitesinde çıkması.",
+  "price_too_cheap": 3000,
+  "price_cheap": 6000,
+  "price_expensive": 12000,
+  "price_too_expensive": 18000
+}

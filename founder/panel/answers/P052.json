@@ -1,0 +1,13 @@
+{
+  "id": "P052",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Laboratuvar dijital dosya istediği için tarayıcıya ihtiyacım var, ücretsiz denemeyi de belki yaparım; ama 4.950 € + KDV'yi peşin ödeyemem, taksit seçeneği yazmıyor. Kiralamada hasta başı 50 € ise benim hasta ücretlerime göre çok pahalı.",
+  "objection": "Kiralamada hasta başı sayımı kim yapacak, neye göre faturalanacak? Satın almada da taksit yok; ayrıca Çin malı bir cihazın hassasiyeti ve laboratuvarın dosyaları sorunsuz kabul edip etmeyeceği belli değil.",
+  "would_change_my_mind": "Depo üzerinden vade farksız 12 ay taksit (ayda 400-450 € civarı) ve laboratuvarımın bu cihazın dosyalarıyla sorunsuz çalıştığını denemede görmek.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
+}

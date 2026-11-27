@@ -1,0 +1,263 @@
+{
+ "business": "Ağız İçi Tarayıcı Satış ve Kiralama (çalışma adı): Launca DL-300 Kablosuz tarayıcının satışı ve hasta başı kiralaması",
+ "seed": 393267,
+ "dealt": 100,
+ "answered": 100,
+ "skipped": [],
+ "buys": 6,
+ "passes": 94,
+ "buy_rate": 0.06,
+ "by_segment": [
+  [
+   "Çok hekimli poliklinik / klinik sahibi diş hekimi (yıllık geliri USD karşılığı)",
+   30,
+   0.16666666666666666
+  ],
+  [
+   "Yerleşik muayenehane sahibi diş hekimi (yıllık geliri USD karşılığı)",
+   40,
+   0.025
+  ],
+  [
+   "Yeni muayenehane açmış diş hekimi (yıllık geliri USD karşılığı)",
+   30,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Önce dener sonra alır",
+   12,
+   0.25
+  ],
+  [
+   "Taksitle alan",
+   18,
+   0.16666666666666666
+  ],
+  [
+   "Laboratuvarına bağlı",
+   15,
+   0.0
+  ],
+  [
+   "Meslektaş tavsiyesiyle alan",
+   13,
+   0.0
+  ],
+  [
+   "Fiyat avcısı",
+   15,
+   0.0
+  ],
+  [
+   "Klasik ölçüden memnun",
+   15,
+   0.0
+  ],
+  [
+   "Premium marka sadığı",
+   12,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$95,000 and up",
+   35,
+   0.14285714285714285
+  ],
+  [
+   "$43,000 to $95,000",
+   32,
+   0.03125
+  ],
+  [
+   "under $43,000",
+   33,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   44,
+   [
+    "Laboratuvarım dijital dosya istemeye başladı ama hangi tarayıcıyı önerdiğini henüz bilmiyorum; laboratuvarın sorunsuz kabul ettiğinden emin olmadığım bir Çin markasına 5.000 € bağlamam. Klasik ölçü şimdilik işimi görüyor, acelem yok.",
+    "Bulantı refleksi olan hastalarda ölçü almak gerçekten dert, dijital tarayıcı işime yarar. Ama çevremde Launca kullanan bir meslektaşım yok; kimse 'al, memnunum' demeden 5 bin avroluk bir Çin markasına para vermem, aynı paraya ikinci el Medit ya da depodan taksitle bilinen bir marka almayı tercih ederim."
+   ],
+   [
+    "P001",
+    "P003"
+   ]
+  ],
+  [
+   "habit",
+   26,
+   [
+    "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, hastalarım da şikâyet etmiyor. Yeni açtığım muayenehanenin kira, asistan ve malzeme giderleri zaten zorlarken 4.950 € + KDV'yi ya da hasta başı 50 €'yu bir ihtiyaç olarak görmüyorum.",
+    "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, yeni açtığım muayenehanede 4.950 € artı KDV'yi dijital ölçüye ayıracak durumum yok. Kiralamada da hasta başı 50 € her ölçüye eklenen ciddi bir maliyet, hastaya yansıtması zor."
+   ],
+   [
+    "P005",
+    "P012"
+   ]
+  ],
+  [
+   "price",
+   23,
+   [
+    "Laboratuvar dijital dosya istiyor, tarayıcıya ihtiyacım var, bunu kabul ediyorum. Ama birkaç bayiden teklif almadan, ikinci el ilanlara ve fuar kampanyalarına bakmadan 4.950 € + KDV ödemem; ücretsiz denemeyi belki yaparım ama bu ay karar vermem.",
+    "Muayenehaneyi yeni açtım, 4.950 € + KDV'yi peşin bırakacak durumum yok, taksit de yazmıyor. Hasta başı 50 € kiralama da bizim hastaya yansıtınca ağır kalıyor; ölçüyü şimdilik klasik yöntemle almaya devam ederim."
+   ],
+   [
+    "P004",
+    "P019"
+   ]
+  ],
+  [
+   "convenience",
+   1,
+   [
+    "Fiyat aslında makul ama 4.950 €'yu peşin bağlamam, ben cihazı depodan vade farksız taksitle alırım; burada taksit yok, kurulumu ve eğitimi kimin yapacağı da yazmıyor. Ücretsiz denemeyi belki isterim ama bu hafta satın alma kararı vermem."
+   ],
+   [
+    "P056"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "price",
+   3,
+   [
+    "Bizim klinikte birkaç hekim var, hasta başı 50 € kiralama bize birkaç ayda cihazın fiyatını öder; 4.950 € ağız içi tarayıcı için düşük bir rakam. Önce kendi kliniğimde ücretsiz deneyip taramalar laboratuvarımızın yazılımında sorunsuz açılırsa satın alırım.",
+    "Fuarda gördüğüm tarayıcılar bunun üç-beş katı fiyatında; 4.950 € kliniğe ikinci bir koltuk için tarayıcı demek. Önce kendi hastalarımda ücretsiz denerim, taramalar laboratuvarımla sorunsuz çalışırsa satın alırım, kiralamayı hasta başı 50 € ile hiç düşünmem."
+   ],
+   [
+    "P009",
+    "P031"
+   ]
+  ],
+  [
+   "need",
+   2,
+   [
+    "Laboratuvarım artık dijital dosya istiyor, bu işi ertelemem mümkün değil. Ücretsiz denemede kendi hastalarımda tarama yapıp laboratuvar dosyayı sorunsuz kabul ederse, 4.950 € bu kadar hekimli bir klinik için makul; satın alırım, hasta başı 50 € kiralama bizim hasta sayımızda çok pahalıya gelir.",
+    "Çok hekimli klinikte dijital ölçüye geçmek zaten gündemimde; 4.950 € fuarda gördüğüm markalı tarayıcıların çok altında ve önce kendi kliniğimde ücretsiz deneyebiliyorsam riskim az. Denemede taramalar laboratuvarıma sorunsuz giderse bir tane alırım."
+   ],
+   [
+    "P046",
+    "P068"
+   ]
+  ],
+  [
+   "convenience",
+   1,
+   [
+    "Ayda birkaç vakam var, 5 bin euroyu bir cihaza bağlamam mantıklı değil; ama önce kendi hastalarımda ücretsiz deneyip, peşinatsız hasta başı kiralamayla başlarım. Deneme kötü giderse hiçbir şey kaybetmem."
+   ],
+   [
+    "P002"
+   ]
+  ]
+ ],
+ "flip": [
+  "Çalıştığım laboratuvarın bu cihazı açıkça önermesi ve ücretsiz denemede gönderdiğim taramaların laboratuvardan sorunsuz dönmesi.",
+  "Ankara'da güvendiğim bir meslektaşın bu cihazı birkaç aydır kullanıp memnun olduğunu söylemesi; onun üzerine ücretsiz denemeyi kendi refleksli hastalarımda yapıp iyi sonuç görürsem alırım.",
+  "Topladığım tekliflerden belirgin şekilde ucuz bir fiyat (4.000 € civarı) ve yedek cihazın kaç günde geleceğinin sözleşmeye yazılması.",
+  "Laboratuvarımın dijital ölçüyle daha ucuz ve hızlı çalıştığını, ya da hastaların dijital ölçü için muayenehane seçtiğini kendi gözümle görmem.",
+  "WhatsApp grubundaki güvendiğim birkaç meslektaşın bu cihazı aylarca kullanıp çalıştığım laboratuvarla sorunsuz iş çıkardığını söylemesi; o zaman ücretsiz denemeyi kabul ederim.",
+  "WhatsApp grubundaki güvendiğim birkaç meslektaşın bu cihazı kliniğinde bir yıldır sorunsuz kullandığını söylemesi ve fiyatın ikinci el Medit tekliflerinin belirgin şekilde altında, taksitli olması.",
+  "Ücretsiz denemede kendi laboratuvarımın taramaları sorunsuz kabul edip iyi oturan işler çıkarması ve Ankara'da bu cihazı yıllardır kullanan tanıdık bir meslektaşın memnun olduğunu duymak.",
+  "Ankara'da cihazı aylardır sorunsuz kullanan birkaç meslektaşın referansı ve 4.000 € civarında ya da taksitli bir teklif.",
+  "Çalıştığım laboratuvarın Launca'dan gelen dosyaları sorunsuz kabul ettiğini ve kendisinin de önerdiğini söylemesi; ücretsiz denemede ilk birkaç implant ölçüsünün laboratuvardan sorunsuz dönmesi.",
+  "Fuarda ya da kliniğimde ücretsiz denemede taramaların laboratuvarımla sorunsuz çalıştığını görmek ve satın alma fiyatının 3.000 € civarına inmesi ya da faizsiz taksit seçeneği.",
+  "Ücretsiz denemede kendi hastalarımda taramaların laboratuvara sorunsuz gitmesi ve topladığım diğer tekliflerden, ikinci el muadillerden açıkça daha ucuz kalan, yazılı servis süresi garantili bir satın alma fiyatı.",
+  "Çalıştığım laboratuvarın Launca dosyalarıyla sorunsuz çalıştığını söylemesi ya da bu cihazı bana kendisinin önermesi; o zaman ücretsiz denemeyi yapar, birkaç vakayı laboratuvara gönderip öyle karar veririm.",
+  "Çalıştığım şeffaf plak firması ya da laboratuvar yalnızca dijital tarama kabul etmeye başlarsa, kurulum ve eğitim dahil kiralama seçeneğini ücretsiz denemeden sonra düşünürüm.",
+  "Kendi hastalarımda yaptığım deneme taramalarını laboratuvarımın sorunsuz kabul edip uyumlu işler çıkarması, bir de satın almada taksit imkanı olması.",
+  "Denemede kendi hastalarımda klasik ölçüden daha az prova ve yeniden yapım görmek, ve laboratuvarımın dijital dosyayı sorunsuz kabul ettiğini teyit etmek; o zaman taksitli satın almayı düşünürüm.",
+  "Hasta başı ücret 10-15 € civarına inse ya da satın almada uzun vadeli faizsiz taksit olsa, ücretsiz denemede de laboratuvarımla sorunsuz çalıştığını görsem düşünürdüm.",
+  "Depo üzerinden vade farksız 12 taksit, aylık ödemenin makul olması ve gruptan birkaç meslektaşın cihazdan memnun olduğunu söylemesi; o zaman ücretsiz denemeyi kabul ederim.",
+  "Çalıştığım laboratuvarın Launca DL-300 dosyalarını sorunsuz aldığını teyit etmesi ve tavsiye etmesi; o zaman ücretsiz denemeyi yapar, kiralama ile başlarım.",
+  "Ücretsiz denemede hastalarımın ölçü ve laboratuvar masrafından gerçekten tasarruf ettiğimi görmek ve fiyatın 3.000 € civarına inmesi ya da faizsiz taksitle ödenebilmesi.",
+  "Ankara'da tanıdığım, güvendiğim birkaç meslektaşın bu cihazı bir yıldır sorunsuz kullandığını ve laboratuvarımın ölçülerden memnun kaldığını görmek; servis ve yedek cihaz süresinin yazılı sözleşmeyle garanti edilmesi.",
+  "Ankara'da tanıdığım birkaç meslektaşın ve çalıştığım laboratuvarın bu cihazı sorunsuz kullandığını görmek, üstüne kendi kliniğimde bulantı refleksli hastalarda denemede gerçekten hızlı ve rahat tarama alabilmek.",
+  "Depodan aldığım cihazlar gibi vade farksız 12 ay taksit sunulsa ve aylık ödeme makul bir seviyede kalsa, ücretsiz denemeden sonra düşünürdüm.",
+  "Ankara'da cihazı aylardır kullanan, güvendiğim bir meslektaşın memnun olduğunu söylemesi ve kurulum ile eğitimin kliniğimde yerinde yapılacağının netleşmesi.",
+  "Ücretsiz denemede kendi hastalarımda ölçü tekrarını ve laboratuvar dönüş süresini gerçekten azalttığını görmek ve fiyatın 3.000 € civarına inmesi ya da taksitle ödenebilmesi.",
+  "Depodan aldığım gibi vade farksız 10-12 ay taksit ve sayımın cihazın kendi kaydından şeffaf, benim de görebileceğim şekilde yapılması; üstüne kendi hastalarımda denediğimde ölçülerin laboratuvardan sorunsuz dönmesi.",
+  "Ankara'da güvendiğim bir meslektaşımın bu cihazı aylardır implant ve kron vakalarında sorunsuz kullandığını kendi ağzından duymak; o zaman ücretsiz denemeyi kabul ederim.",
+  "Ankara'da bu cihazı en az bir yıldır kullanan güvendiğim bir meslektaşımın memnun olduğunu kendi ağzından duymak; sonra ücretsiz denemeyi kabul ederim.",
+  "Laboratuvarım klasik ölçüyü kabul etmeyi tamamen bırakırsa, önce ücretsiz denemeyi yapar, sonra peşin parasız kiralamayı düşünürdüm.",
+  "Kendi kliniğimde denemede taramaların laboratuvarımdan ilk seferde sorunsuz, klasik ölçü kadar iyi oturan işler olarak dönmesi ve Ankara'da bu cihazı yıllardır sorunsuz kullanan bir meslektaşı görmek.",
+  "Çalıştığım laboratuvarın bu cihazı önermesi ve ücretsiz denemede gönderdiğim taramaların labdan sorunsuz dönmesi.",
+  "Çalıştığım laboratuvarın Launca dosyalarını sorunsuz aldığını yazılı olarak teyit etmesi ve kurulum ile eğitimin klinikte ücretsiz yapılması.",
+  "Çalıştığım laboratuvarın bu cihazı önermesi ve deneme süresinde gönderdiğim taramaların laboratuvardan sorunsuz dönmesi.",
+  "Ankara'da güvendiğim bir meslektaşımın bu cihazı aylardır implant ve köprü vakalarında kullanıp laboratuvarla sorun yaşamadığını kendi ağzından söylemesi; o zaman ücretsiz denemeyi kabul ederim.",
+  "Fiyatın 3.500 € civarına inmesi ya da faizsiz taksit, üstüne Ankara'da bu cihazı yıllardır sorunsuz kullanan bir meslektaşın referansı.",
+  "Laboratuvarımın dosyaları sorunsuz kabul ettiğini ücretsiz denemede kendi hastamda görmek ve topladığım diğer tekliflerden belirgin şekilde ucuz bir fiyat, örneğin 4.000 €'nun altında bir kampanya.",
+  "Tanıdığım bir depodan vade farksız 12 taksitle alabilmek ve Ankara'da bu cihazı en az bir yıldır sorunsuz kullanan bir meslektaşın tavsiyesi.",
+  "Cihazı kullanan güvendiğim bir meslektaşın memnun olduğunu söylemesi ve aylık taksitle, kurulum ve eğitim dahil olarak 3.000 € civarına inmesi.",
+  "Ankara'da cihazı kullanan meslektaşlarımın WhatsApp grubunda olumlu yorumları ve satın almada 12 ay taksit ya da hasta başı ücretin 20-25 € civarına inmesi.",
+  "Kendi kliniğimde denemede zor hastalarda bile hızlı ve temiz tarama alırsam ve satın almaya depo gibi taksit seçeneği eklenirse alırım.",
+  "Çalıştığım laboratuvarın bu cihazın dosyalarını sorunsuz kabul ettiğini yazılı olarak teyit etmesi ve ücretsiz denemede ölçülerin klasik ölçü kadar oturduğunu kendi hastalarımda görmem.",
+  "Depodan vade farksız 12 ay taksit, aylık 500 € civarı bir ödeme ve Ankara'da yerinde servisin yazılı garantisi.",
+  "Laboratuvarımın bu tarayıcıyı önermesi ve dosyalarını sorunsuz aldığını göstermesi, üstüne taksitli ödeme imkânı.",
+  "Laboratuvarımın dijital ölçüye geçip silikon ölçüyü kabul etmemesi ya da tanıdığım meslektaşların bu cihazı en az bir yıl sorunsuz kullandığını görmem; ücretsiz denemede de gerçekten zaman kazandırdığını görürsem fiyatı yaklaşık 3.000 euroya inerse düşünürüm.",
+  "WhatsApp grubundaki meslektaşlarımın bu cihazı övmesi ve kendi hastalarımda denerken laboratuvarın taramaları sorunsuz kabul etmesi, artı taksitli ödeme imkânı.",
+  "Hasta başı ücretin 15-20 € civarına inmesi ya da satın almanın 3.000 € altına inip faizsiz 12 taksitle sunulması.",
+  "Ankara'da güvendiğim bir meslektaşın bu cihazı aylardır sorunsuz kullandığını kendi gözümle görmem; o zaman önce ücretsiz denemeyi, sonra kiralamayı düşünürdüm.",
+  "Depo üzerinden vade farksız 12 ay taksit (ayda 400-450 € civarı) ve laboratuvarımın bu cihazın dosyalarıyla sorunsuz çalıştığını denemede görmek.",
+  "Kendi hastalarımda birkaç haftalık denemede laboratuvarımın dosyaları sorunsuz kabul etmesi ve Ankara'da bu cihazı yıllardır kullanan meslektaşlardan olumlu görüş duymak, üstüne taksit imkanı.",
+  "Fiyatın 3.500 € civarına inmesi ya da faizsiz 12 taksit sunulması, üstüne Ankara'da bu cihazı yıllardır sorunsuz kullanan bir meslektaşın tavsiyesi.",
+  "Ankara'da güvendiğim bir meslektaşımın bu cihazı aylardır kullanıp taramalarının laboratuvarda ve plak firmasında sorunsuz kabul edildiğini bana bizzat söylemesi.",
+  "Vade farksız 10-12 taksit (aylık 450-500 € civarı) ve klinikte kurulum ile eğitimin fiyata dahil olduğunun yazılı garantisi.",
+  "Ankara'da güvendiğim birkaç meslektaşın cihazı en az bir yıldır sorunsuz kullandığını görmek ve çalıştığım laboratuvarın taramaları sorunsuz kabul ettiğini kendi kliniğimdeki ücretsiz denemede teyit etmek.",
+  "Kendi kliniğimde ücretsiz denemede taramaların laboratuvarımda ilk seferde oturan protez çıkarması ve fiyatın 3.500 euro civarına inmesi.",
+  "Ankara'da güvendiğim meslektaşların ya da çalıştığım laboratuvarın bu cihazı sorunsuz kullandığını görmek ve ücretsiz denemede taramaların 3Shape kalitesinde çıkması.",
+  "Çalıştığım laboratuvarın bu cihazı önermesi ve ücretsiz denemede ilk birkaç vakanın dosyalarının laboratuvara hatasız gitmesi.",
+  "Vade farksız 12 taksit (ayda 400 € civarı) ve ücretsiz denemede laboratuvarımın taramaları sorunsuz kabul ettiğini görmek.",
+  "Ankara'da cihazı birkaç aydır kullanan, tanıdığım bir meslektaşın gruba 'ölçüler tuttu, lab sorun çıkarmadı' yazması. O zaman ücretsiz denemeyi kabul eder, beğenirsem satın alırdım.",
+  "Depo üzerinden vade farksız 12 taksit (aylık 400 € civarı) ve Ankara'da bu cihazı en az bir yıldır kullanan bir meslektaşın memnun olduğunu kendi gözümle görmek.",
+  "Laboratuvarın dijital olmayan ölçüyü artık hiç kabul etmemesi ve fiyatın depoların verdiği gibi faizsiz 12 taksite bölünmesi; o durumda önce ücretsiz denemeyi yapıp bakarım.",
+  "Deneme sonrası diğer teklifleri gerçekten geçen bir fiyat, örneğin 4.000 € civarı ve yazılı garanti ile yedek cihaz taahhüdü.",
+  "Depodan vade farksız 12 taksit (ayda 400-450 € civarı) ve Ankara'da tanıdığım bir meslektaşın cihazı sorunsuz kullandığını görmek; ücretsiz denemede de ölçülerimin laboratuvardan sorunsuz dönmesi.",
+  "Laboratuvarımın bu cihazı önermesi ve ücretsiz denemede taramaların laboratuvara sorunsuz gittiğini kendi gözümle görmem; o zaman kiralamayla başlarım.",
+  "Fiyatın 3.000 € civarına inmesi ya da faizsiz 12-24 ay taksit imkanı; ücretsiz denemede de laboratuvarla sorunsuz çalıştığını kendi gözümle görmem.",
+  "Faizsiz uzun vadeli taksit (aylık 150-200 € civarı) ve Ankara'da birlikte çalıştığım laboratuvarların bu cihazdan gelen taramaları sorunsuz kabul ettiğini görmek.",
+  "Ücretsiz denemede cihaz işini görürse ve satın alma fiyatı topladığım diğer tekliflerin ve ikinci el fiyatlarının altına, 4.000 € civarına inerse alırım.",
+  "Hasta başı ücretin 10-15 € civarına inmesi ya da laboratuvarın dijital ölçü için bana ciddi indirim yapması; o zaman ücretsiz denemeyi yapıp kiralamayı düşünürüm.",
+  "Ankara'da güvendiğim bir meslektaşımın bu cihazı aylardır sorunsuz kullandığını ve laboratuvarının taramalardan memnun olduğunu kendisinden duymam.",
+  "Ankara'da güvendiğim birkaç meslektaşın bu cihazı bir yıldır sorunsuz kullandığını görmek ve çalıştığım laboratuvarın taramaları sorunsuz kabul ettiğini kendi deneme hastalarımda doğrulamak; bir de taksitli ödeme imkanı.",
+  "Cihazın tarama kayıtlarını hasta bazında benim de görebildiğim aylık bir raporla faturalanması ya da satın almanın depo gibi vade farksız 10-12 taksitle sunulması.",
+  "Ankara'da bu cihazı birkaç yıldır sorunsuz kullanan tanıdığım meslektaşlardan referans ve yazılı bir servis süresi garantisi (ör. 48 saatte yedek cihaz); bir de fiyat 3.500 € civarına inse ciddi düşünürüm.",
+  "Depodan aldığım gibi 12 ay vade farksız taksit (ayda 400-450 € civarı) ve Ankara'da yazılı süreli servis/yedek cihaz garantisi olsa, ücretsiz denemeden sonra alırım.",
+  "Kliniğimde ücretsiz denemede kurulumu ve eğitimi yerinde yapmaları, laboratuvarımın dosyaları sorunsuz kabul etmesi ve aldığım diğer tekliflerden daha düşük ya da eşit bir net fiyat vermeleri.",
+  "Laboratuvarın klasik ölçüyü artık hiç kabul etmeyeceğini söylemesi; o zaman ücretsiz denemeyi yapıp kiralamayla başlardım.",
+  "Ankara'da tanıdığım birkaç klinikte sorunsuz kullanıldığını görmek ve laboratuvarımın Launca dosyalarını onaylaması; o zaman ücretsiz denemeyi yapar, satın almayı düşünürdüm.",
+  "Çalıştığım laboratuvarın bu cihazı önermesi ve ücretsiz denemede gönderdiğim dosyaların lab tarafından sorunsuz işlenmesi.",
+  "Ankara'da cihazı en az birkaç aydır kullanan güvendiğim bir meslektaşımın servis ve tarama kalitesi konusunda olumlu konuşması.",
+  "Laboratuvarımın bu cihazı önermesi ve dosyalarının sorunsuz açıldığını teyit etmesi, bir de taksitli ödeme imkânı.",
+  "Topladığım tekliflerden belirgin şekilde ucuz bir fiyat (örneğin 4.000 € civarı) ya da taksit imkânı, ve denemede laboratuvarımın dosyaları sorunsuz kabul etmesi.",
+  "Çalıştığım laboratuvarın bu cihazdan gelen dosyaları sorunsuz kabul ettiğini teyit etmesi; o zaman ücretsiz denemeyi yapar, iyi giderse alırım.",
+  "Çalıştığım laboratuvarın bu tarayıcıyı önermesi ve ücretsiz denemede gönderdiğim dosyaların laboratuvardan sorunsuz dönmesi.",
+  "Kendi kliniğimde denemede taramaların laboratuvarıma sorunsuz gitmesi, kurulum ve eğitimin yerinde yapılması ve 12 ay vade farksız taksit imkânı.",
+  "Çalıştığım laboratuvarın ve şeffaf plak firmasının bu cihazın dosyalarını sorunsuz kabul ettiğini yazılı teyit etmesi ve ölçü malzemesi ile kargo tasarrufunun cihazı kısa sürede ödediğini kendi rakamlarımla görmek.",
+  "Kendi hastalarımda denemede laboratuvarın dosyaları sorunsuz kabul etmesi ve satın almanın 12 ay faizsiz taksitle, aylık 400 € civarına bölünebilmesi.",
+  "Ücretsiz denemede kendi hastalarımda taramaların çalıştığım laboratuvardan sorunsuz kabul edilmesi ve Ankara'da bu cihazı yıllardır kullanan, güvendiğim meslektaşlardan olumlu görüş duymak.",
+  "Deneme sırasında kendi laboratuvarıma gönderdiğim taramalardan sorunsuz iş gelmesi ve satın almanın vade farksız 10-12 taksitle yapılabilmesi.",
+  "Çalıştığım laboratuvarın dosyaları sorunsuz aldığını yazılı teyit etmesi ve Ankara'da bu cihazı yıllardır kullanan meslektaşlarımdan olumlu geri bildirim duymam; o zaman ücretsiz denemeyi yapıp taksitle almayı düşünürdüm.",
+  "Ankara'da bu cihazı en az birkaç aydır kullanan, güvendiğim bir meslektaşımın taramanın hızlı ve doğru olduğunu, laboratuvarla sorunsuz çalıştığını ve servisin gerçekten yedek cihazla geldiğini söylemesi.",
+  "Ücretsiz denemede kendi hastalarımda gerçekten zaman ve malzeme tasarrufu görmem, ve fiyatın rakip tekliflerden ya da ikinci el piyasadan belirgin şekilde ucuz olması (yaklaşık 3.500 € civarı) ya da taksitli ödeme seçeneği.",
+  "Kendi hastalarımda yapılan deneme taramalarının laboratuvardan sorunsuz dönmesi ve kiralamada cihazın kendi kaydettiği, benim de görebildiğim şeffaf bir tarama sayacı olması.",
+  "Ankara'da bu cihazı en az bir yıldır kullanan, güvendiğim bir meslektaşımın kliniğinde görüp 'laboratuvarla sorunsuz, servis hızlı' demesi.",
+  "Ücretsiz denemede kendi hastalarımda implant üstü ve köprü vakalarında laboratuvarımdan prova gerektirmeyen, silikon kadar oturan sonuçlar almak ve fiyatın 3.500 € civarına inmesi.",
+  "Ankara'da güvendiğim birkaç meslektaşımın bu cihazı en az bir yıldır sorunsuz kullandığını ve çalıştığım laboratuvarın taramaları sorunsuz kabul ettiğini görmek.",
+  "Depodan aldığım gibi vade farksız 12 ay taksit, aylık ödemesi belli olsun; önce kendi kliniğimde ücretsiz denemeyi yapıp taramaların kalitesini görürsem düşünürüm.",
+  "Çalıştığım laboratuvarın Launca'yı önermesi ve kendi kliniğimde denemede birkaç vakanın dosyasının laba sorunsuz gidip uyumlu iş gelmesi."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 100
+}

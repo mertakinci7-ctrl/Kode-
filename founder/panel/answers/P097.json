@@ -1,0 +1,13 @@
+{
+  "id": "P097",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, laboratuvarım da memnun; ayda 15-25 ölçü için 4.950 € artı KDV ödemek ya da hasta başı 50 € vermek bana gereksiz bir masraf gibi geliyor. Kiralamada ayda 1.000 €'ya yaklaşan bir fatura çıkar, bu da ölçü malzemesi maliyetimin çok üstünde.",
+  "objection": "Hasta başı ücrette sayımı kim tutacak, cihazın kaç hastada kullanıldığını nasıl doğrulayacağım? Satın almada da Çinli bir markanın tarama hassasiyetinin implant üstü ölçülerde silikon kadar güvenilir olup olmadığından ve laboratuvarımın bu dosyalarla sorunsuz çalışıp çalışmayacağından emin değilim.",
+  "would_change_my_mind": "Ücretsiz denemede kendi hastalarımda implant üstü ve köprü vakalarında laboratuvarımdan prova gerektirmeyen, silikon kadar oturan sonuçlar almak ve fiyatın 3.500 € civarına inmesi.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
+}

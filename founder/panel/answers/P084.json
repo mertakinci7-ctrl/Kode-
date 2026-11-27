@@ -1,0 +1,13 @@
+{
+  "id": "P084",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Laboratuvar dijital dosya istemeye başladı, o yüzden ücretsiz denemeyi kabul ederim ama bu ay almam; önce başka markalardan ve ikinci el ilanlardan en az iki üç teklif toplarım. Hasta başı 50 € kiralama ise benim hasta sayımda kısa sürede satın almadan pahalıya gelir.",
+  "objection": "Klasik ölçü zaten işimi görüyor; 4.950 € + KDV'yi Çinli bir markaya vermeden önce aynı paraya ya da daha ucuza ikinci el veya kampanyalı bir alternatif bulup bulamayacağımı görmek istiyorum.",
+  "would_change_my_mind": "Topladığım tekliflerden belirgin şekilde ucuz bir fiyat (örneğin 4.000 € civarı) ya da taksit imkânı, ve denemede laboratuvarımın dosyaları sorunsuz kabul etmesi.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3500,
+  "price_expensive": 4800,
+  "price_too_expensive": 6500
+}

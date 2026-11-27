@@ -1,0 +1,13 @@
+{
+  "id": "P064",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Muayenehaneyi yeni açtım, yılda kazandığım paranın neredeyse beşte biri kadar bir cihaza, hem de silikonla yıllardır sorunsuz ölçü alırken, şimdi bu parayı vermem. Laboratuvar dijital dosya istiyor ama o parayı vereceksem ikinci el bir Medit ya da depodan taksitle bilinen bir marka alırım.",
+  "objection": "Launca'yı tanımıyorum; Çinli bir marka, birkaç yıl sonra yedek parça ve servis bulabilecek miyim, cihaz değerini korur mu bilmiyorum. Hasta başı 50 € kiralama da benim hasta sayımla ve hastadan alabildiğim ücretle bana pahalı geliyor.",
+  "would_change_my_mind": "Laboratuvarın dijital olmayan ölçüyü artık hiç kabul etmemesi ve fiyatın depoların verdiği gibi faizsiz 12 taksite bölünmesi; o durumda önce ücretsiz denemeyi yapıp bakarım.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2500,
+  "price_expensive": 3800,
+  "price_too_expensive": 5000
+}

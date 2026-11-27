@@ -1,0 +1,13 @@
+{
+  "id": "P083",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Klasik ölçü zaten işimi görüyor, hastam da şikâyet etmiyor; yeni açtığım muayenehanenin sabit giderleri beni zaten zorlarken 4.950 € + KDV'yi bir tarayıcıya ayıramam. Hasta başı 50 € kiralama da benim hasta ücretlerime göre çok ağır.",
+  "objection": "Çalıştığım laboratuvar bu markayı önermedi; dosyalar laboratuvara sorunsuz gidecek mi bilmiyorum, Çinli bir markaya da hemen güvenemiyorum.",
+  "would_change_my_mind": "Laboratuvarımın bu cihazı önermesi ve dosyalarının sorunsuz açıldığını teyit etmesi, bir de taksitli ödeme imkânı.",
+  "price_too_cheap": 1500,
+  "price_cheap": 2500,
+  "price_expensive": 4000,
+  "price_too_expensive": 5500
+}

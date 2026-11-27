@@ -1,0 +1,13 @@
+{
+  "id": "P071",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Laboratuvar dijital dosya istediği için bir tarayıcıya ihtiyacım var, ama birkaç teklif ve ikinci el ilanlarına bakmadan 4.950 €'yu ödemem; çok hekimli klinikte hasta başı 50 € kiralama da kısa sürede satın almaktan pahalıya gelir.",
+  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak? Beş hekim aynı cihazı kullanırken hangi taramanın yeni hasta, hangisinin tekrar sayılacağı tartışma çıkarır; satın alma fiyatı da piyasadaki diğer tekliflerle karşılaştırılmadan ucuz mu pahalı mı bilemiyorum.",
+  "would_change_my_mind": "Ücretsiz denemede cihaz işini görürse ve satın alma fiyatı topladığım diğer tekliflerin ve ikinci el fiyatlarının altına, 4.000 € civarına inerse alırım.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
+}

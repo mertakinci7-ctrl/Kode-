@@ -1,0 +1,13 @@
+{
+  "id": "P057",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ben 3Shape ya da iTero gibi markalara güvenirim; Launca adını fuarda görsem de kliniğime, hastalarımın ölçüsüne az bilinen bir Çinli markayı sokmak içime sinmiyor. Kiralamada da hasta başı sayımı kimin, nasıl tuttuğunu bilmeden imza atmam.",
+  "objection": "Hasta başı sayıma nasıl güveneceğim, kim sayacak? Satın almada da laboratuvarların bu taramaları sorunsuz kabul edip etmeyeceği ve birkaç yıl sonra servis ile yazılım desteğinin sürüp sürmeyeceği belli değil.",
+  "would_change_my_mind": "Ankara'da güvendiğim birkaç meslektaşın cihazı en az bir yıldır sorunsuz kullandığını görmek ve çalıştığım laboratuvarın taramaları sorunsuz kabul ettiğini kendi kliniğimdeki ücretsiz denemede teyit etmek.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5500,
+  "price_too_expensive": 7500
+}

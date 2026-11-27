@@ -1,0 +1,13 @@
+{
+  "id": "P068",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Çok hekimli klinikte dijital ölçüye geçmek zaten gündemimde; 4.950 € fuarda gördüğüm markalı tarayıcıların çok altında ve önce kendi kliniğimde ücretsiz deneyebiliyorsam riskim az. Denemede taramalar laboratuvarıma sorunsuz giderse bir tane alırım.",
+  "objection": "Bilgisayarlarımız bu tarayıcıyla uyumlu mu, kurulumu ve hekimlerin eğitimini kim yapacak belli değil; ayrıca vade farksız taksit seçeneği yazmıyor, Çinli bir markanın tarama hassasiyeti ve yazılım desteği de birkaç yıl sonra ne olur bilmiyorum.",
+  "would_change_my_mind": "Ücretsiz denemede taramaların laboratuvarımın kabul ettiği kalitede çıkmaması ya da kurulum ve eğitim için yerinde destek verilmemesi kararımı hayıra çevirir.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 7000,
+  "price_too_expensive": 10000
+}

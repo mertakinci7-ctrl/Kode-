@@ -1,0 +1,13 @@
+{
+  "id": "P072",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Silikon ölçüyle yıllardır sorunsuz çalışıyorum, ayda birkaç şeffaf plak vakası için dijitale geçmeye ihtiyaç duymuyorum. Yeni açtığım muayenehanede 4.950 € artı KDV de çok büyük bir para, kiralamada hasta başı 50 € ise ölçü maliyetimin çok üstünde.",
+  "objection": "Yılda 32 bin dolar kazanırken, zaten işimi gören silikon ölçünün yerine 5 bin euroluk Çin malı bir cihaz almak bana mantıklı gelmiyor; hasta başı 50 € de ayda 20 hastada 1.000 euro eder.",
+  "would_change_my_mind": "Hasta başı ücretin 10-15 € civarına inmesi ya da laboratuvarın dijital ölçü için bana ciddi indirim yapması; o zaman ücretsiz denemeyi yapıp kiralamayı düşünürüm.",
+  "price_too_cheap": 1200,
+  "price_cheap": 2000,
+  "price_expensive": 3000,
+  "price_too_expensive": 4000
+}

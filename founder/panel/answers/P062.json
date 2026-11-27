@@ -1,0 +1,13 @@
+{
+  "id": "P062",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Hasta başı 50 euro bana çok geliyor, ayda 20 hastada 1.000 euro eder, o yüzden kiralama olmaz. Satın almayı da WhatsApp grubunda bu cihazı kullanan bir meslektaşımdan duymadan düşünmem; Launca adını grupta hiç konuşan olmadı.",
+  "objection": "Çin markası. Tarama hassasiyeti ve laboratuvarların dosyayı sorunsuz kabul edip etmediği konusunda güvenebileceğim birinden tek bir yorum duymadım. Bir de Ankara dışında servis ve yedek cihaz sözü gerçekten tutuluyor mu, bilmiyorum.",
+  "would_change_my_mind": "Ankara'da cihazı birkaç aydır kullanan, tanıdığım bir meslektaşın gruba 'ölçüler tuttu, lab sorun çıkarmadı' yazması. O zaman ücretsiz denemeyi kabul eder, beğenirsem satın alırdım.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3500,
+  "price_expensive": 6000,
+  "price_too_expensive": 9000
+}

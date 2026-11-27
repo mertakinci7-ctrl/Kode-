@@ -1,0 +1,13 @@
+{
+  "id": "P087",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ayda birkaç plak vakası için tarayıcı ilgimi çekiyor, ücretsiz denemeyi belki kabul ederim ama Launca'yı tanımıyorum ve bu ay 4.950 € peşin çıkarmam. Depomdan vade farksız taksit seçeneği de yazmıyor, ben aylık ödemeye bakarım.",
+  "objection": "Bilgisayarım bu tarayıcıyla uyumlu mu, kurulumu ve eğitimi kim yapacak belli değil; bir de taramalar kullandığım laboratuvarın ve plak firmasının sistemine sorunsuz gider mi, Çin malı ucuz bir cihazın hassasiyetine güvenemiyorum.",
+  "would_change_my_mind": "Kendi kliniğimde denemede taramaların laboratuvarıma sorunsuz gitmesi, kurulum ve eğitimin yerinde yapılması ve 12 ay vade farksız taksit imkânı.",
+  "price_too_cheap": 2500,
+  "price_cheap": 4000,
+  "price_expensive": 7000,
+  "price_too_expensive": 10000
+}

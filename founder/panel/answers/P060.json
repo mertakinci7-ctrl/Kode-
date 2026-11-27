@@ -1,0 +1,13 @@
+{
+  "id": "P060",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Muayenehaneyi yeni açtım, 4.950 € benim için büyük para; hasta başı 50 € de her taramada cebimden çıkar. Laboratuvarım bu markayı önermedikçe ve dosyalar sorunsuz gitmedikçe almam.",
+  "objection": "Laboratuvarım Launca dosyalarını sorunsuz alıyor mu, bilmiyorum; ayrıca kiralamada hasta başı sayımı kim tutacak, neye göre faturalanacak, ona nasıl güveneceğim?",
+  "would_change_my_mind": "Çalıştığım laboratuvarın bu cihazı önermesi ve ücretsiz denemede ilk birkaç vakanın dosyalarının laboratuvara hatasız gitmesi.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6500
+}

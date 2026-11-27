@@ -1,0 +1,13 @@
+{
+  "id": "P063",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Ücretsiz denemeye belki bakarım ama 4.950 € peşin, adını meslektaşlardan pek duymadığım Çinli bir marka için fazla; aynı parayı depodan taksitle bilinen bir markaya ya da ikinci el bir Medit'e veririm. Hasta başı 50 € kiralama da ayda birkaç düzine taramada sabit giderlerimin üstüne binen bir yük olur.",
+  "objection": "Markayı tanımıyorum; birkaç yıl sonra yazılım güncellemesi, yedek parça ve servis gerçekten devam edecek mi, ikinci elde değeri olur mu bilmiyorum. Bir de peşin istiyorlar, taksit yok.",
+  "would_change_my_mind": "Depo üzerinden vade farksız 12 taksit (aylık 400 € civarı) ve Ankara'da bu cihazı en az bir yıldır kullanan bir meslektaşın memnun olduğunu kendi gözümle görmek.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 5000,
+  "price_too_expensive": 6500
+}

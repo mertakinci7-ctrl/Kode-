@@ -1,0 +1,13 @@
+{
+  "id": "P053",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Laboratuvar dijital dosya istiyor, bir tarayıcıya ihtiyacım var ama Launca'yı tanımıyorum; ücretsiz denemeyi belki yaparım ama bu ay 4.950 € + KDV'yi bilmediğim bir Çin markasına bağlamam. Aynı paraya ikinci el Medit ya da depodan taksitle bilinen bir marka daha güvenli geliyor.",
+  "objection": "Bilinmeyen bir marka: beş yıl sonra servis, yedek parça ve yazılım güncellemesi olacak mı, laboratuvarım dosyalarıyla sorunsuz çalışacak mı? Kiralamada hasta başı 50 € de çok pahalı, yüz hastada cihazın parası ödeniyor.",
+  "would_change_my_mind": "Kendi hastalarımda birkaç haftalık denemede laboratuvarımın dosyaları sorunsuz kabul etmesi ve Ankara'da bu cihazı yıllardır kullanan meslektaşlardan olumlu görüş duymak, üstüne taksit imkanı.",
+  "price_too_cheap": 1500,
+  "price_cheap": 3000,
+  "price_expensive": 4500,
+  "price_too_expensive": 6000
+}

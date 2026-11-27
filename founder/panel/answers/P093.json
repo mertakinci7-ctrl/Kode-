@@ -1,0 +1,13 @@
+{
+  "id": "P093",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Bulantı refleksli hastalarda ölçü gerçekten başımın derdi, tarayıcıya ihtiyacım var. Ama bu markayı kullanan ve memnun olan bir meslektaşımı duymadan sadece bir ilana bakıp cihaz almam. Ücretsiz denemeyi belki kabul ederim, ama bu ay satın almam.",
+  "objection": "Çin malı bir cihaz; 'yedek cihaz veriyoruz' diyorlar ama Ankara'da kim bakacak, servis kaç günde geliyor, iki yıl sonra yazılım güncellemesi ve parça bulunacak mı, bilmiyorum. Kullanan bir meslektaşımdan duymadan bu sözlere güvenemem.",
+  "would_change_my_mind": "Ankara'da bu cihazı en az birkaç aydır kullanan, güvendiğim bir meslektaşımın taramanın hızlı ve doğru olduğunu, laboratuvarla sorunsuz çalıştığını ve servisin gerçekten yedek cihazla geldiğini söylemesi.",
+  "price_too_cheap": 2000,
+  "price_cheap": 3500,
+  "price_expensive": 6000,
+  "price_too_expensive": 9000
+}
